@@ -23,9 +23,9 @@ En esta sección describimos el perfil de nuestra Startup.
     <body >
         <tr>
             <!-- DATOS del integrante 1-->
-            <td > 
-            <img src="" height="100"> 
-            <br>María  Alejandra Díaz Villacrez U202118315 
+            <td> 
+            <img src="../assets/img/chapter-I/AlejandraDiaz.jpg" height="100" width="100"> 
+            <br>María Alejandra Díaz Villacrez U202118315 
             </td>
             <!-- DESCRIPCIÓN del integrante 1-->
             <td >Soy estudiante de 7to ciclo de la carrera de Ingeniería de Software y desarrolladora fullstack especializada en tecnologías .NET. Mis intereses son aprender nuevas tecnologías y el desarrollo de videojuegos.</td>
@@ -35,7 +35,7 @@ En esta sección describimos el perfil de nuestra Startup.
         <tr>
             <!-- DATOS del integrante 2-->
             <td>
-            <img src="" height="100">
+            <img src="" height="100" width="100">
             <br>Estudiante - CODIGO
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
@@ -46,7 +46,7 @@ En esta sección describimos el perfil de nuestra Startup.
         <tr>
             <!-- DATOS del integrante 3-->
             <td>
-            <img src="" height="100">
+            <img src="" height="100" width="100">
             <br>Estudiante - CODIGO
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
@@ -57,7 +57,7 @@ En esta sección describimos el perfil de nuestra Startup.
         <tr>
             <!-- DATOS del integrante 4-->
             <td>
-            <img src="" height="100">
+            <img src="" height="100" width="100">
             <br>Estudiante - CODIGO
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
@@ -68,7 +68,7 @@ En esta sección describimos el perfil de nuestra Startup.
         <tr>
             <!-- DATOS del integrante 5-->
             <td>
-            <img src="" height="100">
+            <img src="" height="100" width="100">
             <br>Estudiante - CODIGO
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
