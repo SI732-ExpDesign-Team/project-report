@@ -39,11 +39,7 @@ En esta sección se detallan las historias de usuario.
     </tbody>
 </table>
 
-## 3.3. Impact Mapping
-
-En esta sección se detalla el mapa de impacto.
-
-## 3.4. Product Backlog
+## 3.3. Product Backlog
 
 En esta sección se presenta el backlog del producto.
 
@@ -74,3 +70,7 @@ En esta sección se presenta el backlog del producto.
         </tr>
     </tbody>
 </table>
+
+## 3.4. Impact Mapping
+
+En esta sección se detalla el mapa de impacto.
