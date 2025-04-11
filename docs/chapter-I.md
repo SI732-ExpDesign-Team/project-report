@@ -35,13 +35,13 @@ En esta sección describimos el perfil de nuestra Startup.
         <tr>
             <!-- DATOS del integrante 2-->
             <td>
-            <img src="" height="100" width="100">
+            <img src="../assets/img/chapter-I/PaoloParraga.png" height="100" width="80"> 
             <br>Estudiante - CODIGO
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
-            <td>Texto.</td>
+            <td>Soy Paolo Párraga, estudiante de ingeniería de software. Soy una persona que disfruta trabajar duro para lograr mis objetivos y nunca me rindo a pesar de los momentos difíciles. </td>
             <!-- CONOCIMIENTOS del integrante 2-->
-            <td>Texto.</td>
+            <td>Poseo conocimientos sobre C++, JavaScript, C#, Java, entre otros. Me gusta cumplir con las tareas asignadas así como ayudar a mic ompañeron de equipo y así mejorar el ambiente en general</td>
         </tr>
         <tr>
             <!-- DATOS del integrante 3-->
