@@ -22,7 +22,7 @@
 * **Maria Alejandra Díaz Villacrez  U202118315**
 * **Nombre Apellido    CODIGO**
 * **Nombre Apellido    CODIGO** 
-* **Nombre Apellido    CODIGO**
+* **Stefano Alessandro Valenzuela Vallejos    U202214695**
 
 <center>
 
