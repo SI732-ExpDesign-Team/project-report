@@ -54,7 +54,7 @@ Github Collaboration Insights proporciona un cronograma que muestra las principa
 - Nombre Apellido (usuarioGithub)
 - Nombre Apellido (usuarioGithub)
 - Nombre Apellido (usuarioGithub)
-- Nombre Apellido (usuarioGithub)
+- Stefano Alessandro Valenzuela Vallejos (AlessandroUPC)
 
 Se divieron las siguientes ramas para la colaboración en el proyecto:
 
