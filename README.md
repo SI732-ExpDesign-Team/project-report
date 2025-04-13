@@ -20,7 +20,7 @@
 
 * **Nombre Apellido    CODIGO**
 * **Maria Alejandra Díaz Villacrez  U202118315**
-* **Nombre Apellido    CODIGO**
+* **Mariana Alexandra Chambi Mendoza  U202217389**
 * **Nombre Apellido    CODIGO** 
 * **Stefano Alessandro Valenzuela Vallejos    U202214695**
 
@@ -51,7 +51,7 @@ URL del repositorio para el reporte del proyecto: https://github.com/SI732-ExpDe
 Github Collaboration Insights proporciona un cronograma que muestra las principales ramas y los procesos de fusión que han ocurrido. Todas las ramas se han generado siguiendo los principios de GitFlow, lo que garantiza una organización efectiva al utilizar un sistema de control de versiones.
 
 - Maria Alejandra Díaz Villacrez (alehandraxx)
-- Nombre Apellido (usuarioGithub)
+- Mariana Alexandra Chambi Mendoza (MarianaAlexandra05)
 - Nombre Apellido (usuarioGithub)
 - Nombre Apellido (usuarioGithub)
 - Stefano Alessandro Valenzuela Vallejos (AlessandroUPC)
@@ -436,7 +436,7 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 2 TB1 --> 
     <tr> 
       <td>
-      <b>Apellidos, Nombre TB1:</b> <br> 
+      <b>Chambi Mendoza, Mariana Alexandra TB1:</b> <br> 
       Texto  
     </td>   
     </tr>
