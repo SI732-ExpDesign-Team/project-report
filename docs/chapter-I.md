@@ -46,13 +46,13 @@ En esta sección describimos el perfil de nuestra Startup.
         <tr>
             <!-- DATOS del integrante 3-->
             <td>
-            <img src="" height="100" width="100">
-            <br>Estudiante - CODIGO
+            <img src="../assets/img/chapter-I/MarianaChambi.jpg" height="100" width="100"> 
+            <br>Mariana Alexandra Chambi Mendoza U202217389
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
-            <td>Texto.</td>
+            <td>Soy estudiante de Ingeniería de Software. Me caracterizo por ser empática, alegre, responsable y puntual, cualidades que reflejo en mi desempeño tanto académico como profesional. Busco demostrar el máximo de mis capacidades en todos los proyectos en los que participo, aportando siempre una actitud proactiva y colaborativa.</td>
             <!-- CONOCIMIENTOS del integrante 2-->
-            <td>Texto.</td>
+            <td>Poseo conocimientos en tecnologías orientadas al desarrollo web y móvil, como Angular, React, Vue y Flutter. Además, tengo experiencia en metodologías ágiles como Scrum y Kanban, así como en procesos de gestión de proyectos y desarrollo de software.</td>
         </tr>
         <tr>
             <!-- DATOS del integrante 4-->
