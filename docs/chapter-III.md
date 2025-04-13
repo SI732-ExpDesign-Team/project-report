@@ -1047,4 +1047,8 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 
 ## 3.4. Impact Mapping
 
-En esta sección se detalla el mapa de impacto.
+**Henry Silva**
+![ToBeHenry](/assets/img/chapter-III/Impact_map_HenryS.png)
+
+**Danilo Alvez**
+![ToBeDanilo](/assets/img/chapter-III/Impact_map_Danilo.png)
