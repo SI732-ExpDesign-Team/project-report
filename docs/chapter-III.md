@@ -900,67 +900,149 @@
     </body>
 </table>
 
-### 3.2.1. User Story Mapping
-
-### 3.2.2. User Stories
-
-<table>
-    <thead>
-        <tr>
-            <th>Epic / Story ID</th>
-            <th>Título</th>
-            <th>Descripción</th>
-            <th>Criterios de Aceptación</th>
-            <th>Relacionado con (Epic ID)</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>US001</td>
-            <td>Título de historia</td>
-            <td>Como [rol], quiero [acción] para [beneficio]</td>
-            <td>
-                <ul>
-                    <li>Criterio 1</li>
-                    <li>Criterio 2</li>
-                    <li>Criterio 3</li>
-                </ul>
-            </td>
-            <td>EP01</td>
-        </tr>
-    </tbody>
-</table>
 
 ## 3.3. Product Backlog
 
-En esta sección se presenta el backlog del producto.
+Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 
 <table>
-    <thead>
-        <tr>
-            <th>#</th>
-            <th>Epic/User Story</th>
-            <th>Descripción</th>
-            <th>Criterios de Aceptación</th>
-            <th>Prioridad</th>
-            <th>Story Points</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1</td>
-            <td>US001</td>
-            <td>Como [rol], quiero [acción] para [beneficio]</td>
-            <td>
-                <ul>
-                    <li>Criterio 1</li>
-                    <li>Criterio 2</li>
-                </ul>
-            </td>
-            <td>Alta</td>
-            <td>5</td>
-        </tr>
-    </tbody>
+        <thead>
+            <tr>
+                <th>Orden</th>
+                <th>User Story Id</th>
+                <th>Título</th>
+                <th>Descripción</th>
+                <th>Story Points (1/2/3/5/8)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>US-018</td>
+                <td>Cambiar idioma</td>
+                <td>Como visitante del landing page, quiero acceder a una versión en otro idioma, 
+                    para poder entender mejor la información y navegar con mayor facilidad.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>US-001</td>
+                <td>Hipervínculos en el encabezado</td>
+                <td>Como visitante de la landing page, quiero que las opciones del encabezado me dirijan a las 
+                diferentes secciones de la Landing Page para, poder navegar de forma rapida y fluida.</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>US-005</td>
+                <td>Información sobre el producto</td>
+                <td> Como usuario que visita la landing page, quiero entender claramente qué ofrece el producto
+                para poder tomar una decisión informada sobre si adquirirlo o no.</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>US-002</td>
+                <td>Información sobre beneficios de la aplicación</td>
+                <td>Como usuario, quiero saber más sobre los beneficios de la aplicación web para considerar 
+                ser miembro de la aplicacion.</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>US-003</td>
+                <td>Mostrar los planes disponibles</td>
+                <td>Como visitante del landing page, quiero saber sobre los planes que tiene, para poder analizar 
+                si el plan que me ofrecen se adecua a las necesidades de mi negocio.</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>US-025</td>
+                <td>Visualizar testimonios de los usuarios que han utilizado la aplicación</td>
+                <td>Como usuario visitante de la landing page, quiero saber la opinión de los usuarios que han
+                utilizado la aplicación para tener una referencia de la experiencia de estos usuarios con el producto.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>US-004</td>
+                <td>Información útil en el footer</td>
+                <td>Como usuario que visita la landing page, quiero encontrar información útil en el footer para
+                poder contactarme con la empresa, conocer más sobre ella, leer sus políticas y seguirla en redes sociales.</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>US-26</td>
+                <td>Visualizar formulario de contacto</td>
+                <td>Como usuario visitante de la landing page, quiero contar con opciones de contacto con la startup para preguntar más información sobre el producto o servicio.</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>US-006</td>
+                <td>Subir contenido a un portafolio</td>
+                <td>Como usuario remodelador, quiero poder subir contenido multimedia a mi portafolio online para poder promocionar servicios y proyectos pasados a mis posibles clientes.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>US-007</td>
+                <td>Búsqueda de empresas remodeladoras</td>
+                <td>Como visitante del segmento contratista, quiero poder buscar remodeladoras por ubicación o expertise para obtener un resultado más personalizado.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>US-012</td>
+                <td>Crear cuenta contratista</td>
+                <td>Como usuario contratista, quiero poder crear una cuenta en ReStyle para poder acceder al mercado qué provee</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td>US-013</td>
+                <td>Crear cuenta remodelador</td>
+                <td>Como usuario remodelador, quiero poder crear una cuenta en ReStyle para poder acceder al mercado qué provee</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td>US-008</td>
+                <td>Revisar críticas y opiniones</td>
+                <td>Como visitante del segmento contratista, quiero ver las opiniones de otros clientes para tener una idea de la calidad del trabajo del remodelador.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>14</td>
+                <td>US-016</td>
+                <td>Programar Consulta con un Remodelador</td>
+                <td>Como propietario de vivienda interesado en remodelar, quiero poder programar uan consulta con un remodelador a través de la plataforma para discutir mis necesidades y obtener recomendaciones</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>15</td>
+                <td>US-015</td>
+                <td>Seguimiento de proyecto</td>
+                <td>Como usuario remodelador, quiero poder ver los hitos del seguimiento mi proyecto para saber en qué estado y etapa se encuentra el proyecto de diseño.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>16</td>
+                <td>US-10</td>
+                <td>Gestión de solicitudes al servidor</td>
+                <td>Como desarrollador, quiero asegurarme de que el API pueda gestionar múltiples solicitudes de varios dispositivos para que el sistema funcione sin interrupciones durante temporadas de alta demanda.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>17</td>
+                <td>US-11</td>
+                <td>Autorización y seguridad de acceso al API</td>
+                <td>Como desarrollador, quiero poder configurar una autenticación y autorización segura en el API para garantizar que solos los usuarios admin puedan acceder al sistema.</td>
+                <td>3</td>
+            </tr>
+        </tbody>
 </table>
 
 ## 3.4. Impact Mapping
