@@ -19,7 +19,7 @@ posteriormente identificar y plantear estrategias que habrá que poner en marcha
     <tbody style="text-align: center">
         <tr>
             <th colspan="2"></th>
-            <th><img src="../assets/img/chapter-II/restyle.png" height="100" width="100"></th> 
+            <th><img src="../assets/img/chapter-II/restyle-logo.png" height="100" width="100"></th> 
             <th><img src="../assets/img/chapter-II/aram.png" height="100" width="100"></th>
             <th><img src="../assets/img/chapter-II/remodulatucasa.jpg" height="100" width="100"></th>
             <th><img src="../assets/img/chapter-II/timbrit.jpg" height="100" width="100"></th>
@@ -280,216 +280,184 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
 ### 2.2.2. Registro de entrevistas.
 
 ## Entrevistas a segmento objetivo 1
+Entrevista a Contratistas
 
 <table>
         <thead>
             <tr>
                 <th>Entrevistado 1</th>
-                <th>Nombre</th>
+                <th>Diego Cantoral</th>
             </tr>
             <tr>
                 <th>Entrevistador </th>
-                <th>Nombre</th>
+                <th>Daniel Valverde</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>21</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>Pueblo Libre</td>
             </tr>
             <tr>
-                <td><img src=""></td>
-                <td><strong>Resumen:</strong><br></td>
+                <td><img src="../assets/img/chapter-II/Entrevista1_Contratistas.png" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br>Diego es un joven estudiante, quien nos cuenta en primer lugar 
+                sus preferencias personales. Instagram es la aplicación que más usa y en general le gusta escuchar
+                música. Domina de forma avanzada los aparatos tecnológicos. Respecto a la temática principal nos comenta 
+                una experiencia que tuvo con la empresa Promart, él necesitaba un cambio de setup para su computadora, 
+                lamentablemente no resultó como él esperaba. Sobre las posibles opciones de la aplicación que se le 
+                mencionaron, comentó que le parece importante contar con reseñas para verificar los trabajos previos y 
+                un seguimiento de la remodelación para mantenerse informado y vaya de acuerdo a lo pedido.</td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>0:00 min</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>https://shorturl.at/acGL6</td>
             </tr>
-        </tbody>
-                <thead>
             <tr>
                 <th>Entrevistado 2</th>
-                <th>Nombre</th>
-            </tr>
+                <th>Jose Gutierrez</th>
             <tr>
                 <th>Entrevistador </th>
-                <th>Nombre</th>
+                <th>Alejandra Diaz</th>
             </tr>
-        </thead>
-        <tbody>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>26</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>Lima</td>
             </tr>
             <tr>
-                <td><img src=""></td>
-                <td><strong>Resumen:</strong><br></td>
-            </tr>
-            <tr>
-                <td>Timing de la entrevista</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>URL de la entrevista</td>
-                <td></td>
-            </tr>
-        </tbody>
-                <thead>
-            <tr>
-                <th>Entrevistado 3</th>
-                <th>Nombre</th>
-            </tr>
-            <tr>
-                <th>Entrevistador </th>
-                <th>Nombre</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Edad</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Distrito</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td><img src=""></td>
-                <td><strong>Resumen:</strong><br></td>
+            <td><img src="../assets/img/chapter-II/interviewClient.png" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br>El entrevistado nos comenta que previamente ha contratado servicios de remodelacion, pero estas experiencias han sido de manera presencial y nunca mediante una plataforma online. Ademas, nos cuenta que este proceso ha sido dificil debido a la falta de transparencia y reseñas online que le permitan tomar una decision informada. Finalmente, explica que estaria dispuesto a utilizar una plataforma online para contratar servicios de remodelacion y que le gustaria encontrar reviews y un seguimiento en tiempo real para saber el proceso del proyecto. </td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>5:08 min</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>https://shorturl.at/acGL6</td>
             </tr>
         </tbody>
 </table>
 
 ## Entrevista a segmento objetivo 2
+Entrevista a Remodeladores
 
 <table>
         <thead>
             <tr>
                 <th>Entrevistado 1</th>
-                <th>Nombre</th>
-            </tr>
+                <th>Rodrigo Porles</th>
             <tr>
                 <th>Entrevistador </th>
-                <th>Nombre</th>
+                <th>Daniel Valverde</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>20</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>Santiago de Surco</td>
             </tr>
             <tr>
-                <td><img src=""></td>
-                <td><strong>Resumen:</strong><br></td>
+                <td><img src="../assets/img/chapter-II/RodrigoRemodelador.png" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br>Rodrigo es un joven practicante de la carrera de arquitectura.
+                Actualmente trabaja en una empresa dedicada a la remodelación de interiores. Nos cuenta que la comunicación
+                y coordinación se da mediante Whatsapp y correo electrónico. Para al aspecto de calidad de trabajo, buscan
+                siempre trabajar con materiales de calidad y realizan controles en el proceso de remodelación. Se comunican 
+                principalmente por Whatsapp con sus clientes debido a la fácil accesibilidad de esta aplicación. Promocionan 
+                sus trabajos en la red social Facebook y esto es un diferenciador con respecto a la competencia. Por último,
+                nos comenta la necesidad de una plataforma la cual les permita ampliar la llegada a más clientes y de esta
+                forma crecer como empresa.</td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>10:05min</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>https://shorturl.at/acGL6</td>
             </tr>
-        </tbody>
-                <thead>
             <tr>
                 <th>Entrevistado 2</th>
-                <th>Nombre</th>
-            </tr>
+                <th>Olga Samanez (Innovacion Interiores)</th>
             <tr>
                 <th>Entrevistador </th>
-                <th>Nombre</th>
+                <th>Alejandra Diaz</th>
             </tr>
-        </thead>
-        <tbody>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>52</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>Pueblo Libre</td>
             </tr>
             <tr>
-                <td><img src=""></td>
-                <td><strong>Resumen:</strong><br></td>
+                <td><img src="../assets/img/chapter-II/InnovacionInterioresEntrevista.png" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br> La empresa de diseño de interiores InnovacionInteriores lleva unos pocos años en el mercado. Su creadora nos comenta que utilizan una serie de regulaciones y pasos para asegurar que la calidad de su trabajo sea la mejor cualidad de su empresa. Se comunican con sus clientes de manera online y presencial. Además, promocionan sus servicios en redes sociales. En conclusión, esta empresa está familiarizada con productos tecnológicos que le facitan alcanzar más clientes y expandir su potencial.</td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>14:46 min</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>https://shorturl.at/acGL6</td>
             </tr>
-        </tbody>
-                <thead>
             <tr>
                 <th>Entrevistado 3</th>
-                <th>Nombre</th>
-            </tr>
+                <th>Victor Eladio Sobrino Chunga</th>
             <tr>
                 <th>Entrevistador </th>
-                <th>Nombre</th>
+                <th> Janover Saldaña</th>
             </tr>
-        </thead>
-        <tbody>
             <tr>
-                <td>Edad</td>
-                <td></td>
+                <td>Edad: </td>
+                <td> 23</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td> Chorrillos - Lima</td>
             </tr>
             <tr>
-                <td><img src=""></td>
-                <td><strong>Resumen:</strong><br></td>
+            <td><img src="../assets/img/chapter-II/entrevista-victor-eladio.png" alt="Foto de entrevista"></td>
+            <td><strong>Resumen: </strong><br>
+                La persona entrevistada mencionó que actualmente trabaja de forma independiente, el entrevistado nos comentó que al momento de brindar servicios suele tener mayor dificultad al momento de llegar a ciertos acuerdos con el cliente con respecto al diseño que está proporcionando como colores, materiales y posiciones, con respecto a la gestión de sus proyectos, el entrevistado suele agendarlo en un calendario virtual, del mismo modo el entrevistado comentó que l calidad es indispensable al momento de realizar sus proyectos es por ello que brinda información de los materiales de mayor calidad al cliente para su consideración, también mencionó que ha tenido pocas incidencias con respecto a quejas de sus clientes, en cuanto a seguridad, el cliente menciona que siempre suele trabajar con un arquitecto de su confianza y saca todos los permisos correspondientes ante las entidades públicas, la diferenciación del entrevistado con respecto a otras personas o empresas es que siempre trata de brindar diseños únicos y utilizar materiales de calidad. 
+            </td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>20:46 min</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>https://shorturl.at/acGL6</td>
             </tr>
-        </tbody>
 </table>
 
 
 ### 2.2.3. Análisis de entrevistas.
 Después de escuchar y comprender a los entrevistados, pudimos obtener estadísticas clave que nos serán útiles para desarrollar los requisitos. El 100% de los entrevistados tiene más de 20 años. Además, se determinó que todos en este segmento tienen al menos un nivel intermedio de habilidad en el manejo de dispositivos tecnológicos. 
 
-<img src="../assets/img/chapter-II/ing1.png" height="200" width="300">
+<img src="../assets/img/chapter-II/estadisticaContratistas2.png" alt="cuadro estadistico">
 
 A partir de las entrevistas realizadas a este segmento, se llevó a cabo una evaluación que arrojó las siguientes estadísticas:  
 
-<img src="../assets/img/chapter-II/img2.png" height="300" width="400">
+<img src="../assets/img/chapter-II/estadisticaRemodeladores2.png" alt="cuadro estadistico">
 
 El 84% de los encuestados utiliza medios de comunicación virtuales como WhatsApp o Facebook para mantener contacto directo con sus clientes, mientras que el 16% prefiere hacerlo de manera presencial y así mantener una comunicación a tiempo real y presencial con el cliente. Además, el 100% coincidió en la necesidad de mejorar el proceso de atención al cliente, destacando la importancia de actualizar continuamente el estado de los trabajos de remodelación. 
 ## 2.3. Needfinding. 
@@ -497,6 +465,8 @@ Comprender las necesidades y requisitos de los usuarios es crucial para el éxit
 
 ### 2.3.1. User Personas.
 
+![UPHS.png](/assets/img/chapter-II/UPHS.png)
+![UPDA.png](/assets/img/chapter-II/UPDA.png)
 
 ### 2.3.2. User Task Matrix.
 
@@ -576,10 +546,22 @@ Comprender las necesidades y requisitos de los usuarios es crucial para el éxit
 
 
 ### 2.3.3. User Journey Mapping.
-
+**Henry Silva**
+![JHenry.png](/assets/img/chapter-II/JHenry.png)
+**Danilo Alves**
+![JDanilo.png](/assets/img/chapter-II/JDanilo.png)
+### 2.3.4. Empathy Mapping.
+**Henry Silva**
+![EMHS.png](/assets/img/chapter-II/EMHS.png)
+**Danilo Alves**
+![EMDA.png](/assets/img/chapter-II/EMDA.png)
 
 ### 2.3.5. As-is Scenario Mapping.
+**Henry Silva**
+![AsIsDanilo.jpg](/assets/img/chapter-II/AsIsDanilo.jpg)
 
+**Danilo Alves**
+![AsIsHenry.jpg](/assets/img/chapter-II/AsIsHenry.jpg)
 
 ## 2.4. Ubiquitous Language.
 
