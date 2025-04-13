@@ -2,7 +2,11 @@
 
 ## 3.1. To-Be Scenario Mapping
 
-En esta sección se describe el mapeo de escenarios futuros.
+**Henry Silva**
+![ToBeHenry](/assets/img/chapter-III/ToBeHenry.jpg)
+
+**Danilo Alvez**
+![ToBeDanilo](/assets/img/chapter-III/ToBeDanilo.jpg)
 
 ## 3.2. User Stories
 
