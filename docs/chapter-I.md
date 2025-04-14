@@ -46,17 +46,6 @@ En esta sección describimos el perfil de nuestra Startup.
         <tr>
             <!-- DATOS del integrante 3-->
             <td>
-            <img src="../assets/img/chapter-I/ElyCortez.png" height="100" width="100">
-            <br>Ely Rivaldo Cortez Flores - U202215313
-            </td>
-            <!-- DESCRIPCIÓN del integrante 3-->
-            <td>Mi nombre es Ely Rivaldo Cortez Flores, tengo 19 años y actualmente curso el 7to ciclo.</td>
-            <!-- CONOCIMIENTOS del integrante 3-->
-            <td>Tengo experiencia en diversos lenguajes de programación, como C#, Go y JavaScript. Me considero una persona responsable y empática, especialmente al trabajar en equipo. Espero contribuir de manera efectiva para sacar adelante el proyecto.</td>
-        </tr>
-        <tr>
-            <!-- DATOS del integrante 4-->
-            <td>
             <img src="" height="100" width="100">
             <br>Estudiante - CODIGO
             </td>
@@ -64,6 +53,17 @@ En esta sección describimos el perfil de nuestra Startup.
             <td>Texto.</td>
             <!-- CONOCIMIENTOS del integrante 2-->
             <td>Texto.</td>
+        </tr>
+        <tr>
+            <!-- DATOS del integrante 3-->
+            <td>
+            <img src="../assets/img/chapter-I/ElyCortez.png" height="100" width="100">
+            <br>Ely Rivaldo Cortez Flores - U202215313
+            </td>
+            <!-- DESCRIPCIÓN del integrante 3-->
+            <td>Mi nombre es Ely Rivaldo Cortez Flores, tengo 19 años y actualmente curso el 7to ciclo.</td>
+            <!-- CONOCIMIENTOS del integrante 3-->
+            <td>Tengo experiencia en diversos lenguajes de programación, como C#, Go y JavaScript. Me considero una persona responsable y empática, especialmente al trabajar en equipo. Espero contribuir de manera efectiva para sacar adelante el proyecto.</td>
         </tr>
         <tr>
             <!-- DATOS del integrante 5-->
