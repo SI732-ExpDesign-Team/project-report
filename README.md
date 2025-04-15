@@ -2,7 +2,7 @@
 
 # Universidad Peruana De Ciencas Aplicadas
 ## 1ASI0732 Diseño de Experimentos de Ingeniería de Software
-### INGENIERÍA DE SISTEMAS DE SOFTWARE
+### INGENIERÍA DE SOFTWARE
 
 </center>
 
