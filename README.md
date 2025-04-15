@@ -18,7 +18,7 @@
 
  </center> 
 
-* **Nombre Apellido    CODIGO**
+* **Ely Rivaldo Cortez Flores U202215313**
 * **Maria Alejandra Díaz Villacrez  U202118315**
 * **Mariana Alexandra Chambi Mendoza  U202217389**
 * **Nombre Apellido    CODIGO** 
@@ -52,7 +52,7 @@ Github Collaboration Insights proporciona un cronograma que muestra las principa
 
 - Maria Alejandra Díaz Villacrez (alehandraxx)
 - Mariana Alexandra Chambi Mendoza (MarianaAlexandra05)
-- Nombre Apellido (usuarioGithub)
+- Ely Rivaldo Cortez Flores (rivacortez)
 - Nombre Apellido (usuarioGithub)
 - Stefano Alessandro Valenzuela Vallejos (AlessandroUPC)
 
@@ -443,7 +443,7 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 3 TB1-->
      <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
+        <b>Cortez Flores, Ely Rivaldo TB1:</b><br>
         Texto
       </td>    
     </tr>
@@ -492,7 +492,7 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 3 TB1-->
      <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
+        <b>Cortez Flores, Ely Rivaldo TB1:</b><br>
         Texto
       </td>    
     </tr>
