@@ -27,7 +27,7 @@
 <center>
 
 ### Abril 2025
-### Ciclo: 2025 - 10
+### Ciclo: 2025-01
 ### NRC: 4430
 
 </center>
