@@ -444,7 +444,7 @@ líneas de código que se han modificado en cada uno de los commits.
      <tr>   
       <td>
         <b>Cortez Flores, Ely Rivaldo TB1:</b><br>
-        Texto
+        Durante la elaboración del mapa de impacto, reconocí la importancia de asumir una responsabilidad ética y profesional en cada decisión tomada. Identifiqué de forma consciente a los segmentos objetivos involucrados, analicé los posibles impactos que podría generar el sistema en cada uno de ellos y propuse entregables que no solo respondieran a los requerimientos funcionales, sino que también consideraran principios como la privacidad, la equidad, la seguridad y el bienestar del usuario final. Este proceso me permitió comprender cómo las decisiones en ingeniería de software pueden influir en la sociedad.
       </td>    
     </tr>
     <!-- Estudiante 4 TB1-->
@@ -493,7 +493,7 @@ líneas de código que se han modificado en cada uno de los commits.
      <tr>   
       <td>
         <b>Cortez Flores, Ely Rivaldo TB1:</b><br>
-        Texto
+        Durante la elaboración del mapa de impacto, tomé decisiones fundamentadas analizando cómo las soluciones de ingeniería de software podían influir en contextos globales, económicos, ambientales y sociales. Consideré no solo los aspectos técnicos, sino también cómo estas decisiones afectarían la sostenibilidad, el acceso justo a la tecnología y el entorno en el que serían aplicadas. Este ejercicio me ayudó a desarrollar un criterio más consciente y profesional, entendiendo que las soluciones tecnológicas deben adaptarse con responsabilidad a distintas realidades y aportar de manera positiva a la sociedad.
       </td>    
     </tr>
     <!-- Estudiante 4 TB1-->
