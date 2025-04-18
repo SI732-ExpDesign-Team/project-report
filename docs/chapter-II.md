@@ -318,7 +318,7 @@ Entrevista a Contratistas
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td>https://shorturl.at/acGL6</td>
+                <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ET1QS27QI8FIp31HoL_PQVoB4ZOZMMzHz00ElPWsFPpE1Q?e=t2hWIb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link de entrevistas</a></td>
             </tr>
             <tr>
                 <th>Entrevistado 2</th>
@@ -341,11 +341,11 @@ Entrevista a Contratistas
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td>5:08 min</td>
+                <td>11:30 min</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td>https://shorturl.at/acGL6</td>
+                <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ET1QS27QI8FIp31HoL_PQVoB4ZOZMMzHz00ElPWsFPpE1Q?e=t2hWIb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link de entrevistas</a></td>
             </tr>
             <tr>
                 <th>Entrevistado 3</th>
@@ -372,7 +372,7 @@ Entrevista a Contratistas
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td>https://shorturl.at/acGL6</td>
+                <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ET1QS27QI8FIp31HoL_PQVoB4ZOZMMzHz00ElPWsFPpE1Q?e=t2hWIb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link de entrevistas</a></td>
             </tr>
         </tbody>
 </table>
@@ -416,7 +416,7 @@ Entrevista a Remodeladores
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td>https://shorturl.at/acGL6</td>
+                <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ET1QS27QI8FIp31HoL_PQVoB4ZOZMMzHz00ElPWsFPpE1Q?e=t2hWIb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link de entrevistas</a></td>
             </tr>
             <tr>
                 <th>Entrevistado 2</th>
@@ -439,11 +439,11 @@ Entrevista a Remodeladores
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td>14:46 min</td>
+                <td>28:46 min</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td>https://shorturl.at/acGL6</td>
+                <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ET1QS27QI8FIp31HoL_PQVoB4ZOZMMzHz00ElPWsFPpE1Q?e=t2hWIb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link de entrevistas</a></td>
             </tr>
             <tr>
                 <th>Entrevistado 3</th>
@@ -472,7 +472,7 @@ Entrevista a Remodeladores
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td>https://shorturl.at/acGL6</td>
+                <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ET1QS27QI8FIp31HoL_PQVoB4ZOZMMzHz00ElPWsFPpE1Q?e=t2hWIb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link de entrevistas</a></td>
             </tr>
 </table>
 
