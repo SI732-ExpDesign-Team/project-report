@@ -72,11 +72,31 @@
 
 ## 9.1. Conclusiones y recomendaciones
 
+- La plataforma ReStyle surge como respuesta a una necesidad real en el mercado peruano, respaldada por datos estadísticos del INEI e IPSOS que muestran un crecimiento tanto en el sector de remodelación (7% de personas con planes para remodelar su vivienda) como en la adopción tecnológica por parte de las PYMES (94% han invertido en tecnología recientemente).
+
+- La aplicación de metodologías Lean UX y Design Thinking permitió una comprensión profunda de los segmentos objetivos (contratistas y remodeladores), evidenciada en las entrevistas realizadas y en el desarrollo de User Personas, User Journey Mapping y Empathy Mapping, que revelan puntos de dolor específicos como la falta de transparencia y dificultad para encontrar profesionales confiables.
+
+- El análisis competitivo identificó ventajas claras frente a competidores como ARAM, Remodela tu casa y Timbrit, centrándose en la conexión directa entre clientes y profesionales, la transparencia en el seguimiento de proyectos y un modelo de monetización basado en suscripciones premium para remodeladores.
+
+- La definición de guías de estilo de código, convenciones de nomenclatura y el uso de GitFlow como sistema de control de versiones demuestran un enfoque profesional que facilita la colaboración entre los miembros del equipo y asegura la calidad del producto final.
+
+- El proyecto no solo se centra en el desarrollo técnico, sino que contempla todos los aspectos del ciclo de vida del producto, desde la investigación inicial y definición de requerimientos hasta la implementación, despliegue y promoción, evidenciado en la landing page funcional y el video promocional del producto.
+
 ## 9.2. Video About-the-Team
 
 # Capítulo X: Bibliografía 
 
-# Capítulo XI: Anexos 
+Instituto Nacional de Estadística e Informática. (2018). En el país existen más de diez millones de viviendas particulares censadas. https://m.inei.gob.pe/prensa/noticias/en-el-pais-existen-mas-de-diez-millones-de-viviendas-particulares-censadas-10893/
+
+Instituto Nacional de Estadística e Informática. (2018). Informe Técnico N° 02: Demografía empresarial - I Trimestre 2018. https://www.inei.gob.pe/media/MenuRecursivo/boletines/02-informe-tecnico-n-02-demografia-empresarial-i-trim2018_may2018.pdf
+
+Interaction Design Foundation. (s.f.). A simple introduction to Lean UX. https://www.interaction-design.org/literature/article/a-simple-introduction-to-lean-ux
+
+Ipsos. (2019). Planes para la vivienda y el mejoramiento del hogar 2019. https://www.ipsos.com/es-pe/planes-para-la-vivienda-y-el-mejoramiento-del-hogar-2019
+
+Microsoft. (2022). Aceleración digital: Más del 94% de las pymes peruanas invirtió en tecnología en el último año [Comunicado de prensa]. https://news.microsoft.com/es-xl/aceleracion-digital-mas-del-94-de-las-pymes-peruanas-invirtio-en-tecnologia-en-el-ultimo-ano/
+
+Terrel, E. (2023). Cinco razones por las que los peruanos eligen remodelar su vivienda. Peru Construye. https://peruconstruye.net/2023/08/03/cinco-razones-eligen-remodelar-vivienda/
 
 # Capítulo XI: Anexos 
 
@@ -102,10 +122,16 @@
   </tr>
   <!--SEGUNDA FILA-->
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>About the Product</td>
+    <td>      
+      Cantidad de videos: 1<br>
+      Nomenclatura: upc-pre-202501-1asi0732-4430-estrellados-about-the-product-sprint-1<br>
+      Formato: .mp4<br>
+      Duración: 1:00 min</td>
+    <td>
+    Orientación promocional, resumiendo el modelo de negocio, las características y beneficios del producto, incluyendo algunas escenas de interacción con el producto y al menos una opinión por cada segmento objetivo.</td>
+    <td>Enlace: <a href="https://www.youtube.com/embed/T2M434QKT4k">Link de Youtube</a>
+    <br>Captura:<br> <img src="../assets/img/chapter-V/video-about-the-product.png" alt="" width=200px></td>
   </tr>
   <!--TERCERA FILA-->
   <tr>
