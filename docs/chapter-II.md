@@ -384,35 +384,29 @@ Entrevista a Remodeladores
         <thead>
             <tr>
                 <th>Entrevistado 1</th>
-                <th>Rodrigo Porles</th>
+                <th>Camila Sanchez</th>
+            </tr>
             <tr>
                 <th>Entrevistador </th>
-                <th>Daniel Valverde</th>
+                <th>Mariana Chambi</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Edad</td>
-                <td>20</td>
+                <td>24</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td>Santiago de Surco</td>
+                <td>San Isidro</td>
             </tr>
             <tr>
-                <td><img src="../assets/img/chapter-II/RodrigoRemodelador.png" alt="Foto de entrevista"></td>
-                <td><strong>Resumen:</strong><br>Rodrigo es un joven practicante de la carrera de arquitectura.
-                Actualmente trabaja en una empresa dedicada a la remodelación de interiores. Nos cuenta que la comunicación
-                y coordinación se da mediante Whatsapp y correo electrónico. Para al aspecto de calidad de trabajo, buscan
-                siempre trabajar con materiales de calidad y realizan controles en el proceso de remodelación. Se comunican 
-                principalmente por Whatsapp con sus clientes debido a la fácil accesibilidad de esta aplicación. Promocionan 
-                sus trabajos en la red social Facebook y esto es un diferenciador con respecto a la competencia. Por último,
-                nos comenta la necesidad de una plataforma la cual les permita ampliar la llegada a más clientes y de esta
-                forma crecer como empresa.</td>
+                <td><img src="../assets/img/chapter-II/entrevista-camila.png" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br>Camila, de 24 años y estudiante de arquitectura, trabaja como practicante en una empresa de remodelación de interiores. En su experiencia, el mayor desafío de la empresa es la falta de comunicación fluida y la organización en la gestión de proyectos. Actualmente, utilizan WhatsApp y correo electrónico para coordinarse, pero consideran que el proceso es desorganizado. Aseguran la calidad con materiales de alta calidad y controles constantes. La comunicación con los clientes se realiza principalmente por WhatsApp, aunque enfrentan dificultades para gestionar quejas. Los servicios más solicitados son la remodelación de cocinas, baños y espacios comunes en apartamentos. Camila sugiere implementar una plataforma tecnológica para mejorar la gestión de proyectos y la comunicación con los clientes, lo que optimizaría la eficiencia y satisfacción.</td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td>10:05min</td>
+                <td>5:10 min</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
