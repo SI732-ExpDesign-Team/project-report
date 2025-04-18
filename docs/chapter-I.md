@@ -59,7 +59,7 @@ Consolidarnos como referentes en innovación tecnológica, promoviendo el desarr
             <td>Poseo conocimientos en tecnologías orientadas al desarrollo web y móvil, como Angular, React, Vue y Flutter. Además, tengo experiencia en metodologías ágiles como Scrum y Kanban, así como en procesos de gestión de proyectos y desarrollo de software.</td>
         </tr>
         <tr>
-            <!-- DATOS del integrante 4-->
+            <!-- DATOS del integrante 3-->
             <td>
             <img src="../assets/img/chapter-I/StefanoValenzuela.png" height="100" width="75">
             <br>Stefano Alessandro Valenzuela Vallejos - U202214695
@@ -74,13 +74,13 @@ Consolidarnos como referentes en innovación tecnológica, promoviendo el desarr
         <tr>
             <!-- DATOS del integrante 5-->
             <td>
-            <img src="" height="100" width="100">
-            <br>Estudiante - CODIGO
+           <img src="../assets/img/chapter-I/ElyCortez.png" height="100" width="100">
+            <br>Ely Rivaldo Cortez Flores - U202215313
             </td>
-            <!-- DESCRIPCIÓN del integrante 2-->
-            <td>Texto.</td>
-            <!-- CONOCIMIENTOS del integrante 2-->
-            <td>Texto.</td>
+            <!-- DESCRIPCIÓN del integrante 3-->
+            <td>Mi nombre es Ely Rivaldo Cortez Flores, tengo 19 años y actualmente curso el 7to ciclo.</td>
+            <!-- CONOCIMIENTOS del integrante 3-->
+            <td>Tengo experiencia en diversos lenguajes de programación, como C#, Go y JavaScript. Me considero una persona responsable y empática, especialmente al trabajar en equipo. Espero contribuir de manera efectiva para sacar adelante el proyecto.</td>
         </tr>
     </body>
 </table>
