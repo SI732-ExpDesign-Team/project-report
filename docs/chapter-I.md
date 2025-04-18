@@ -51,6 +51,17 @@ Consolidarnos como referentes en innovación tecnológica, promoviendo el desarr
         <tr>
             <!-- DATOS del integrante 3-->
             <td>
+            <img src="" height="100" width="100">
+            <br>Estudiante - CODIGO
+            </td>
+            <!-- DESCRIPCIÓN del integrante 2-->
+            <td>Texto.</td>
+            <!-- CONOCIMIENTOS del integrante 2-->
+            <td>Texto.</td>
+        </tr>
+        <tr>
+            <!-- DATOS del integrante 4-->
+            <td>
             <img src="../assets/img/chapter-I/StefanoValenzuela.jpeg" height="100" width="75">
             <br>Stefano Alessandro Valenzuela Vallejos - U202214695
             </td>
@@ -60,17 +71,6 @@ Consolidarnos como referentes en innovación tecnológica, promoviendo el desarr
             <td>Conocimientos en
                 Python, C++, HTML, SQL, ACL Analytics, Web Scraping, Power BI, NumPy,       matplotlib, socket, redes TCP/IP, auditoría TI (COSO y COBIT), SOC 1
             </td>
-        </tr>
-        <tr>
-            <!-- DATOS del integrante 4-->
-            <td>
-            <img src="" height="100" width="100">
-            <br>Estudiante - CODIGO
-            </td>
-            <!-- DESCRIPCIÓN del integrante 2-->
-            <td>Texto.</td>
-            <!-- CONOCIMIENTOS del integrante 2-->
-            <td>Texto.</td>
         </tr>
         <tr>
             <!-- DATOS del integrante 5-->
