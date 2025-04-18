@@ -78,8 +78,40 @@
 
 # Capítulo XI: Anexos 
 
-| Sección | Características del video | Sobre el contenido | Integración y entrega |
-|---------|---------------------------|--------------------|-----------------------|
-|         |                           |                    |                       |
-|         |                           |                    |                       |
-|         |                           |                    |                       |
+# Capítulo XI: Anexos 
+
+<table>
+  <tr>
+    <th>Sección</th>
+    <th>Características del video</th>
+    <th>Sobre el contenido</th>
+    <th>Integración y entrega</th>
+  </tr>
+  <!--PRIMERA FILA-->
+  <tr>
+    <td>Entrevistas</td>
+    <td>
+      Cantidad de videos: 1<br>
+      Nomenclatura: upc-pre-202501-1asi0732-4430-estrellados-needfinding-sprint-1<br>
+      Formato: .mp4<br>
+      Duración: 28:27 min
+    </td>
+    <td>Consolida todas las entrevistas realizadas, incluyendo en cada entrevista títulos con información del entrevistado, el segmento objetivo y la fecha de la entrevista.</td>
+    <td>Enlace: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ET1QS27QI8FIp31HoL_PQVoB4ZOZMMzHz00ElPWsFPpE1Q?e=t2hWIb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link de entrevistas</a>
+    <br>Captura:<br> <img src="../assets/img/chapter-II/needfinding-tb1.png" alt="Foto de entrevista" width=200px></td>
+  </tr>
+  <!--SEGUNDA FILA-->
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <!--TERCERA FILA-->
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
