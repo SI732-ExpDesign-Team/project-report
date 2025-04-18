@@ -450,7 +450,7 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
-      <b>Apellidos, Nombre TB1:</b><br>
+      <b>Valenzuela Vallejos, Stefano Alessandro  TB1:</b><br>
        Texto</td>   
     </tr>
     <!-- Estudiante 5 TB1-->
@@ -499,7 +499,7 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
-      <b>Apellidos, Nombre TB1:</b><br>
+      <b>Valenzuela Vallejos, Stefano Alessandro TB1:</b><br>
        Texto</td>   
     </tr>
     <!-- Estudiante 5 TB1-->
