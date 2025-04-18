@@ -40,7 +40,7 @@ Consolidarnos como referentes en innovación tecnológica, promoviendo el desarr
             <!-- DATOS del integrante 2-->
             <td>
             <img src="../assets/img/chapter-I/PaoloParraga.png" height="100" width="80"> 
-            <br>Estudiante - CODIGO
+            <br>Paolo Gonzalo Párraga Gamarra u202219186
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
             <td>Soy Paolo Párraga, estudiante de ingeniería de software. Soy una persona que disfruta trabajar duro para lograr mis objetivos y nunca me rindo a pesar de los momentos difíciles. </td>
