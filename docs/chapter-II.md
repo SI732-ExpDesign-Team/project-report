@@ -347,6 +347,33 @@ Entrevista a Contratistas
                 <td>URL de la entrevista</td>
                 <td>https://shorturl.at/acGL6</td>
             </tr>
+            <tr>
+                <th>Entrevistado 3</th>
+                <th>Pablo Mendez</th>
+            <tr>
+                <th>Entrevistador </th>
+                <th>Stefano Valenzuela</th>
+            </tr>
+            <tr>
+                <td>Edad</td>
+                <td>23</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>Lima</td>
+            </tr>
+            <tr>
+            <td><img src="../assets/img/chapter-II/Entrevista Pablo Mendez.png" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br>El entrevistado Pablo Méndez nos comentó que suele recurrir a recomendaciones de personas en redes sociales cuando necesita servicios de remodelación. Sin embargo, señaló que le gustaría contar con una aplicación más innovadora y amigable, que le brinde mayor confianza, facilidad de uso y funcionalidades como reseñas verificadas y seguimiento en tiempo real del avance del proyecto. </td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td>00:00 min</td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td>https://shorturl.at/acGL6</td>
+            </tr>
         </tbody>
 </table>
 
