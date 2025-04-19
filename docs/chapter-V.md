@@ -87,6 +87,8 @@ A continuación se describe la gestión del código fuente, también conocida po
 
 - URL del repositorio del Back-End: backend - https://github.com/SI732-ExpDesign-Team/backend
 
+- URL del repositorio de Mobile: mobile - https://github.com/SI732-ExpDesign-Team/mobile
+
 **GitFlow**
 
 GitFlow es un modelo alternativo para la creación de ramas en Git que se ha convertido en una herramienta esencial para muchos desarrolladores en los últimos años. Este flujo de trabajo de control de versiones, desarrollado y popularizado por Vicent Driessen, desempeña un papel crucial en la gestión de las versiones de un código, facilitando la creación ordenada de nuevas características (Features) y correcciones de problemas urgentes (Hotfixes).
@@ -560,26 +562,307 @@ Landing page desplegada: https://si732-expdesign-team.github.io/landing-page/
 **Web Services**
 
 
-
 **Frontend Web Applications**
 
+
 **Mobile Applications**
+
+Para desplegar el mobile application desde GitHub Releases hay seguir los siguientes pasos: 
+
+1. Ubicar el repositorio que tiene guardado el codigo fuente y dirigirse al apartado Releases
+2. Seleccionar un tag (v0.2.0-alpha)
+3. Agregar un title release y description
+4. Publicar el release
+
+Esto nos generará un archivo .apk que podremos instalar en nuestro dispositivo móvil. 
+
+<img src="../assets/img/chapter-V/mobile.png"> 
+<img src="../assets/img/chapter-V/release-mobile.png"> 
+<img src="../assets/img/chapter-V/release-mobile1.png"> 
+
+Native-Mobile Application desplegada: https://github.com/SI732-ExpDesign-Team/mobile/releases/download/v0.2.0-alpha/ReStyle.apk
 
 ## 5.2. Product Implementation & Deployment
 
 ### 5.2.1. Sprint Backlogs
 
+Durante el desarrollo de este Sprint nos enfocamos en los despliegues de los entregable del Landing page, Web services, Frontend web application y mobile application:
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td   colspan="7"> <strong>Sprint 1</strong> </td>
+  </tr>
+
+   <tr>
+    <td   colspan="2"> <strong>User Story</strong></td>
+    <td   colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td  > <strong>ID</strong> </td>
+    <td  > <strong>Title</strong></td>
+    <td  > <strong>ID</strong> </td>
+    <td  > <strong>Title</strong></td>
+    <td  > <strong>Description</strong></td>
+    <td  > <strong>Estimation (Hours)</strong></td>
+    <td  > <strong>Assigned To</strong></td>
+    <td  > <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <!--rowspan="number of rows for the tasks" -->
+    <td rowspan="3"> US-001</td>
+    <td rowspan="3"> Implementacion y despliegue de Landing Page</td>
+    <td  > UT-01</td>
+    <td  > Crear repositorio de landing page y sus ramas correspondientes</td>
+    <td  >Crear el repositorio dentro de la organización de Github para el control de versiones de la solución de software </td>
+    <td  >1 </td>
+    <td  > Alejandra Díaz </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > UT-02</td>
+    <td  > Implementación del Landing Page</td>
+    <td  > Implementar el landing page actualizado con los datos del startup</td>
+    <td  > 2</td>
+    <td  > Alejandra Díaz</td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > UT-03</td>
+    <td  > Despliegue del Landing Page</td>
+    <td  > Desplegar el landing page mediante GitHub pages</td>
+    <td > 1</td>
+    <td  > Alejandra Díaz</td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <!--rowspan="number of rows for the tasks" -->
+    <td rowspan="3"> US-002</td>
+    <td rowspan="3"> Implementacion y despliegue de Web Services</td>
+    <td  > UT-01</td>
+    <td  > Crear repositorio de web services y sus ramas correspondientes</td>
+    <td  >Crear el repositorio dentro de la organización de Github para el control de versiones de la solución de software </td>
+    <td  >1 </td>
+    <td  > Alejandra Díaz </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > UT-02</td>
+    <td  > Implementación de Web Services</td>
+    <td  > Implementar los web services con los endpoints necesarios para la solución de software</td>
+    <td  > 2</td>
+    <td  > Alejandra Díaz</td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > UT-03</td>
+    <td  > Despliegue de Web Services</td>
+    <td  > Desplegar los web services mediante un hosting service online</td>
+    <td > 1</td>
+    <td  > Alejandra Díaz</td>
+    <td  > Done </td>
+  </tr>
+      <!--rowspan="number of rows for the tasks" -->
+    <td rowspan="3"> US-003</td>
+    <td rowspan="3"> Implementacion y despliegue de Frontend Web Application</td>
+    <td  > UT-01</td>
+    <td  > Crear repositorio de Frontend Web Application y sus ramas correspondientes</td>
+    <td  >Crear el repositorio dentro de la organización de Github para el control de versiones de la solución de software </td>
+    <td  >1 </td>
+    <td  > Alejandra Díaz </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > UT-02</td>
+    <td  > Implementación del Frontend Web Application</td>
+    <td  > Implementar el Frontend Web Application de la solución de software</td>
+    <td  > 2</td>
+    <td  > Alejandra Díaz</td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > UT-03</td>
+    <td  > Despliegue del Frontend Web Application</td>
+    <td  > Desplegar el Frontend Web Application mediante un hosting service online</td>
+    <td > 1</td>
+    <td  > Alejandra Díaz</td>
+    <td  > Done </td>
+  </tr>
+        <!--rowspan="number of rows for the tasks" -->
+    <td rowspan="3"> US-004</td>
+    <td rowspan="3"> Implementacion y despliegue de Mobile application</td>
+    <td  > UT-01</td>
+    <td  > Crear repositorio de Mobile application y sus ramas correspondientes</td>
+    <td  >Crear el repositorio dentro de la organización de Github para el control de versiones de la solución de software </td>
+    <td  >1 </td>
+    <td  > Alejandra Díaz </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > UT-02</td>
+    <td  > Implementación del Mobile application</td>
+    <td  > Implementar el Mobile application de la solución de software</td>
+    <td  > 2</td>
+    <td  > Alejandra Díaz</td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > UT-03</td>
+    <td  > Despliegue del Mobile application</td>
+    <td  > Desplegar el Mobile application mediante GitHub releases</td>
+    <td > 1</td>
+    <td  > Alejandra Díaz</td>
+    <td  > Done </td>
+  </tr>
+  </tr>
+</table>
+
 ### 5.2.2. Implemented Landing Page Evidence
+
+Landing page desplegada: https://si732-expdesign-team.github.io/landing-page/
+
+<img src="../assets/img/chapter-V/landing1.png"> 
+<img src="../assets/img/chapter-V/landing2.png"> 
+<img src="../assets/img/chapter-V/landing3.png"> 
+<img src="../assets/img/chapter-V/landing4.png"> 
+<img src="../assets/img/chapter-V/landing5.png"> 
+<img src="../assets/img/chapter-V/landing6.png"> 
+<img src="../assets/img/chapter-V/landing7.png"> 
 
 ### 5.2.3. Implemented Frontend-Web Application Evidence
 
+
+
 ### 5.2.4. Implemented Native-Mobile Application Evidence
+
+Native-Mobile Application desplegada: https://github.com/SI732-ExpDesign-Team/mobile/releases/download/v0.2.0-alpha/ReStyle.apk
+
+Demo: [Link de Stream](https://upcedupe-my.sharepoint.com/personal/u202118315_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202118315%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202501%2D1asi0732%2D4430%2Destrellados%2Dmobile%2Ddemo%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4ac5181d%2Da628%2D448e%2Db47e%2D6e75b9c14b40&isDarkMode=false)
+
+<img src="../assets/img/chapter-V/release-mobile2.png"> 
 
 ### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
 
+
+
 ### 5.2.6. RESTful API documentation
 
+<table> 
+  <tr> 
+    <th>Endpoint</th> 
+    <th>Acción</th> 
+    <th>Verbo HTTP</th> 
+    <th>Parámetros/Request Body</th> 
+    <th>Ejemplo</th> 
+  </tr> 
+  <tr> 
+    <td>/api/v1/users</td> 
+    <td>Obtener todos los users</td> 
+    <td>GET</td> 
+    <td>null</td> 
+    <td><pre>{ "data": [ { "id": 1, "email": "jperez@example.com", "username": "jperez", "firstName": "Juan", "paternalSurname": "Pérez", "maternalSurname": "López", "phone": "987654321" }, { "id": 2, "email": "mrodriguez@example.com", "username": "mrodriguez", "firstName": "María", "paternalSurname": "Rodriguez", "maternalSurname": "Gómez", "phone": "912345678" } ], "total": 2 }</pre></td>
+  </tr> 
+  <tr> 
+    <td>/api/v1/users</td> 
+    <td>Crear un user</td> 
+    <td>POST</td> 
+    <td> <pre>{ "email": "string", "password": "string", "username": "string", "firstName": "string", "paternalSurname": "string", "maternalSurname": "string", "image": "string", "phone": "string" }</pre> </td> 
+    <td><pre>// Request { "email": "carlos@example.com", "password": "securePassword123", "username": "carlosg", "firstName": "Carlos", "paternalSurname": "García", "maternalSurname": "Martínez", "image": "https://example.com/profiles/carlos.jpg", "phone": "999888777" }
+// Response { "id": 3, "email": "carlos@example.com", "username": "carlosg", "firstName": "Carlos", "paternalSurname": "García", "maternalSurname": "Martínez", "image": "https://example.com/profiles/carlos.jpg", "phone": "999888777", "created_at": "2024-06-15T14:30:45.123Z" }</pre></td> 
+  </tr> 
+  <tr> 
+    <td>/api/v1/users/{userId}</td> 
+    <td>Obtener un usuario por ID</td> 
+    <td>GET</td> 
+    <td>userId: Integer</td> 
+    <td><pre>// GET /api/v1/users/1 { "id": 1, "email": "jperez@example.com", "username": "jperez", "firstName": "Juan", "paternalSurname": "Pérez", "maternalSurname": "López", "image": "https://example.com/profiles/juan.jpg", "phone": "987654321", "created_at": "2024-05-10T09:20:30.123Z", "updated_at": "2024-06-12T11:15:22.456Z", "role": "contractor" }</pre></td> 
+  </tr> 
+  <tr> 
+    <td>/api/v1/reviews</td> 
+    <td>Obtener todas las reseñas</td> 
+    <td>GET</td> 
+    <td>null</td> 
+    <td><pre>{ "data": [ { "id": 1, "contractorId": 2, "projectId": 3, "duration": "3 semanas", "rating": 4, "comment": "Excelente trabajo, terminó antes de lo previsto", "image": "https://example.com/reviews/review1.jpg", "createdAt": "2024-05-15T14:30:00Z" }, { "id": 2, "contractorId": 1, "projectId": 5, "duration": "2 meses", "rating": 5, "comment": "Increíble atención al detalle", "image": "https://example.com/reviews/review2.jpg", "createdAt": "2024-05-20T10:15:30Z" } ], "total": 2 }</pre></td> 
+  </tr> 
+  <tr> 
+    <td>/api/v1/reviews</td> 
+    <td>Crear una reseña</td> 
+    <td>POST</td> 
+    <td> <pre>{ "contractorId": Integer, "projectId": Integer, "duration": "string", "rating": Integer, "comment": "string", "image": "string" }</pre> </td> 
+    <td><pre>// Request { "contractorId": 3, "projectId": 7, "duration": "4 semanas", "rating": 5, "comment": "Trabajo perfecto, muy profesional", "image": "https://example.com/reviews/new_review.jpg" } // Response { "id": 3, "contractorId": 3, "projectId": 7, "duration": "4 semanas", "rating": 5, "comment": "Trabajo perfecto, muy profesional", "image": "https://example.com/reviews/new_review.jpg", "createdAt": "2024-06-15T16:45:30Z" }</pre></td> 
+  </tr> 
+  <tr> 
+    <td>/api/v1/reviews/{reviewId}</td> 
+    <td>Actualizar una reseña por ID</td> 
+    <td>PUT</td> 
+    <td> reviewId: Integer <pre>{ "duration": "string", "comment": "string", "image": "string" }</pre> </td> 
+    <td><pre>// PUT /api/v1/reviews/3 // Request { "duration": "3 semanas y media", "comment": "Trabajo perfecto, muy profesional y puntual", "image": "https://example.com/reviews/updated_review.jpg" }
+
+// Response { "id": 3, "contractorId": 3, "projectId": 7, "duration": "3 semanas y media", "rating": 5, "comment": "Trabajo perfecto, muy profesional y puntual", "image": "https://example.com/reviews/updated_review.jpg", "createdAt": "2024-06-15T16:45:30Z", "updatedAt": "2024-06-15T17:20:15Z" }</pre></td> 
+  </tr> 
+  <tr> 
+    <td>/api/v1/reviews/{reviewId}</td> 
+    <td>Eliminar una reseña por ID</td> 
+    <td>DELETE</td> 
+    <td>reviewId: Integer</td> 
+    <td><pre>// DELETE /api/v1/reviews/3 // Response { "message": "Reseña eliminada correctamente", "deletedAt": "2024-06-15T17:45:22Z" }</pre></td> 
+  </tr> 
+  <tr> 
+    <td>/api/v1/businesses</td> 
+    <td>Obtener todas las empresas</td> 
+    <td>GET</td> 
+    <td>null</td> 
+    <td><pre>{ "data": [ { "id": 1, "name": "Constructora Los Pinos", "description": "Especialistas en remodelaciones residenciales", "phone": "999777888", "email": "contacto@lospinos.com", "website": "www.lospinos.com", "address": "Av. Los Pinos 123, Lima", "rating": 4.5 }, { "id": 2, "name": "Decoraciones Modernas", "description": "Diseño de interiores y remodelaciones", "phone": "987654321", "email": "info@decoracionesmodernas.com", "website": "www.decoracionesmodernas.com", "address": "Jr. Modernidad 456, Lima", "rating": 4.2 } ], "total": 2 }</pre></td> 
+  </tr> 
+  <tr> 
+    <td>/api/v1/businesses/{businessId}</td> 
+    <td>Obtener una empresa por ID</td> 
+    <td>GET</td> 
+    <td>businessId: Integer</td> 
+    <td><pre>// GET /api/v1/businesses/1 { "id": 1, "name": "Constructora Los Pinos", "description": "Especialistas en remodelaciones residenciales", "phone": "999777888", "email": "contacto@lospinos.com", "website": "www.lospinos.com", "address": "Av. Los Pinos 123, Lima", "rating": 4.5, "founded": "2010-03-15", "employees": 25, "projects": 120, "specialties": ["Cocinas", "Baños", "Terrazas"], "images": [ "https://example.com/businesses/lospinos1.jpg", "https://example.com/businesses/lospinos2.jpg" ] }</pre></td> 
+  </tr> 
+  <tr> 
+    <td>/api/v1/projects</td> 
+    <td>Crear un proyecto</td> 
+    <td>POST</td> 
+    <td> <pre>{ "name": "string", "description": "string", "businessId": 0, "contractorId": Integer, "startDate": "2024-06-07T06:10:32.596Z", "finishDate": "2024-06-07T06:10:32.596Z", "image": "string" }</pre> </td> 
+    <td><pre>{ "name": "string", "description": "string", "businessId": 0, "contractorId": Integer, "startDate": "2024-06-07T06:10:32.596Z", "finishDate": "2024-06-07T06:10:32.596Z", "image": "string" }</pre></td> <td><pre>// Request { "name": "Remodelación de cocina", "description": "Remodelación completa con isla central y nuevos gabinetes", "businessId": 1, "contractorId": 3, "startDate": "2024-07-10T08:00:00.000Z", "finishDate": "2024-08-15T18:00:00.000Z", "image": "https://example.com/projects/kitchen_remodel.jpg" } // Response { "id": 8, "name": "Remodelación de cocina", "description": "Remodelación completa con isla central y nuevos gabinetes", "businessId": 1, "contractorId": 3, "startDate": "2024-07-10T08:00:00.000Z", "finishDate": "2024-08-15T18:00:00.000Z", "image": "https://example.com/projects/kitchen_remodel.jpg", "status": "scheduled", "createdAt": "2024-06-15T19:30:45.123Z" }</pre></td> 
+  </tr> 
+  <tr> 
+    <td>/api/v1/project-requests</td> 
+    <td>Crear un project request</td> 
+    <td>POST</td> <td> <pre>{ "name": "string", "surname": "string", "email": "string", "phone": "string", "address": "string", "city": "string", "summary": "string", "businessId": Integer, "contractorId": Integer, "deadlineDate": "2024-06-07T06:18:52.812Z", "rooms": Integer, "budget": Integer }</pre> </td> 
+    <td><pre>// Request { "name": "Ana", "surname": "Sánchez", "email": "ana.sanchez@example.com", "phone": "923456789", "address": "Calle Las Flores 456", "city": "Lima", "summary": "Necesito remodelar mi baño principal", "businessId": 2, "contractorId": 1, "deadlineDate": "2024-09-30T00:00:00.000Z", "rooms": 1, "budget": 15000 }
+
+// Response { "id": 12, "name": "Ana", "surname": "Sánchez", "email": "ana.sanchez@example.com", "phone": "923456789", "address": "Calle Las Flores 456", "city": "Lima", "summary": "Necesito remodelar mi baño principal", "businessId": 2, "contractorId": 1, "deadlineDate": "2024-09-30T00:00:00.000Z", "rooms": 1, "budget": 15000, "status": "pending", "createdAt": "2024-06-15T20:15:30.456Z" }</pre></td> 
+  </tr> 
+  <tr> 
+    <td>/api/v1/roles</td> 
+    <td>Obtener todos los roles</td> 
+    <td>GET</td> 
+    <td>null</td> 
+    <td><pre>{ "data": [ { "id": 1, "name": "client", "description": "Usuario que busca servicios de remodelación" }, { "id": 2, "name": "contractor", "description": "Profesional que ofrece servicios de remodelación" }, { "id": 3, "name": "admin", "description": "Administrador de la plataforma" } ], "total": 3 }</pre></td> 
+  </tr> 
+  <tr> 
+    <td>/api/v1/authentication/sign-up</td> 
+    <td>Registrar una cuenta</td> 
+    <td>POST</td> 
+    <td> <pre>{ "username": "string", "password": "string", "roles": ["string"] }</pre> </td> 
+    <td><pre>// Request { "username": "laura.mendez", "password": "P@$$w0rd123", "roles": ["client"] } // Response { "id": 4, "username": "laura.mendez", "roles": ["client"], "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...", "createdAt": "2024-06-15T21:10:25.789Z", "message": "Usuario registrado exitosamente" }</pre></td> 
+  </tr> 
+    <tr> 
+    <td>/api/v1/authentication/sign-in</td> 
+    <td>Ingresar a la cuenta</td> 
+    <td>POST</td> 
+    <td> <pre>{ "username": "string", "password": "string" }</pre> </td> 
+    <td><pre>// Request { "username": "jperez", "password": "miContraseña123" } // Response { "id": 1, "username": "jperez", "firstName": "Juan", "paternalSurname": "Pérez", "email": "jperez@example.com", "roles": ["contractor"], "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...", "expiresIn": 86400 }</pre></td> 
+  </tr> 
+</table>
+
 ### 5.2.7. Team Collaboration Insights
+
+
 
 ## 5.3. Video About-the-Product
 
