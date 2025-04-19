@@ -437,7 +437,7 @@ líneas de código que se han modificado en cada uno de los commits.
     <tr> 
       <td>
       <b>Chambi Mendoza, Mariana Alexandra TB1:</b> <br> 
-      Texto  
+      Durante la elaboración de la TB1, asumí la responsabilidad ética y profesional al considerar los impactos del sistema en los usuarios. Analicé las necesidades y segmentación de los usuarios, asegurando que las decisiones no solo cumplieran con los requerimientos funcionales, sino que también protegieran la privacidad, seguridad y equidad. Utilicé herramientas como User Personas y User Journey Mapping para identificar posibles riesgos y proponer soluciones que favorecieran el bienestar de todos los involucrados, destacando la importancia de la ética en la ingeniería de software.  
     </td>   
     </tr>
     <!-- Estudiante 3 TB1-->
@@ -485,8 +485,8 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 2 TB1 --> 
     <tr> 
       <td>
-      <b>Apellidos, Nombre TB1:</b> <br> 
-      Texto  
+      <b>Chambi Mendoza, Mariana Alexandra TB1:</b> <br> 
+      En la TB1, emití juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales. Utilicé herramientas como User Personas y User Journey Mapping para evaluar las necesidades de los usuarios y los posibles riesgos. Aseguré que las soluciones propuestas cumplieran con los requisitos funcionales y respetaran principios éticos, como la privacidad, seguridad y equidad, buscando generar un impacto positivo y sostenible en la sociedad.  
     </td>   
     </tr>
     <!-- Estudiante 3 TB1-->
