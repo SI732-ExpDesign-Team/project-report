@@ -561,9 +561,33 @@ Landing page desplegada: https://si732-expdesign-team.github.io/landing-page/
 
 **Web Services**
 
+Para el despliegue del web service desde Azure App Services hemos seguido estos pasos:
+
+1. Generar un archivo .jar desde el proyecto y subirlo al repositorio en Github.
+2. Crear un recurso de App Service en Azure, para nuestro caso se usó el lenguaje de Java 21, con Java SE (Embedded Web Server), en Linux.
+3. Dentro del recurso, en el centro de implementación, seleccionamos Git externo, con la URL y rama de nuestro proyecto en GitHub.
+4. Sincronizar el recurso con el último commit del repositorio y configuramos el comando de inicio con: java -jar /home/site/wwwroot/target/restyle.jar
+5. Reiniciamos la aplicación y ahora podemos acceder desdde la UI de Swagger.
+
+<img src="../assets/img/chapter-V/web-service.png"> 
+<img src="../assets/img/chapter-V/web-service1.png"> 
+
+Web services desplegados: https://restyle-web-services-cyf0axfvakcxaehd.brazilsouth-01.azurewebsites.net/swagger-ui/index.html
 
 **Frontend Web Applications**
 
+Para el despliegue del frontend web applications desde Netlify hemos seguido estos pasos:
+
+1. Crear una cuenta dentro de Netlify
+2. Seleccionar el repositorio de GitHub que contiene nuestro proyecto de frontend
+3. Netlify reconoce el framework, en nuestro caso Angular
+4. Nos devuelve un dominio luego del despliegue exitoso
+
+<img src="../assets/img/chapter-V/frontend-deploy.png"> 
+<img src="../assets/img/chapter-V/frontend-deploy1.png"> 
+<img src="../assets/img/chapter-V/frontend-deploy2.png"> 
+
+Frontend web applications desplegado: https://restyle-frontend.netlify.app/home
 
 **Mobile Applications**
 
@@ -732,7 +756,12 @@ Landing page desplegada: https://si732-expdesign-team.github.io/landing-page/
 
 ### 5.2.3. Implemented Frontend-Web Application Evidence
 
+<img src="../assets/img/chapter-V/frontend.png"> 
+<img src="../assets/img/chapter-V/frontend1.png"> 
+<img src="../assets/img/chapter-V/frontend2.png"> 
+<img src="../assets/img/chapter-V/frontend3.png"> 
 
+Frontend web applications desplegado: https://restyle-frontend.netlify.app/home
 
 ### 5.2.4. Implemented Native-Mobile Application Evidence
 
@@ -744,7 +773,12 @@ Demo: [Link de Stream](https://upcedupe-my.sharepoint.com/personal/u202118315_up
 
 ### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
 
+<img src="../assets/img/chapter-V/web-service1.png"> 
+<img src="../assets/img/chapter-V/web-service2.png"> 
+<img src="../assets/img/chapter-V/web-service3.png"> 
+<img src="../assets/img/chapter-V/web-service4.png"> 
 
+Web services desplegados: https://restyle-web-services-cyf0axfvakcxaehd.brazilsouth-01.azurewebsites.net/swagger-ui/index.html
 
 ### 5.2.6. RESTful API documentation
 
@@ -862,7 +896,19 @@ Demo: [Link de Stream](https://upcedupe-my.sharepoint.com/personal/u202118315_up
 
 ### 5.2.7. Team Collaboration Insights
 
+En esta entrega, nuestra meta principal fue la implementación y despliegue de las soluciones de software. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm y otros. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo:
 
+Repositorio de project-report:
+
+<img src="../assets/img/chapter-V/insight1.png"> 
+Repositorio de landing page:
+<img src="../assets/img/chapter-V/insight2.png"> 
+Repositorio de frontend:
+<img src="../assets/img/chapter-V/insight3.png"> 
+Repositorio de web services:
+<img src="../assets/img/chapter-V/insight4.png"> 
+Repositorio de mobile:
+<img src="../assets/img/chapter-V/insight5.png"> 
 
 ## 5.3. Video About-the-Product
 
