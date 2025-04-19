@@ -2,7 +2,7 @@
 
 # Universidad Peruana De Ciencas Aplicadas
 ## 1ASI0732 Diseño de Experimentos de Ingeniería de Software
-### INGENIERÍA DE SISTEMAS DE SOFTWARE
+### INGENIERÍA DE SOFTWARE
 
 </center>
 
@@ -18,16 +18,16 @@
 
  </center> 
 
-* **Nombre Apellido    CODIGO**
+* **Ely Rivaldo Cortez Flores U202215313**
 * **Maria Alejandra Díaz Villacrez  U202118315**
-* **Nombre Apellido    CODIGO**
+* **Mariana Alexandra Chambi Mendoza  U202217389**
 * **Nombre Apellido    CODIGO** 
-* **Nombre Apellido    CODIGO**
+* **Stefano Alessandro Valenzuela Vallejos    U202214695**
 
 <center>
 
 ### Abril 2025
-### Ciclo: 2025 - 10
+### Ciclo: 2025-01
 ### NRC: 4430
 
 </center>
@@ -51,10 +51,10 @@ URL del repositorio para el reporte del proyecto: https://github.com/SI732-ExpDe
 Github Collaboration Insights proporciona un cronograma que muestra las principales ramas y los procesos de fusión que han ocurrido. Todas las ramas se han generado siguiendo los principios de GitFlow, lo que garantiza una organización efectiva al utilizar un sistema de control de versiones.
 
 - Maria Alejandra Díaz Villacrez (alehandraxx)
+- Mariana Alexandra Chambi Mendoza (MarianaAlexandra05)
+- Ely Rivaldo Cortez Flores (rivacortez)
 - Nombre Apellido (usuarioGithub)
-- Nombre Apellido (usuarioGithub)
-- Nombre Apellido (usuarioGithub)
-- Nombre Apellido (usuarioGithub)
+- Stefano Alessandro Valenzuela Vallejos (AlessandroUPC)
 
 Se divieron las siguientes ramas para la colaboración en el proyecto:
 
@@ -436,22 +436,26 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 2 TB1 --> 
     <tr> 
       <td>
-      <b>Apellidos, Nombre TB1:</b> <br> 
-      Texto  
+      <b>Chambi Mendoza, Mariana Alexandra TB1:</b> <br> 
+      Durante la elaboración de la TB1, asumí la responsabilidad ética y profesional al considerar los impactos del sistema en los usuarios. Analicé las necesidades y segmentación de los usuarios, asegurando que las decisiones no solo cumplieran con los requerimientos funcionales, sino que también protegieran la privacidad, seguridad y equidad. Utilicé herramientas como User Personas y User Journey Mapping para identificar posibles riesgos y proponer soluciones que favorecieran el bienestar de todos los involucrados, destacando la importancia de la ética en la ingeniería de software.  
     </td>   
     </tr>
     <!-- Estudiante 3 TB1-->
      <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Cortez Flores, Ely Rivaldo TB1:</b><br>
+        Durante la elaboración del mapa de impacto, reconocí la importancia de asumir una responsabilidad ética y profesional en cada decisión tomada. Identifiqué de forma consciente a los segmentos objetivos involucrados, analicé los posibles impactos que podría generar el sistema en cada uno de ellos y propuse entregables que no solo respondieran a los requerimientos funcionales, sino que también consideraran principios como la privacidad, la equidad, la seguridad y el bienestar del usuario final. Este proceso me permitió comprender cómo las decisiones en ingeniería de software pueden influir en la sociedad.
       </td>    
     </tr>
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
-      <b>Apellidos, Nombre TB1:</b><br>
-       Texto</td>   
+      <b>Valenzuela Vallejos, Stefano Alessandro  TB1:</b><br>
+       Durante el desarrollo de la TB1, asumí la responsabilidad ética y profesional al trabajar en la elaboración del perfil de la startup, el perfil de la solución, el proceso Lean UX, el Lean UX Canvas y la entrevista al segmento contratista. Reflexioné sobre cómo nuestra propuesta de plataforma digital para servicios de remodelación debía respetar principios como la transparencia, la seguridad de la información y la equidad para todos los usuarios. Consideré los posibles riesgos de malas prácticas en el rubro, como la desinformación o la falta de seguimiento, y propuse soluciones centradas en la experiencia del usuario que fomenten la confianza y el trato justo entre contratistas y clientes. Este enfoque ético resultó clave para proponer una solución tecnológica que aporte de manera responsable a la sociedad.
+
+
+
+</td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
@@ -485,22 +489,26 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 2 TB1 --> 
     <tr> 
       <td>
-      <b>Apellidos, Nombre TB1:</b> <br> 
-      Texto  
+      <b>Chambi Mendoza, Mariana Alexandra TB1:</b> <br> 
+      En la TB1, emití juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales. Utilicé herramientas como User Personas y User Journey Mapping para evaluar las necesidades de los usuarios y los posibles riesgos. Aseguré que las soluciones propuestas cumplieran con los requisitos funcionales y respetaran principios éticos, como la privacidad, seguridad y equidad, buscando generar un impacto positivo y sostenible en la sociedad.  
     </td>   
     </tr>
     <!-- Estudiante 3 TB1-->
      <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Cortez Flores, Ely Rivaldo TB1:</b><br>
+        Durante la elaboración del mapa de impacto, tomé decisiones fundamentadas analizando cómo las soluciones de ingeniería de software podían influir en contextos globales, económicos, ambientales y sociales. Consideré no solo los aspectos técnicos, sino también cómo estas decisiones afectarían la sostenibilidad, el acceso justo a la tecnología y el entorno en el que serían aplicadas. Este ejercicio me ayudó a desarrollar un criterio más consciente y profesional, entendiendo que las soluciones tecnológicas deben adaptarse con responsabilidad a distintas realidades y aportar de manera positiva a la sociedad.
       </td>    
     </tr>
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
-      <b>Apellidos, Nombre TB1:</b><br>
-       Texto</td>   
+      <b>Valenzuela Vallejos, Stefano Alessandro TB1:</b><br>
+       Durante el desarrollo de la TB1, emití juicios informados al analizar el impacto de nuestra solución de software en el contexto del sector de remodelaciones, considerando factores globales, económicos, ambientales y sociales. Al elaborar el perfil de la startup, la solución propuesta, el Lean UX Process, el Lean UX Canvas y la entrevista al segmento contratista, reflexioné sobre cómo una plataforma digital puede transformar la forma en que las personas acceden a servicios de remodelación, fomentando la formalización del sector y brindando mayor visibilidad a los profesionales independientes. Además, identifiqué oportunidades para optimizar recursos, reducir desplazamientos innecesarios mediante la digitalización del proceso y promover un desarrollo más sostenible y justo en la contratación de servicios.
+
+
+
+</td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
