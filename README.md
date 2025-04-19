@@ -451,7 +451,11 @@ líneas de código que se han modificado en cada uno de los commits.
      <tr>   
       <td>
       <b>Valenzuela Vallejos, Stefano Alessandro  TB1:</b><br>
-       Texto</td>   
+       Durante el desarrollo de la TB1, asumí la responsabilidad ética y profesional al trabajar en la elaboración del perfil de la startup, el perfil de la solución, el proceso Lean UX, el Lean UX Canvas y la entrevista al segmento contratista. Reflexioné sobre cómo nuestra propuesta de plataforma digital para servicios de remodelación debía respetar principios como la transparencia, la seguridad de la información y la equidad para todos los usuarios. Consideré los posibles riesgos de malas prácticas en el rubro, como la desinformación o la falta de seguimiento, y propuse soluciones centradas en la experiencia del usuario que fomenten la confianza y el trato justo entre contratistas y clientes. Este enfoque ético resultó clave para proponer una solución tecnológica que aporte de manera responsable a la sociedad.
+
+
+
+</td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
@@ -500,7 +504,11 @@ líneas de código que se han modificado en cada uno de los commits.
      <tr>   
       <td>
       <b>Valenzuela Vallejos, Stefano Alessandro TB1:</b><br>
-       Texto</td>   
+       Durante el desarrollo de la TB1, emití juicios informados al analizar el impacto de nuestra solución de software en el contexto del sector de remodelaciones, considerando factores globales, económicos, ambientales y sociales. Al elaborar el perfil de la startup, la solución propuesta, el Lean UX Process, el Lean UX Canvas y la entrevista al segmento contratista, reflexioné sobre cómo una plataforma digital puede transformar la forma en que las personas acceden a servicios de remodelación, fomentando la formalización del sector y brindando mayor visibilidad a los profesionales independientes. Además, identifiqué oportunidades para optimizar recursos, reducir desplazamientos innecesarios mediante la digitalización del proceso y promover un desarrollo más sostenible y justo en la contratación de servicios.
+
+
+
+</td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
