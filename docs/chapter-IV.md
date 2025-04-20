@@ -10,19 +10,19 @@ Estableceremos principios fundamentales de diseño que servirán como base estru
 
 **Consistencia Visual :** Asegurar una estética uniforme en todos los componentes digitales, integrando criterios cromáticos, tipográficos y compositivos. Esta sincronización abarca desde microinteracciones hasta la arquitectura global de la plataforma.
 
-![Consitencia](../assets/img/chapter-4/consistencia_visual.png)
+![Consitencia](../assets/img/chapter-IV/consistencia_visual.png)
 
 **Simplicidad :** Priorizar la simplicidad en el diseño para una experiencia de usuario agradable, intuitiva y sin complicaciones. Evitar el exceso de elementos decorativos o innecesarios que puedan distraer a los usuarios y dificultar la compresión del contenido.
 
-![Simplicidad](../assets/img/chapter-4/simplicidad.png)
+![Simplicidad](../assets/img/chapter-IV/simplicidad.png)
 
 **Legibilidad :** Utilizar fuentes legibles y un tamaño adecuado para garantizar que el contenido sea fácilmente legible en todas las plataformas y dispositivos. Mantener un alto contraste entre el texto y el fondo para mejorar la legibilidad, especialmente para las personas que presentan dificultades visuales.
 
-![Legibilidad](../assets/img/chapter-4//legibilidad.png)
+![Legibilidad](../assets/img/chapter-IV/legibilidad.png)
 
 **Identidad de Marca :** Materializar los atributos esenciales de la marca mediante un sistema visual estratégico, donde la sinergia entre tonalidades, formas y texturas transmita inmediatamente los valores institucionales.
 
-![Identidad](../assets/img/chapter-4/identidad_de_marca.png)
+![Identidad](../assets/img/chapter-IV/identidad_de_marca.png)
 
 **Tipografía** : Implementar la familia Montserrat como eje estructural, aprovechando su geometría neogrotesca para establecer jerarquías informativas claras a través de cuatro variantes aplicativas:
 
@@ -34,43 +34,43 @@ Estableceremos principios fundamentales de diseño que servirán como base estru
 
 - Hipervínculos
 
-![Tipografia](../assets/img/chapter-4/tipografia.png)
+![Tipografia](../assets/img/chapter-IV/tipografia.png)
 
 **Colores** : Nuestra paleta de colores refleja la identidad de nuestra marca y comunica claramente nuestra oferta a los usuarios. Utilizamos un azul suave (#3F51B5) como color primario y un morado más suave (#757de8) como color secundario. Estos tonos se combinan con colores de acento como el azul claro (#2196F3) y azul oscuro (#003f8f) para resaltar elementos clave y proporcionar feedback visual durante la interacción. Además, empleamos fondos claros (#FFFFFF), fondos secundarios ligeramente sombreados (#f5f5f5) y fondos más oscuros (#cccccc) para mantener una experiencia visual coherente y atractiva en toda la aplicación.
 
-![Colores](../assets/img/chapter-4/Colores.png)
+![Colores](../assets/img/chapter-IV/Colores.png)
 
 **Espaciado** : Implementar un sistema basado en múltiplos de 8px para lograr composiciones armónicas, equilibrando espacios negativos y positivos mediante proporciones áureas que favorezcan el escaneo visual y la interacción táctil.
 
 Este enfoque metodológico prioriza la creación de patrones reconocibles que fortalezcan la identidad digital mientras mantienen flexibilidad adaptativa ante diferentes contextos de uso
 
-![Espaciado](../assets/img/chapter-4/Espaciado.png)
+![Espaciado](../assets/img/chapter-IV/Espaciado.png)
 
 ### 4.1.2. Web Style Guidelines
 
 **Responsive Design :** Es crucial desarrollar una interfaz versátil que se adapte dinámicamente a diversos dispositivos y resoluciones, asegurando una navegación fluida y una experiencia de usuario coherente en móviles, tablets y equipos de escritorio. La prioridad es mantener la funcionalidad y estética sin importar el medio de acceso.
 
-![Resposive](../assets/img/chapter-4/responsive_design.png)
+![Resposive](../assets/img/chapter-IV/responsive_design.png)
 
 **Interfaz Centrada en la Usabilidad :** Implementar componentes de diseño reconocibles (botones intuitivos, menús contextuales, barras de búsqueda accesibles) para reducir la curva de aprendizaje. La coherencia visual y espacial en la disposición de elementos entre páginas reforzará la familiaridad y eficiencia durante la interacción.
 
-![Interface](../assets/img/chapter-4/interfaz_intuitiva.png)
+![Interface](../assets/img/chapter-IV/interfaz_intuitiva.png)
 
 **Compatibilidad Multi-navegador :** Garantizar un rendimiento uniforme en navegadores populares (Chrome, Firefox, Safari, Edge) mediante pruebas técnicas rigurosas. Esto incluye validar funcionalidades avanzadas, renderizado visual y responsividad para ofrecer una experiencia sin inconsistencias, independientemente de la plataforma elegida por el usuario.
 
-![Compatibility](../assets/img/chapter-4/compatibilidad_con_navegadores.jpg)
+![Compatibility](../assets/img/chapter-IV/compatibilidad_con_navegadores.jpg)
 
 **Patrón Z para Diseño Visual :** Aprovechar el recorrido visual natural en forma de "Z" para organizar contenidos estratégicamente: elementos clave (logotipos, CTAs) en áreas izquierdas (superior/inferior), y componentes secundarios (iconos, enlaces) en zonas derechas. Esta estructura guía la atención y potencia la claridad del mensaje.
 
-![Patern](../assets/img/chapter-4/Patron_Z.jpg)
+![Patern](../assets/img/chapter-IV/Patron_Z.jpg)
 
 **Optimización de Rendimiento :** Optimizar el rendimiento del sitio web para tiempos de carga rápidos y una experiencia de usuario sin interrupciones. Esto incluye la optimización de imágenes, el uso de técnicas de compresión y la minimización del código para reducir el tiempo de carga de la página.
 
-![Optimization](../assets/img/chapter-4/velocidad_de_carga_optimizada.png)
+![Optimization](../assets/img/chapter-IV/velocidad_de_carga_optimizada.png)
 
 **Seguridad y Privacidad :** Incorporar medidas de seguridad y privacidad en el diseño del producto para proteger la información confidencial de los usuarios. Esto incluye el uso de conexiones HTTPs, la encriptación de datos y el cumplimiento de las regulaciones de privacidad.
 
-![Security](../assets/img/chapter-4/seguridad_privacidad.png)
+![Security](../assets/img/chapter-IV/seguridad_privacidad.png)
 
 ### 4.1.3. Mobile Style Guidelines
 
@@ -236,35 +236,35 @@ El wireframe servirá como punto de partida para el diseño visual y la implemen
 
 Hero de la aplicación: El hero diseñado para nuestro informe sobre ReStyle presenta una imagen de fondo que exhibe varios proyectos de diseño de interiores, acompañada de un botón de llamado a la acción "¡Empieza ahora!" para incentivar la interacción. Con un título impactante y una breve descripción, el hero introduce a los lectores en la esencia de nuestra empresa, mientras que una barra de navegación proporciona acceso rápido a las diversas secciones del informe, facilitando una experiencia de lectura fluida y envolvente.
 
-![Hero](../assets/img/chapter-4/landing-page-header.png)
+![Hero](../assets/img/chapter-IV/landing-page-header.png)
 
 Imagen y Motivos de la aplicación: En esta sección,destacaremos las razones convincentes por las cuales los clientes deberían elegirnos para remodelar sus departamentos. Nuestro enfoque centrado en la excelencia y la innovación, respaldado por un equipo de expertos en diseño de interiores, garantiza resultados sobresalientes que superan las expectativas. Los propietarios confían en nosotros para transformar sus espacios en hogares modernos y funcionales, gracias a nuestra atención meticulosa al detalle y nuestro compromiso con la calidad en cada proyecto que emprendemos.
 
-![Images](../assets/img/chapter-4/landing-page-imagenymotivos.png)
+![Images](../assets/img/chapter-IV/landing-page-imagenymotivos.png)
 
 Alcance de la aplicación: En la sección dedicada a nuestros planes de servicio, presentamos tres opciones diseñadas para satisfacer las necesidades de nuestros clientes: Plan Crece+, Plan Pro y Plan Pro+. Cada plan ofrece una gama única de servicios y beneficios adaptados a diferentes presupuestos y objetivos de diseño.
 
-![Alcance](../assets/img/chapter-4/landing-page-alcance.png)
+![Alcance](../assets/img/chapter-IV/landing-page-alcance.png)
 
 Acerca de la aplicación: En la sección dedicada a nuestra aplicación, ofrecemos una breve descripción de nuestra propuesta de valor, resaltando cómo nuestra aplicación simplifica y mejora la experiencia de diseño de interiores para nuestros usuarios. Acompañando esta descripción, presentamos una imagen de nuestra aplicación junto con dos llamativos botones de llamado a la acción, uno para descargar desde Google Play y otro desde la App Store, brindando a los usuarios un acceso rápido y conveniente a nuestra plataforma desde cualquier dispositivo móvil.
 
-![Images](../assets/img/chapter-4/landing-page-acerdade.png)
+![Images](../assets/img/chapter-IV/landing-page-acerdade.png)
 
 Testimonios de la aplicación: En la sección de testimonios, compartimos las experiencias auténticas de nuestros clientes satisfechos. Cada testimonio está acompañado de una imagen del cliente junto con una breve descripción que destaca cómo nuestra empresa transformó sus espacios y superó sus expectativas. Estos testimonios proporcionan una prueba tangible de la calidad y el impacto positivo de nuestro trabajo, ayudando a generar confianza y credibilidad entre nuestros potenciales clientes.
 
-![Images](../assets/img/chapter-4/landing-page-testimonios.png)
+![Images](../assets/img/chapter-IV/landing-page-testimonios.png)
 
 Contáctanos de la aplicación: En nuestra sección Contáctanos, te ofrecemos una manera sencilla y conveniente de comunicarte con nosotros. Presentamos un formulario donde puedes ingresar tu nombre completo, tu correo electrónico y un mensaje describiendo en qué podemos ayudarte. Esta herramienta nos permite entender tus necesidades de manera precisa y responder de manera efectiva, brindándote la mejor asistencia posible. Estamos comprometidos a ofrecerte un servicio personalizado y atento en cada paso del camino.
 
-![Images](../assets/img/chapter-4/landing-page-contactanos.png)
+![Images](../assets/img/chapter-IV/landing-page-contactanos.png)
 
 Sobre el equipo: En la sección Sobre el Equipo, te invitamos a conocer más sobre las personas apasionadas que hacen posible nuestra empresa. Presentamos un video que ofrece una mirada íntima y auténtica a nuestro equipo, destacando nuestras habilidades, experiencia y compromiso con la excelencia en el diseño de interiores. A través de este video, queremos compartir nuestra historia, valores y visión, mostrándote el corazón y el alma de nuestra empresa.
 
-![Images](../assets/img/chapter-4/landing-page-sobreNosotros.png)
+![Images](../assets/img/chapter-IV/landing-page-sobreNosotros.png)
 
 Footer de la aplicación: En nuestro Footer, te ofrecemos acceso rápido a nuestras redes sociales y formas de contacto adicionales. Presentamos nuestro logo distintivo de la empresa, junto con enlaces para seguirnos en Twitter, Facebook e Instagram, manteniéndote al tanto de nuestras últimas noticias y proyectos. Además, proporcionamos un número de teléfono de referencia para que nos contactes directamente y un correo electrónico de nuestra empresa, asegurando múltiples vías de comunicación para satisfacer tus necesidades y consultas.
 
-![Images](../assets/img/chapter-4/landing-page-footer.png)
+![Images](../assets/img/chapter-IV/landing-page-footer.png)
 
 ## 4.4. Mobile Applications UX/UI Design
 
@@ -274,65 +274,65 @@ Footer de la aplicación: En nuestro Footer, te ofrecemos acceso rápido a nuest
 
 En esta sección, los usuarios podrán visualizar una pantalla con las opciones de registrarse o iniciar sesión en la aplicación. 
 
-![Welcome](../assets/img/chapter-4/welcome.png)
+![Welcome](../assets/img/chapter-IV/welcome.png)
 
 **Sección de Bienvenida: Registro de Usuarios**
 
 En esta sección, el usuario podrá registrarse proporcionando su nombre completo, correo electrónico, contraseña y confirmación de la misma. Después de completar estos campos, podrá hacer clic en el botón "Regístrate". Además, se ofrecerá una opción para recuperar su cuenta en caso de haber olvidado la contraseña.
 
-![Register](../assets/img/chapter-4/register.png)
+![Register](../assets/img/chapter-IV/register.png)
 
 **Sección de Bienvenida: Inicio de Sesión**
 
 En esta sección, el usuario podrá iniciar sesión ingresando su correo electrónico y contraseña. Tendrá la opción de marcar "Recordar cuenta" para facilitar futuros accesos, o utilizar la opción "Olvidé mi contraseña" si necesita recuperar su cuenta. Si los datos son correctos, la sesión se iniciará sin problemas.
 
-![Login](../assets/img/chapter-4/login.png)
+![Login](../assets/img/chapter-IV/login.png)
 
 **Sección de Recuperación de Contraseña**  
 
 Si el usuario no recuerda su contraseña, tendrá la opción de recuperarla ingresando su correo electrónico. Al completar este dato, se enviará un enlace o instrucciones para proceder con la recuperación de la cuenta directamente desde la aplicación. 
 
-![Recover password](../assets/img/chapter-4/recover_password.png)
+![Recover password](../assets/img/chapter-IV/recover_password.png)
 
 **Sección de Publicaciones y Búsqueda**
 
 En esta sección, el usuario podrá ver una barra de búsqueda para facilitar la navegación. También se mostrarán las publicaciones disponibles para mayor interactividad. La ubicación y el logo de "ReStyle" estarán claramente visibles para asegurar una mejor comprensión, flexibilidad y familiaridad con la marca.
 
-![Start Search](../assets/img/chapter-4/start_search.png)
+![Start Search](../assets/img/chapter-IV/start_search.png)
 
 **Sección de Perfil del Usuario** 
 
 En esta sección, el usuario podrá visualizar su perfil, que incluye una foto representativa y sus datos personales, como nombre completo, correo electrónico, teléfono, dirección y una breve descripción. Si el usuario está de acuerdo con la información mostrada, podrá hacer clic en el botón "Guardar" para confirmar y actualizar su perfil.
 
-![Profile](../assets/img/chapter-4/profile.png)
+![Profile](../assets/img/chapter-IV/profile.png)
 
 **Sección de Detalles de la Aplicación**
 
 En esta sección, el usuario podrá ver información adicional sobre la aplicación, calificarla y subir su reseña. También tendrá la opción de visualizar más detalles para obtener una comprensión más completa de las características y funcionalidades de la aplicación.
 
-![Review Portfolio](../assets/img/chapter-4/review_portfolio.png)
+![Review Portfolio](../assets/img/chapter-IV/review_portfolio.png)
 
-![Review](../assets/img/chapter-4/review.png)
+![Review](../assets/img/chapter-IV/review.png)
 
 **Sección de Foro de Ayuda y Contacto**
 
 En esta sección, el usuario podrá acceder a un foro de ayuda donde encontrará preguntas y respuestas a dudas comunes. Además, tendrá la opción de contactarnos completando un formulario con su nombre completo, correo electrónico y un mensaje detallado sobre su inquietud. Al finalizar, podrá hacer clic en "Enviar mensaje" para enviar su consulta.
 
-![Support](../assets/img/chapter-4/support.png)
+![Support](../assets/img/chapter-IV/support.png)
 
 ### 4.4.2. Mobile Applications Wireflow Diagrams
 
 User Goal: Ingresar a la pantalla principal de la aplicación 
 
-![Goal 1](../assets/img/chapter-4/goal1.png)
+![Goal 1](../assets/img/chapter-IV/goal1.png)
 
 User Goal: Visualizar y editar el perfil de usuario
 
-![Goal 2](../assets/img/chapter-4/goal2.png)
+![Goal 2](../assets/img/chapter-IV/goal2.png)
 
 User Goal: Visualización de Reseñas y Portafolio de una empresa remodeladora 
 
-![Goal 3](../assets/img/chapter-4/goal3.png)
+![Goal 3](../assets/img/chapter-IV/goal3.png)
 
 ### 4.4.3. Mobile Applications Mock-ups
 
@@ -340,65 +340,65 @@ User Goal: Visualización de Reseñas y Portafolio de una empresa remodeladora
 
 En esta sección, los usuarios podrán visualizar una pantalla con las opciones de registrarse o iniciar sesión en la aplicación.
 
-![Mockup welcome](../assets/img/chapter-4/mockup-welcome.png)
+![Mockup welcome](../assets/img/chapter-IV/mockup-welcome.png)
 
 Sección de Bienvenida: Registro de Usuarios 
 
 En esta sección, el usuario podrá registrarse proporcionando su nombre completo, correo electrónico, contraseña y confirmación de la misma. Después de completar estos campos, podrá hacer clic en el botón "Regístrate". Además, se ofrecerá una opción para recuperar su cuenta en caso de haber olvidado la contraseña. 
 
-![Mockup registro mobile](../assets/img/chapter-4/mockup-registro-mobile.png)
+![Mockup registro mobile](../assets/img/chapter-IV/mockup-registro-mobile.png)
 
 Sección de Bienvenida: Inicio de Sesión 
 
 En esta sección, el usuario podrá iniciar sesión ingresando su correo electrónico y contraseña. Tendrá la opción de marcar "Recordar cuenta" para facilitar futuros accesos, o utilizar la opción "Olvidé mi contraseña" si necesita recuperar su cuenta. Si los datos son correctos, la sesión se iniciará sin problemas. 
 
-![Mockup Login](../assets/img/chapter-4/mockup-login-mobile.png)
+![Mockup Login](../assets/img/chapter-IV/mockup-login-mobile.png)
 
 Sección de Recuperación de Contraseña  
 
 Si el usuario no recuerda su contraseña, tendrá la opción de recuperarla ingresando su correo electrónico. Al completar este dato, se enviará un enlace o instrucciones para proceder con la recuperación de la cuenta directamente desde la aplicación. 
 
-![Mockup Recover](../assets/img/chapter-4/mckup-recover-mobile.png)
+![Mockup Recover](../assets/img/chapter-IV/mckup-recover-mobile.png)
 
 Sección de Publicaciones y Búsqueda 
 
 En esta sección, el usuario podrá ver una barra de búsqueda para facilitar la navegación. También se mostrarán las publicaciones disponibles para mayor interactividad. La ubicación y el logo de "ReStyle" estarán claramente visibles para asegurar una mejor comprensión, flexibilidad y familiaridad con la marca. 
 
-![Mockup Busqueda](../assets/img/chapter-4/mockup-busqueda-mobile.png)
+![Mockup Busqueda](../assets/img/chapter-IV/mockup-busqueda-mobile.png)
 
 Sección de Perfil del Usuario
 
 En esta sección, el usuario podrá visualizar su perfil, que incluye una foto representativa y sus datos personales, como nombre completo, correo electrónico, teléfono, dirección y una breve descripción. Si el usuario está de acuerdo con la información mostrada, podrá hacer clic en el botón "Guardar" para confirmar y actualizar su perfil.
 
-![Mockup Perfil](../assets/img/chapter-4/mockup-perfil-mobile.png)
+![Mockup Perfil](../assets/img/chapter-IV/mockup-perfil-mobile.png)
 
 Sección de Detalles de la Aplicación
 
 En esta sección, el usuario podrá ver información adicional sobre la aplicación, calificarla y subir su reseña. También tendrá la opción de visualizar más detalles para obtener una comprensión más completa de las características y funcionalidades de la aplicación.
 
-![Mockup detalles](../assets/img/chapter-4/mockup-fetalles-mobile-1.png)
+![Mockup detalles](../assets/img/chapter-IV/mockup-fetalles-mobile-1.png)
 
-![Mockup Review](../assets/img/chapter-4/mockup-review-mobile.png)
+![Mockup Review](../assets/img/chapter-IV/mockup-review-mobile.png)
 
 Sección de Foro de Ayuda y Contacto
 
 En esta sección, el usuario podrá acceder a un foro de ayuda donde encontrará preguntas y respuestas a dudas comunes. Además, tendrá la opción de contactarnos completando un formulario con su nombre completo, correo electrónico y un mensaje detallado sobre su inquietud. Al finalizar, podrá hacer clic en "Enviar mensaje" para enviar su consulta.
 
-![Ayuda y soporte](../assets/img/chapter-4/mockup-ayuda-y-ysoporte-mobile.png)
+![Ayuda y soporte](../assets/img/chapter-IV/mockup-ayuda-y-ysoporte-mobile.png)
 
 ### 4.4.4. Mobile Applications User Flow Diagrams
 
 User Goal: Ingresar a la pantalla principal de la aplicación
 
-![Goal 1](../assets/img/chapter-4/gola1-mobile.png)
+![Goal 1](../assets/img/chapter-IV/gola1-mobile.png)
 
 User Goal: Visualizar y editar el perfil de usuar
 
-![Goal 2](../assets/img/chapter-4/goal2-mobile.png)
+![Goal 2](../assets/img/chapter-IV/goal2-mobile.png)
 
 User Goal: Visualización de Reseñas y Portafolio de una empresa remodeladora
 
-![Goal 3](../assets/img/chapter-4/goal3-mobile.png)
+![Goal 3](../assets/img/chapter-IV/goal3-mobile.png)
 
 ## 4.5. Mobile Applications Prototyping
 
@@ -413,13 +413,13 @@ Enlace del Video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_u
 
 ### 4.5.1. Android Mobile Applications Prototyping
 
-![Prototype](../assets/img/chapter-4/prototype.png)
+![Prototype](../assets/img/chapter-IV/prototype.png)
 
 Enlace para acceder al Mobile Application: https://www.figma.com/design/BQrnToH4a6xRZR1YFLQbRn/MondongoDev-ReStyle-UX%2FUI-Design?node-id=0-1&node-type=CANVAS&t=hpKUxD9AIdkOvzTY-0
 
 ### 4.5.2. iOS Mobile Applications Prototyping
 
-![Prototype](../assets/img/chapter-4/prototype.png)
+![Prototype](../assets/img/chapter-IV/prototype.png)
 
 Enlace para acceder al Mobile Application: https://www.figma.com/design/BQrnToH4a6xRZR1YFLQbRn/MondongoDev-ReStyle-UX%2FUI-Design?node-id=0-1&node-type=CANVAS&t=hpKUxD9AIdkOvzTY-0
 
@@ -429,217 +429,217 @@ Enlace para acceder al Mobile Application: https://www.figma.com/design/BQrnToH4
 
 Login de la aplicación
 
-![Wireframe login](../assets/img/chapter-4/wifreframe-login.png)
+![Wireframe login](../assets/img/chapter-IV/wifreframe-login.png)
 
 Crear perfil de propietario
 
-![Wireframe propietario](../assets/img/chapter-4/wifreframe-perfil-propietario.png)
+![Wireframe propietario](../assets/img/chapter-IV/wifreframe-perfil-propietario.png)
 
 Crear perfil de remodelador
 
-![wireframe remodelador](../assets/img/chapter-4/wifreframe-perfil-remodelador.png)
+![wireframe remodelador](../assets/img/chapter-IV/wifreframe-perfil-remodelador.png)
 
 Editar perfil de propietario
 
-![wireframe editar propietario](../assets/img/chapter-4/wifreframe-editar-propietario.png)
+![wireframe editar propietario](../assets/img/chapter-IV/wifreframe-editar-propietario.png)
 
 Editar perfil de propietario mensaje
 
-![wireframe editar propietario](../assets/img/chapter-4/wifreframe-editar-propietario-exito.png)
+![wireframe editar propietario](../assets/img/chapter-IV/wifreframe-editar-propietario-exito.png)
 
 Editar perfil de remodelador
 
-![Wireframe editar remodelador](../assets/img/chapter-4/wifreframe-editar-remodelador.png)
+![Wireframe editar remodelador](../assets/img/chapter-IV/wifreframe-editar-remodelador.png)
 
 Editar perfil de remodelador mensaje
 
-![Wireframe editar remodelador](../assets/img/chapter-4/wifreframe-editar-remodelador-exito.png)
+![Wireframe editar remodelador](../assets/img/chapter-IV/wifreframe-editar-remodelador-exito.png)
 
 Búsqueda de remodeladores
 
-![Wireframe Busqueda remodelador](../assets/img/chapter-4/wireframe-busqueda.png)
+![Wireframe Busqueda remodelador](../assets/img/chapter-IV/wireframe-busqueda.png)
 
 Búsqueda de remodeladores por filtro
 
-![Wireframe Filtro](../assets/img/chapter-4/wireframe-busqueda-por-filtro.png)
+![Wireframe Filtro](../assets/img/chapter-IV/wireframe-busqueda-por-filtro.png)
 
 Contratar remodelador
 
-![Wireframe Contratar remodelador](../assets/img/chapter-4/wireframe-contratar-remodelador.png)
+![Wireframe Contratar remodelador](../assets/img/chapter-IV/wireframe-contratar-remodelador.png)
 
 Contratar remodelador y enviar formulario
 
-![Wireframe Envio formulario](../assets/img/chapter-4/wireframe-enviar-form-contratar.png)
+![Wireframe Envio formulario](../assets/img/chapter-IV/wireframe-enviar-form-contratar.png)
 
 Mensajes con remodelador
 
-![Wireframe Mensajes](../assets/img/chapter-4/wireframe-mensajes-con-remodelador.png)
+![Wireframe Mensajes](../assets/img/chapter-IV/wireframe-mensajes-con-remodelador.png)
 
 Portafolio remodelador
 
-![Wireframe Portfolio](../assets/img/chapter-4/wireframe-portafolio.png)
+![Wireframe Portfolio](../assets/img/chapter-IV/wireframe-portafolio.png)
 
 Editar portafolio
 
-![Wireframe Editar Portfolio](../assets/img/chapter-4/wireframe-portafolio-editar.png)
+![Wireframe Editar Portfolio](../assets/img/chapter-IV/wireframe-portafolio-editar.png)
 
 Seguimiento de proyecto
 
-![Wireframe seguimiento](../assets/img/chapter-4/wireframe-seguimiento-proyecto.png)
+![Wireframe seguimiento](../assets/img/chapter-IV/wireframe-seguimiento-proyecto.png)
 
 Detalles del seguimiento de proyecto
 
-![Wireframe detalles seguimiento](../assets/img/chapter-4/wireframe-seguimiento-proyecto-detalle.png)
+![Wireframe detalles seguimiento](../assets/img/chapter-IV/wireframe-seguimiento-proyecto-detalle.png)
 
 Gestión de solicitudes de proyectos
 
-![Wireframe gestion](../assets/img/chapter-4/wireframe-gestion-solicitudes.png)
+![Wireframe gestion](../assets/img/chapter-IV/wireframe-gestion-solicitudes.png)
 
 Reviews
 
-![Wireframe reviews](../assets/img/chapter-4/wifreframe-reviews.png)
+![Wireframe reviews](../assets/img/chapter-IV/wifreframe-reviews.png)
 
 Detalles de reviews
 
-![Wireframe detalle reviews](../assets/img/chapter-4/wifreframe-reviews-detalle.png)
+![Wireframe detalle reviews](../assets/img/chapter-IV/wifreframe-reviews-detalle.png)
 
 Crear review
 
-![Wireframe crear reviews](../assets/img/chapter-4/wireframe-crear-review.png)
+![Wireframe crear reviews](../assets/img/chapter-IV/wireframe-crear-review.png)
 
 Crear review con éxito
 
-![Wireframe crear reviews con exito](../assets/img/chapter-4/wireframe-crear-review-exito.png)
+![Wireframe crear reviews con exito](../assets/img/chapter-IV/wireframe-crear-review-exito.png)
 
 ### 4.6.2. Web Applications Wireflow Diagrams
 
 Los Wireflows se utilizan principalmente en el diseño UX o por sus siglas, experiencia de usuario y especialmente para aplicaciones que involucran flujos de trabajo e interacciones complejas.
 
-![Wireflows](../assets/img/chapter-4/wireflow-diagram.png)
+![Wireflows](../assets/img/chapter-IV/wireflow-diagram.png)
 
 ### 4.6.3. Web Applications Mock-ups
 
 Mockup Login  
-![Mockup Login](../assets/img/chapter-4/mockup-login.png)  
+![Mockup Login](../assets/img/chapter-IV/mockup-login.png)  
 
 Mockup Registro  
-![Mockup Registro](../assets/img/chapter-4/mockup-registro.png)  
+![Mockup Registro](../assets/img/chapter-IV/mockup-registro.png)  
 
 Mockup Perfil Remodelador  
-![Mockup Perfil Remodelador](../assets/img/chapter-4/mockup-perfil-remodelador.png)  
+![Mockup Perfil Remodelador](../assets/img/chapter-IV/mockup-perfil-remodelador.png)  
 
 Mockup Perfil Contratista  
-![Mockup Perfil Contratista](../assets/img/chapter-4/mockup-perfil-contratista.png)  
+![Mockup Perfil Contratista](../assets/img/chapter-IV/mockup-perfil-contratista.png)  
 
 Mockup Búsqueda Remodeladores  
-![Mockup Búsqueda Remodeladores](../assets/img/chapter-4/mockup-busqueda.png)  
+![Mockup Búsqueda Remodeladores](../assets/img/chapter-IV/mockup-busqueda.png)  
 
 Mockup Búsqueda por Filtro  
-![Mockup Búsqueda por Filtro](../assets/img/chapter-4/mockup-busqueda-por-filtro.png)  
+![Mockup Búsqueda por Filtro](../assets/img/chapter-IV/mockup-busqueda-por-filtro.png)  
 
 Mockup Contratar Remodelador  
-![Mockup Contratar Remodelador](../assets/img/chapter-4/mockup-contratar-remodelador.png)  
+![Mockup Contratar Remodelador](../assets/img/chapter-IV/mockup-contratar-remodelador.png)  
 
 Mockup Enviar Formulario Contratar  
-![Mockup Enviar Formulario Contratar](../assets/img/chapter-4/mockup-enviar-form-contratar.png)  
+![Mockup Enviar Formulario Contratar](../assets/img/chapter-IV/mockup-enviar-form-contratar.png)  
 
 Mockup Mensajes con Remodelador  
-![Mockup Mensajes con Remodelador](../assets/img/chapter-4/mockup-mensajes-con-remodelador.png)  
+![Mockup Mensajes con Remodelador](../assets/img/chapter-IV/mockup-mensajes-con-remodelador.png)  
 
 Mockup Portafolio Remodelador  
-![Mockup Portafolio Remodelador](../assets/img/chapter-4/mockup-portafolio.png)  
+![Mockup Portafolio Remodelador](../assets/img/chapter-IV/mockup-portafolio.png)  
 
 Mockup Editar Portafolio  
-![Mockup Editar Portafolio](../assets/img/chapter-4/mockup-portafolio-editar.png)  
+![Mockup Editar Portafolio](../assets/img/chapter-IV/mockup-portafolio-editar.png)  
 
 Mockup Seguimiento Proyecto  
-![Mockup Seguimiento Proyecto](../assets/img/chapter-4/mockup-seguimiento-proyecto.png)  
+![Mockup Seguimiento Proyecto](../assets/img/chapter-IV/mockup-seguimiento-proyecto.png)  
 
 Mockup Seguimiento Proyecto Requerimientos  
-![Mockup Seguimiento Proyecto Requerimientos](../assets/img/chapter-4/mockup-seguimiento-proyecto-detalle-requerimientos.png)  
+![Mockup Seguimiento Proyecto Requerimientos](../assets/img/chapter-IV/mockup-seguimiento-proyecto-detalle-requerimientos.png)  
 
 Mockup Seguimiento Proyecto Requerimientos Éxito  
-![Mockup Seguimiento Proyecto Requerimientos Éxito](../assets/img/chapter-4/mockup-seguimiento-proyecto-detalle-requerimientos-exito.png)  
+![Mockup Seguimiento Proyecto Requerimientos Éxito](../assets/img/chapter-IV/mockup-seguimiento-proyecto-detalle-requerimientos-exito.png)  
 
 Mockup Seguimiento Proyecto Visita Técnica  
-![Mockup Seguimiento Proyecto Visita Técnica](../assets/img/chapter-4/mockup-seguimiento-proyecto-detalle-visita.png)  
+![Mockup Seguimiento Proyecto Visita Técnica](../assets/img/chapter-IV/mockup-seguimiento-proyecto-detalle-visita.png)  
 
 Mockup Seguimiento Proyecto Cotización  
-![Mockup Seguimiento Proyecto Cotización](../assets/img/chapter-4/mockup-seguimiento-proyecto-detalle-cotizacion.png)  
+![Mockup Seguimiento Proyecto Cotización](../assets/img/chapter-IV/mockup-seguimiento-proyecto-detalle-cotizacion.png)  
 
 Mockup Seguimiento Proyecto Cotización Éxito  
-![Mockup Seguimiento Proyecto Cotización Éxito](../assets/img/chapter-4/mockup-seguimiento-proyecto-detalle-cotizacion-exito.png)  
+![Mockup Seguimiento Proyecto Cotización Éxito](../assets/img/chapter-IV/mockup-seguimiento-proyecto-detalle-cotizacion-exito.png)  
 
 Mockup Seguimiento Proyecto Aprobación  
-![Mockup Seguimiento Proyecto Aprobación](../assets/img/chapter-4/mockup-seguimiento-proyecto-detalle-proyecto-aprobado.png)  
+![Mockup Seguimiento Proyecto Aprobación](../assets/img/chapter-IV/mockup-seguimiento-proyecto-detalle-proyecto-aprobado.png)  
 
 Mockup Seguimiento Proyecto Pago Inicial  
-![Mockup Seguimiento Proyecto Pago Inicial](../assets/img/chapter-4/mockup-seguimiento-proyecto-detalle-pago.png)  
+![Mockup Seguimiento Proyecto Pago Inicial](../assets/img/chapter-IV/mockup-seguimiento-proyecto-detalle-pago.png)  
 
 Mockup Seguimiento Proyecto Pago Inicial Éxito  
-![Mockup Seguimiento Proyecto Pago Inicial Éxito](../assets/img/chapter-4/mockup-seguimiento-proyecto-detalle-pago-exito.png)  
+![Mockup Seguimiento Proyecto Pago Inicial Éxito](../assets/img/chapter-IV/mockup-seguimiento-proyecto-detalle-pago-exito.png)  
 
 Mockup Seguimiento Proyecto Pago 50%  
-![Mockup Seguimiento Proyecto Pago 50%](../assets/img/chapter-4/mockup-seguimiento-proyecto-detalle-pago-50.png)  
+![Mockup Seguimiento Proyecto Pago 50%](../assets/img/chapter-IV/mockup-seguimiento-proyecto-detalle-pago-50.png)  
 
 Mockup Seguimiento Proyecto Pago 50% Éxito  
-![Mockup Seguimiento Proyecto Pago 50% Éxito](../assets/img/chapter-4/mockup-seguimiento-proyecto-detalle-pago-50-exito.png)  
+![Mockup Seguimiento Proyecto Pago 50% Éxito](../assets/img/chapter-IV/mockup-seguimiento-proyecto-detalle-pago-50-exito.png)  
 
 Mockup Seguimiento Proyecto Pago 100%  
-![Mockup Seguimiento Proyecto Pago 100%](../assets/img/chapter-4/mockup-seguimiento-proyecto-detalle-pago-100.png)  
+![Mockup Seguimiento Proyecto Pago 100%](../assets/img/chapter-IV/mockup-seguimiento-proyecto-detalle-pago-100.png)  
 
 Mockup Seguimiento Proyecto Pago 100% Éxito  
-![Mockup Seguimiento Proyecto Pago 100% Éxito](../assets/img/chapter-4/mockup-seguimiento-proyecto-detalle-pago-100-exito.png)  
+![Mockup Seguimiento Proyecto Pago 100% Éxito](../assets/img/chapter-IV/mockup-seguimiento-proyecto-detalle-pago-100-exito.png)  
 
 Mockup Seguimiento Proyecto Revisión  
-![Mockup Seguimiento Proyecto Revisión](../assets/img/chapter-4/mockup-seguimiento-proyecto-detalle-revision.png)  
+![Mockup Seguimiento Proyecto Revisión](../assets/img/chapter-IV/mockup-seguimiento-proyecto-detalle-revision.png)  
 
 Mockup Seguimiento Proyecto Revisión Éxito  
-![Mockup Seguimiento Proyecto Revisión Éxito](../assets/img/chapter-4/mockup-seguimiento-proyecto-detalle-revision-exito.png)  
+![Mockup Seguimiento Proyecto Revisión Éxito](../assets/img/chapter-IV/mockup-seguimiento-proyecto-detalle-revision-exito.png)  
 
 Mockup Seguimiento Proyecto Completado  
-![Mockup Seguimiento Proyecto Completado](../assets/img/chapter-4/mockup-seguimiento-proyecto-completado.png)  
+![Mockup Seguimiento Proyecto Completado](../assets/img/chapter-IV/mockup-seguimiento-proyecto-completado.png)  
 
 Mockup Gestión Solicitudes Proyectos  
-![Mockup Gestión Solicitudes Proyectos](../assets/img/chapter-4/mockup-gestion-solicitudes.png)  
+![Mockup Gestión Solicitudes Proyectos](../assets/img/chapter-IV/mockup-gestion-solicitudes.png)  
 
 Mockup Gestión Solicitudes Acción  
-![Mockup Gestión Solicitudes Acción](../assets/img/chapter-4/mockup-gestion-solicitudes-accion.png)  
+![Mockup Gestión Solicitudes Acción](../assets/img/chapter-IV/mockup-gestion-solicitudes-accion.png)  
 
 Mockup Gestión Solicitudes Éxito  
-![Mockup Gestión Solicitudes Éxito](../assets/img/chapter-4/mockup-gestion-solicitudes-exito.png)  
+![Mockup Gestión Solicitudes Éxito](../assets/img/chapter-IV/mockup-gestion-solicitudes-exito.png)  
 
 Mockup Reviews  
-![Mockup Reviews](../assets/img/chapter-4/mockup-review.png)  
+![Mockup Reviews](../assets/img/chapter-IV/mockup-review.png)  
 
 Mockup Detalles Reviews  
-![Mockup Detalles Reviews](../assets/img/chapter-4/mockup-review-detalle.png)  
+![Mockup Detalles Reviews](../assets/img/chapter-IV/mockup-review-detalle.png)  
 
 Mockup Crear Review  
-![Mockup Crear Review](../assets/img/chapter-4/mockup-crear-review.png)  
+![Mockup Crear Review](../assets/img/chapter-IV/mockup-crear-review.png)  
 
 Mockup Crear Review Éxito  
-![Mockup Crear Review Éxito](../assets/img/chapter-4/mockup-crear-review-exito.png)  
+![Mockup Crear Review Éxito](../assets/img/chapter-IV/mockup-crear-review-exito.png)  
 
 ### 4.6.4. Web Applications User Flow Diagrams
 
 Segmento contratista:
 
-![User flow diagram login propietario](../assets/img/chapter-4/user-flow-login-propietario.png)
+![User flow diagram login propietario](../assets/img/chapter-IV/user-flow-login-propietario.png)
 
-![User flow diagram búsqueda](../assets/img/chapter-4/user-flow-busqueda.png)
+![User flow diagram búsqueda](../assets/img/chapter-IV/user-flow-busqueda.png)
 
-![User flow diagram review](../assets/img/chapter-4/user-flow-review.png)
+![User flow diagram review](../assets/img/chapter-IV/user-flow-review.png)
 
 Segmento remodelador:
 
-![User flow diagram login remodelador](../assets/img/chapter-4/user-flow-login-remodelador.png)
+![User flow diagram login remodelador](../assets/img/chapter-IV/user-flow-login-remodelador.png)
 
-![User flow diagram portafolio](../assets/img/chapter-4/user-flow-portafolio.png)
+![User flow diagram portafolio](../assets/img/chapter-IV/user-flow-portafolio.png)
 
-![User flow diagram solicitudes](../assets/img/chapter-4/user-flow-solicitudes.png)
+![User flow diagram solicitudes](../assets/img/chapter-IV/user-flow-solicitudes.png)
 
-![User flow diagram seguimiento](../assets/img/chapter-4/user-flow-seguimiento.png)
+![User flow diagram seguimiento](../assets/img/chapter-IV/user-flow-seguimiento.png)
 
 ## 4.7. Web Applications Prototyping
 
@@ -647,7 +647,7 @@ En esta sección se realizó un video para mostrar los user flows de nuestra apl
 
 Captura:
 
-![Web App Prototyping](../assets/img/chapter-4/prototype-video.png)
+![Web App Prototyping](../assets/img/chapter-IV/prototype-video.png)
 
 ## 4.8. Domain-Driven Software Architecture
 
@@ -657,13 +657,13 @@ Se trata de un enfoque en el diseño de software que pone énfasis en la compren
 
 El esquema de contexto ofrece una perspectiva general de las interacciones entre el sistema de software ReStyle, los usuarios y sistemas externos.
 
-![ReStyle Diagram Context](../assets/img/chapter-4/restyle-context-diagram.png)
+![ReStyle Diagram Context](../assets/img/chapter-IV/restyle-context-diagram.png)
 
 ### 4.8.2. Software Architecture Container Diagrams
 
 El diagrama de contenedores ofrece una visión general de las conexiones entre aplicaciones y fuentes de datos en el sistema ReStyle. Muestra cómo interactúan y dependen entre sí para su funcionamiento.
 
-![ReStyle Diagram Container](../assets/img/chapter-4/restyle-container-diagram.png)
+![ReStyle Diagram Container](../assets/img/chapter-IV/restyle-container-diagram.png)
 
 ### 4.8.3. Software Architecture Components Diagrams
 
@@ -671,11 +671,11 @@ Los diagramas de componentes proporcionan una perspectiva sobre las interrelacio
 
 **Contratadores Bounded Context**
 
-![Component Diagram 1](../assets/img/chapter-4/component1.png)
+![Component Diagram 1](../assets/img/chapter-IV/component1.png)
 
 **Remodeladores Bounded Context**
 
-![Component Diagram 2](../assets/img/chapter-4/component2.png)
+![Component Diagram 2](../assets/img/chapter-IV/component2.png)
 
 ## 4.9. Software Object-Oriented Design
 
@@ -683,7 +683,7 @@ En esta sección, presentamos el diagrama de clases y la implementación de dive
 
 ### 4.9.1. Class Diagrams
 
-![Class](../assets/img/chapter-4/class-diagram-restyle2.png)
+![Class](../assets/img/chapter-IV/class-diagram-restyle2.png)
 
 ### 4.9.2. Class Dictionary
 
@@ -773,4 +773,4 @@ Optamos por utilizar el motor de base de datos MySQL junto con el entorno MySQL 
 
 ### 4.10.1. Relational/Non-Relational Database Diagram
 
-![Database](../assets/img/chapter-4/reStyleDatabaseDesign.png)
+![Database](../assets/img/chapter-IV/reStyleDatabaseDesign.png)
