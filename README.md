@@ -460,8 +460,8 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Párraga Gamarra, Paolo Gonzalo TB1:</b><br>
+        Durante el desarrollo del Capítulo IV: Product Design, asumí la responsabilidad ética y profesional al diseñar interfaces y arquitecturas centradas en el usuario, con un enfoque inclusivo y accesible. Al trabajar en las guías de estilo, arquitectura de información, wireframes, mock-ups y prototipos tanto para plataformas móviles como web, consideré las necesidades de distintos tipos de usuarios, priorizando la usabilidad, claridad y accesibilidad. Especial atención se dio a los emprendedores, nuestro segmento objetivo, mediante una entrevista directa que permitió comprender sus verdaderas necesidades y contextos de uso. Esto permitió diseñar soluciones empáticas, que no solo cumplen con los requisitos funcionales, sino que también promueven la equidad digital, reducen la brecha tecnológica y favorecen el bienestar de los usuarios.
       </td>   
     </tr>
     <tbody>
@@ -513,8 +513,8 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Párraga Gamarra, Paolo Gonzalo TB1:</b><br>
+        emití juicios informados considerando los impactos de nuestras soluciones en contextos económicos y sociales, especialmente al diseñar interfaces y flujos centrados en emprendedores como segmento objetivo. Gracias a la entrevista realizada, comprendí sus limitaciones de tiempo, presupuesto y acceso a la tecnología, lo cual influyó directamente en decisiones de diseño que priorizaron la simplicidad, eficiencia y compatibilidad multiplataforma. Además, al estructurar la arquitectura de información y definir wireflows y prototipos para aplicaciones móviles y web, se promovió la reutilización de componentes y el uso de recursos tecnológicos sostenibles, lo cual también tuvo en cuenta impactos ambientales.
       </td>   
     </tr>
 </table>
