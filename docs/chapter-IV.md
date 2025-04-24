@@ -671,7 +671,7 @@ Los diagramas de componentes proporcionan una perspectiva sobre las interrelacio
 
 **Contratadores Bounded Context**
 
-![Component Diagram 1](../assets/img/chapter-IV/component1-update.PNG).
+![Component Diagram 1](../assets/img/chapter-IV/component1-update.PNG)
 
 **Remodeladores Bounded Context**
 
