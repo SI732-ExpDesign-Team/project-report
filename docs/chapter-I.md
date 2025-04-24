@@ -82,6 +82,17 @@ Consolidarnos como referentes en innovación tecnológica, promoviendo el desarr
             <!-- CONOCIMIENTOS del integrante 3-->
             <td>Tengo experiencia en diversos lenguajes de programación, como C#, Go y JavaScript. Me considero una persona responsable y empática, especialmente al trabajar en equipo. Espero contribuir de manera efectiva para sacar adelante el proyecto.</td>
         </tr>
+                <tr>
+            <!-- DATOS del integrante 5-->
+            <td>
+           <img src="../assets/img/chapter-I/JoaquinCortez.jpeg" height="110" width="85">
+            <br>Joaquin Antonio Cortez Quezada - U202212648
+            </td>
+            <!-- DESCRIPCIÓN del integrante 3-->
+            <td>Actualmente estoy cursando el séptimo ciclo de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Me considero una persona perseverante, responsable, con la capacidad de aprender y adaptarme de forma rápida enfrentar diversos desafíos tecnológicos. </td>
+            <!-- CONOCIMIENTOS del integrante 3-->
+            <td>Tengo experiencia en desarrollo frontend con Angular y Vue, backend con Java y Spring Boot, conocimientos en C++ y Python, y manejo intermedio de bases de datos como MySQL y PostgreSQL</td>
+        </tr>
     </body>
 </table>
 
