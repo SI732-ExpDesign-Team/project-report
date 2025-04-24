@@ -663,7 +663,7 @@ El esquema de contexto ofrece una perspectiva general de las interacciones entre
 
 El diagrama de contenedores ofrece una visión general de las conexiones entre aplicaciones y fuentes de datos en el sistema ReStyle. Muestra cómo interactúan y dependen entre sí para su funcionamiento.
 
-![ReStyle Diagram Container](../assets/img/chapter-IV/restyle-container-diagram.png)
+![ReStyle Diagram Container](../assets/img/chapter-IV/restyle-container-diagram-update.PNG)
 
 ### 4.8.3. Software Architecture Components Diagrams
 
@@ -671,11 +671,11 @@ Los diagramas de componentes proporcionan una perspectiva sobre las interrelacio
 
 **Contratadores Bounded Context**
 
-![Component Diagram 1](../assets/img/chapter-IV/component1.png)
+![Component Diagram 1](../assets/img/chapter-IV/component1-update.PNG)
 
 **Remodeladores Bounded Context**
 
-![Component Diagram 2](../assets/img/chapter-IV/component2.png)
+![Component Diagram 2](../assets/img/chapter-IV/component2-update.PNG)
 
 ## 4.9. Software Object-Oriented Design
 
