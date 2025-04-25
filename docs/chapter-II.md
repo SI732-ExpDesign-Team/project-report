@@ -283,38 +283,30 @@ En este punto el equipo realizará entrevistas a nuestros segmentos objetivos pr
 Entrevista a Contratistas
 
 <table>
-        <thead>
             <tr>
                 <th>Entrevistado 1</th>
-                <th>Paolo Párraga</th>
-            </tr>
+                <th>Diego Cisneros</th>
             <tr>
                 <th>Entrevistador </th>
-                <th>Daniel Valverde</th>
+                <th>Ely Rivaldo Cortez Flores</th>
             </tr>
-        </thead>
-        <tbody>
             <tr>
-                <td>Edad</td>
-                <td>60</td>
+                <td>Edad: </td>
+                <td> 28</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td>Pueblo Libre</td>
+                <td> Pueblo Libre</td>
             </tr>
             <tr>
-                <td><img src="../assets/img/chapter-II/entrevista_segmento_1.png" alt="Foto de entrevista"></td>
-                <td><strong>Resumen:</strong><br>Carlos se dedica a la remodelación y reparación de inmuebles, tanto residenciales como comerciales. 
-                Su principal desafío es cumplir con los plazos de entrega para asegurar la satisfacción del cliente. Para mejorar la gestión de sus 
-                proyectos, utiliza un software que le permite asignar tareas y supervisar avances. Su equipo está capacitado y supervisado para 
-                garantizar la calidad del trabajo. Mantiene una comunicación constante con los clientes mediante una plataforma digital, ya que suelen
-                surgir cambios durante las obras. Atiende las quejas con serenidad, buscando soluciones rápidas. Los servicios más solicitados son 
-                remodelaciones de salas, cocinas con islas e iluminación, y baños. Su personal cuenta con equipos de protección y recibe capacitaciones frecuentes. Carlos es abierto al cambio y usa la 
-                tecnología para ofrecer un mejor servicio.</td>
+            <td><img src="../assets/img/chapter-II/entrevista_segemento2_riva.png" alt="Foto de entrevista"></td>
+            <td><strong>Resumen: </strong><br>
+                Diego Cisneros ha tenido dificultades al contratar servicios de remodelación debido a la falta de confianza, poca información clara y problemas de coordinación. Usa frecuentemente tecnología y redes sociales, y considera importante contar con referencias reales de otros usuarios. Valora funcionalidades como perfiles detallados, presupuestos estimados, agenda, chat directo y seguimiento en tiempo real en una app de remodelación, lo que le daría más confianza y facilitaría todo el proceso.
+            </td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td>20:09 min</td>
+                <td>6:47 min</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
@@ -439,30 +431,38 @@ Entrevista a Remodeladores
                 <td>URL de la entrevista</td>
                 <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ET1QS27QI8FIp31HoL_PQVoB4ZOZMMzHz00ElPWsFPpE1Q?e=t2hWIb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link de entrevistas</a></td>
             </tr>
+        <thead>
             <tr>
                 <th>Entrevistado 3</th>
-                <th>Diego Cisneros</th>
-            <tr>
-                <th>Entrevistador </th>
-                <th>Ely Rivaldo Cortez Flores</th>
+                <th>Paolo Párraga</th>
             </tr>
             <tr>
-                <td>Edad: </td>
-                <td> 28</td>
+                <th>Entrevistador </th>
+                <th>Daniel Valverde</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td>60</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td> Pueblo Libre</td>
+                <td>Pueblo Libre</td>
             </tr>
             <tr>
-            <td><img src="../assets/img/chapter-II/entrevista_segemento2_riva.png" alt="Foto de entrevista"></td>
-            <td><strong>Resumen: </strong><br>
-                Diego Cisneros ha tenido dificultades al contratar servicios de remodelación debido a la falta de confianza, poca información clara y problemas de coordinación. Usa frecuentemente tecnología y redes sociales, y considera importante contar con referencias reales de otros usuarios. Valora funcionalidades como perfiles detallados, presupuestos estimados, agenda, chat directo y seguimiento en tiempo real en una app de remodelación, lo que le daría más confianza y facilitaría todo el proceso.
-            </td>
+                <td><img src="../assets/img/chapter-II/entrevista_segmento_1.png" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br>Carlos se dedica a la remodelación y reparación de inmuebles, tanto residenciales como comerciales. 
+                Su principal desafío es cumplir con los plazos de entrega para asegurar la satisfacción del cliente. Para mejorar la gestión de sus 
+                proyectos, utiliza un software que le permite asignar tareas y supervisar avances. Su equipo está capacitado y supervisado para 
+                garantizar la calidad del trabajo. Mantiene una comunicación constante con los clientes mediante una plataforma digital, ya que suelen
+                surgir cambios durante las obras. Atiende las quejas con serenidad, buscando soluciones rápidas. Los servicios más solicitados son 
+                remodelaciones de salas, cocinas con islas e iluminación, y baños. Su personal cuenta con equipos de protección y recibe capacitaciones frecuentes. Carlos es abierto al cambio y usa la 
+                tecnología para ofrecer un mejor servicio.</td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td>6:47 min</td>
+                <td>20:09 min</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
