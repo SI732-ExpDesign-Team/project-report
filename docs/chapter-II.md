@@ -286,7 +286,7 @@ Entrevista a Contratistas
         <thead>
             <tr>
                 <th>Entrevistado 1</th>
-                <th>Diego Cantoral</th>
+                <th>Paolo Párraga</th>
             </tr>
             <tr>
                 <th>Entrevistador </th>
@@ -296,25 +296,25 @@ Entrevista a Contratistas
         <tbody>
             <tr>
                 <td>Edad</td>
-                <td>21</td>
+                <td>60</td>
             </tr>
             <tr>
                 <td>Distrito</td>
                 <td>Pueblo Libre</td>
             </tr>
             <tr>
-                <td><img src="../assets/img/chapter-II/Entrevista1_Contratistas.png" alt="Foto de entrevista"></td>
-                <td><strong>Resumen:</strong><br>Diego es un joven estudiante, quien nos cuenta en primer lugar 
-                sus preferencias personales. Instagram es la aplicación que más usa y en general le gusta escuchar
-                música. Domina de forma avanzada los aparatos tecnológicos. Respecto a la temática principal nos comenta 
-                una experiencia que tuvo con la empresa Promart, él necesitaba un cambio de setup para su computadora, 
-                lamentablemente no resultó como él esperaba. Sobre las posibles opciones de la aplicación que se le 
-                mencionaron, comentó que le parece importante contar con reseñas para verificar los trabajos previos y 
-                un seguimiento de la remodelación para mantenerse informado y vaya de acuerdo a lo pedido.</td>
+                <td><img src="../assets/img/chapter-II/entrevista_segmento_1.png" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br>Carlos se dedica a la remodelación y reparación de inmuebles, tanto residenciales como comerciales. 
+                Su principal desafío es cumplir con los plazos de entrega para asegurar la satisfacción del cliente. Para mejorar la gestión de sus 
+                proyectos, utiliza un software que le permite asignar tareas y supervisar avances. Su equipo está capacitado y supervisado para 
+                garantizar la calidad del trabajo. Mantiene una comunicación constante con los clientes mediante una plataforma digital, ya que suelen
+                surgir cambios durante las obras. Atiende las quejas con serenidad, buscando soluciones rápidas. Los servicios más solicitados son 
+                remodelaciones de salas, cocinas con islas e iluminación, y baños. Su personal cuenta con equipos de protección y recibe capacitaciones frecuentes. Carlos es abierto al cambio y usa la 
+                tecnología para ofrecer un mejor servicio.</td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td>0:00 min</td>
+                <td>20:09 min</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
@@ -406,7 +406,7 @@ Entrevista a Remodeladores
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td>5:10 min</td>
+                <td>14:43 min</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
@@ -441,28 +441,28 @@ Entrevista a Remodeladores
             </tr>
             <tr>
                 <th>Entrevistado 3</th>
-                <th>Victor Eladio Sobrino Chunga</th>
+                <th>Diego Cisneros</th>
             <tr>
                 <th>Entrevistador </th>
-                <th> Janover Saldaña</th>
+                <th>Ely Rivaldo Cortez Flores</th>
             </tr>
             <tr>
                 <td>Edad: </td>
-                <td> 23</td>
+                <td> 28</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td> Chorrillos - Lima</td>
+                <td> Pueblo Libre</td>
             </tr>
             <tr>
-            <td><img src="../assets/img/chapter-II/entrevista-victor-eladio.png" alt="Foto de entrevista"></td>
+            <td><img src="../assets/img/chapter-II/entrevista_segemento2_riva.png" alt="Foto de entrevista"></td>
             <td><strong>Resumen: </strong><br>
-                La persona entrevistada mencionó que actualmente trabaja de forma independiente, el entrevistado nos comentó que al momento de brindar servicios suele tener mayor dificultad al momento de llegar a ciertos acuerdos con el cliente con respecto al diseño que está proporcionando como colores, materiales y posiciones, con respecto a la gestión de sus proyectos, el entrevistado suele agendarlo en un calendario virtual, del mismo modo el entrevistado comentó que l calidad es indispensable al momento de realizar sus proyectos es por ello que brinda información de los materiales de mayor calidad al cliente para su consideración, también mencionó que ha tenido pocas incidencias con respecto a quejas de sus clientes, en cuanto a seguridad, el cliente menciona que siempre suele trabajar con un arquitecto de su confianza y saca todos los permisos correspondientes ante las entidades públicas, la diferenciación del entrevistado con respecto a otras personas o empresas es que siempre trata de brindar diseños únicos y utilizar materiales de calidad. 
+                Diego Cisneros ha tenido dificultades al contratar servicios de remodelación debido a la falta de confianza, poca información clara y problemas de coordinación. Usa frecuentemente tecnología y redes sociales, y considera importante contar con referencias reales de otros usuarios. Valora funcionalidades como perfiles detallados, presupuestos estimados, agenda, chat directo y seguimiento en tiempo real en una app de remodelación, lo que le daría más confianza y facilitaría todo el proceso.
             </td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td>20:46 min</td>
+                <td>6:47 min</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
