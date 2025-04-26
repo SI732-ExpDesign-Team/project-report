@@ -21,7 +21,7 @@
 * **Ely Rivaldo Cortez Flores U202215313**
 * **Maria Alejandra Díaz Villacrez  U202118315**
 * **Mariana Alexandra Chambi Mendoza  U202217389**
-* **Nombre Apellido    CODIGO** 
+* **Paolo Gonzalo Párraga Gamarra    U202219186** 
 * **Stefano Alessandro Valenzuela Vallejos    U202214695**
 * **Joaquin Antonio Cortez Quezada    U202212648**
 
