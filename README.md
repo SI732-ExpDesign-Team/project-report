@@ -21,8 +21,9 @@
 * **Ely Rivaldo Cortez Flores U202215313**
 * **Maria Alejandra Díaz Villacrez  U202118315**
 * **Mariana Alexandra Chambi Mendoza  U202217389**
-* **Nombre Apellido    CODIGO** 
+* **Paolo Gonzalo Párraga Gamarra    U202219186** 
 * **Stefano Alessandro Valenzuela Vallejos    U202214695**
+* **Joaquin Antonio Cortez Quezada    U202212648**
 
 <center>
 
@@ -55,6 +56,7 @@ Github Collaboration Insights proporciona un cronograma que muestra las principa
 - Ely Rivaldo Cortez Flores (rivacortez)
 - Nombre Apellido (usuarioGithub)
 - Stefano Alessandro Valenzuela Vallejos (AlessandroUPC)
+- Joaquin Antonio Cortez Quezada (Joaqquin0)
 
 Se divieron las siguientes ramas para la colaboración en el proyecto:
 
@@ -428,7 +430,7 @@ líneas de código que se han modificado en cada uno de los commits.
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
         Texto
         </td>
-        <td rowspan="5"> 
+        <td rowspan="6"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
         Texto
       </td>   
@@ -460,14 +462,21 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Párraga Gamarra, Paolo Gonzalo TB1:</b><br>
+        Durante el desarrollo del Capítulo IV: Product Design, asumí la responsabilidad ética y profesional al diseñar interfaces y arquitecturas centradas en el usuario, con un enfoque inclusivo y accesible. Al trabajar en las guías de estilo, arquitectura de información, wireframes, mock-ups y prototipos tanto para plataformas móviles como web, consideré las necesidades de distintos tipos de usuarios, priorizando la usabilidad, claridad y accesibilidad. Especial atención se dio a los emprendedores, nuestro segmento objetivo, mediante una entrevista directa que permitió comprender sus verdaderas necesidades y contextos de uso. Esto permitió diseñar soluciones empáticas, que no solo cumplen con los requisitos funcionales, sino que también promueven la equidad digital, reducen la brecha tecnológica y favorecen el bienestar de los usuarios.
+      </td>   
+    </tr>
+        <!-- Estudiante 6 TB1-->
+    <tr>   
+      <td>
+        <b>Cortez Quezada, Joaquin Antonio TB1:</b><br>
+        Durante el análisis y actualización del diagrama C4 en el desarrollo de la TB1, asumí la responsabilidad ética y profesional al representar adecuadamente los sistemas y componentes de la arquitectura de la solución. Reflexioné sobre cómo la inclusión de la aplicación móvil, además de la plataforma web, debía respetar principios como la transparencia y la seguridad de la información. También consideré los riesgos de malas interpretaciones en el diseño del sistema y trabajé para garantizar una representación clara que promueva la equidad y la confianza entre los usuarios. Este compromiso ético fue esencial para proponer una arquitectura tecnológica que responda de manera responsable a las necesidades del sector.
       </td>   
     </tr>
     <tbody>
     <tr>
      <!--SEGUNDO CRITERIO DE STUDENT OUTCOME-->
-      <td rowspan="17">
+      <td rowspan="19">
         Emite juicios informados 
         considerando el impacto de las 
         soluciones de ingeniería de 
@@ -481,7 +490,7 @@ líneas de código que se han modificado en cada uno de los commits.
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
         Texto
         </td>
-        <td rowspan="5"> 
+        <td rowspan="6"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
         Texto
       </td>   
@@ -513,8 +522,15 @@ líneas de código que se han modificado en cada uno de los commits.
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
-        <b>Apellidos, Nombre TB1:</b><br>
-        Texto
+        <b>Párraga Gamarra, Paolo Gonzalo TB1:</b><br>
+        emití juicios informados considerando los impactos de nuestras soluciones en contextos económicos y sociales, especialmente al diseñar interfaces y flujos centrados en emprendedores como segmento objetivo. Gracias a la entrevista realizada, comprendí sus limitaciones de tiempo, presupuesto y acceso a la tecnología, lo cual influyó directamente en decisiones de diseño que priorizaron la simplicidad, eficiencia y compatibilidad multiplataforma. Además, al estructurar la arquitectura de información y definir wireflows y prototipos para aplicaciones móviles y web, se promovió la reutilización de componentes y el uso de recursos tecnológicos sostenibles, lo cual también tuvo en cuenta impactos ambientales.
+      </td>   
+    </tr>
+        <!-- Estudiante 6 TB1-->
+    <tr>   
+      <td>
+        <b>Cortez Quezada, Joaquin Antonio TB1:</b><br>
+        Durante el análisis y actualización del diagrama C4 en el desarrollo de la TB1, emití juicios informados al evaluar el impacto de nuestra arquitectura tecnológica en el contexto del sector de remodelaciones. Al incorporar la aplicación móvil en el diseño, reflexioné sobre cómo esta mejora podría optimizar la experiencia de los usuarios y fomentar la formalización de los servicios de remodelación. Además, consideré aspectos clave como la digitalización de procesos para reducir desplazamientos innecesarios y promover un enfoque más sostenible, brindando mayor visibilidad a los contratistas y facilitando la interacción entre clientes y profesionales. Estas decisiones reflejan un enfoque responsable y consciente del impacto global, económico, social y ambiental de la solución.
       </td>   
     </tr>
 </table>

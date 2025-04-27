@@ -40,7 +40,7 @@ Consolidarnos como referentes en innovación tecnológica, promoviendo el desarr
             <!-- DATOS del integrante 2-->
             <td>
             <img src="../assets/img/chapter-I/PaoloParraga.png" height="100" width="80"> 
-            <br>Estudiante - CODIGO
+            <br>Paolo Gonzalo Párraga Gamarra u202219186
             </td>
             <!-- DESCRIPCIÓN del integrante 2-->
             <td>Soy Paolo Párraga, estudiante de ingeniería de software. Soy una persona que disfruta trabajar duro para lograr mis objetivos y nunca me rindo a pesar de los momentos difíciles. </td>
@@ -81,6 +81,17 @@ Consolidarnos como referentes en innovación tecnológica, promoviendo el desarr
             <td>Mi nombre es Ely Rivaldo Cortez Flores, tengo 19 años y actualmente curso el 7to ciclo.</td>
             <!-- CONOCIMIENTOS del integrante 3-->
             <td>Tengo experiencia en diversos lenguajes de programación, como C#, Go y JavaScript. Me considero una persona responsable y empática, especialmente al trabajar en equipo. Espero contribuir de manera efectiva para sacar adelante el proyecto.</td>
+        </tr>
+                <tr>
+            <!-- DATOS del integrante 5-->
+            <td>
+           <img src="../assets/img/chapter-I/JoaquinCortez.jpeg" height="110" width="85">
+            <br>Joaquin Antonio Cortez Quezada - U202212648
+            </td>
+            <!-- DESCRIPCIÓN del integrante 3-->
+            <td>Actualmente estoy cursando el séptimo ciclo de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Me considero una persona perseverante, responsable, con la capacidad de aprender y adaptarme de forma rápida enfrentar diversos desafíos tecnológicos. </td>
+            <!-- CONOCIMIENTOS del integrante 3-->
+            <td>Tengo experiencia en desarrollo frontend con Angular y Vue, backend con Java y Spring Boot, conocimientos en C++ y Python, y manejo intermedio de bases de datos como MySQL y PostgreSQL</td>
         </tr>
     </body>
 </table>
