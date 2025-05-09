@@ -13,7 +13,7 @@
 # Informe Trabajo Final
 ## Docente: Juan Carlos Tinoco Licas
 ## Startup: Estrellados
-## Producto: 
+## Producto: ReStyle
 ## Integrantes 
 
  </center> 
@@ -42,6 +42,7 @@
 | Versión | Fecha      | Autor                                                                          | Descripción de modificación                                                                                      |
 |---------|------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | 1.0     | 04/04/2025 | Alejandra Díaz                                                                | Se creo la ramificación del repositorio y se adicionó los documentos en su versión inicial previa a la investigacón |
+| 2.0    | 08/05/2025 | Alejandra Díaz                                                                | Se comenzó la redacción del capítulo 7 |
 
 
 
@@ -428,7 +429,9 @@ líneas de código que se han modificado en cada uno de los commits.
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Texto
+         Durante el desarrollo de la TB1, asumí la responsabilidad de gestionar los despliegues de todos los componentes de software del proyecto (backend, mobile, frontend y landing page). Implementé buenas prácticas de seguridad y respaldo de datos, estableciendo protocolos para garantizar que las implementaciones fueran confiables y transparentes.
+        <b>TP:</b> 
+        Para el TP, al desarrollar el Capítulo VII sobre DevOps Practices, apliqué principios éticos y profesionales al diseñar e implementar pipelines de CI/CD que garantizaran la calidad y seguridad del código en producción. Implementé reglas de protección de ramas en GitHub que aseguraron revisiones de código obligatorias antes de cualquier despliegue, evitando cambios no autorizados que pudieran comprometer la seguridad o funcionalidad del sistema.
         </td>
         <td rowspan="6"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
@@ -488,7 +491,9 @@ líneas de código que se han modificado en cada uno de los commits.
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Texto
+        En la TB1, emití juicios informados al seleccionar e implementar estrategias de despliegue para los diferentes componentes del software (backend, mobile, frontend y landing page), considerando su impacto en contextos más amplios. Evalué cuidadosamente las implicaciones económicas de las plataformas de hosting seleccionadas, buscando un equilibrio entre costo, rendimiento y escalabilidad.
+        <b>TP:</b> 
+         Para el TP, al desarrollar el capítulo completo de DevOps Practices, emití juicios informados sobre el impacto de nuestras prácticas de CI/CD en múltiples niveles. Analicé y seleccioné herramientas y servicios cloud (GitHub Actions, Azure App Service).
         </td>
         <td rowspan="6"> 
          <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
