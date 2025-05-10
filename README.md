@@ -43,7 +43,7 @@
 |---------|------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | 1.0     | 04/04/2025 | Alejandra Díaz                                                                | Se creo la ramificación del repositorio y se adicionó los documentos en su versión inicial previa a la investigacón |
 | 2.0    | 08/05/2025 | Alejandra Díaz                                                                | Se comenzó la redacción del capítulo 7 |
-
+| 2.1    | 09/05/2025 | Alejandra Díaz                                                                | Se terminó la redacción del capítulo 7 |
 
 
 ### Project Report Collaboration Insights
@@ -55,7 +55,7 @@ Github Collaboration Insights proporciona un cronograma que muestra las principa
 - Maria Alejandra Díaz Villacrez (alehandraxx)
 - Mariana Alexandra Chambi Mendoza (MarianaAlexandra05)
 - Ely Rivaldo Cortez Flores (rivacortez)
-- Nombre Apellido (usuarioGithub)
+- Paolo Gonzalo Párraga Gamarra (PaoloParragaGamarra)
 - Stefano Alessandro Valenzuela Vallejos (AlessandroUPC)
 - Joaquin Antonio Cortez Quezada (Joaqquin0)
 
@@ -64,14 +64,6 @@ Se divieron las siguientes ramas para la colaboración en el proyecto:
 - main
 - quality
 - develop
-
-* #### Entregable TB1
-
-A continuación se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro 
-primer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada
-miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de 
-líneas de código que se han modificado en cada uno de los commits.
-
 
 ## Contenido 
 
@@ -430,7 +422,7 @@ líneas de código que se han modificado en cada uno de los commits.
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
          Durante el desarrollo de la TB1, asumí la responsabilidad de gestionar los despliegues de todos los componentes de software del proyecto (backend, mobile, frontend y landing page). Implementé buenas prácticas de seguridad y respaldo de datos, estableciendo protocolos para garantizar que las implementaciones fueran confiables y transparentes.
-        <b>TP:</b> 
+        <b>Díaz Villacrez, María Alejandra TP:</b> 
         Para el TP, al desarrollar el Capítulo VII sobre DevOps Practices, apliqué principios éticos y profesionales al diseñar e implementar pipelines de CI/CD que garantizaran la calidad y seguridad del código en producción. Implementé reglas de protección de ramas en GitHub que aseguraron revisiones de código obligatorias antes de cualquier despliegue, evitando cambios no autorizados que pudieran comprometer la seguridad o funcionalidad del sistema.
         </td>
         <td rowspan="6"> 
@@ -492,7 +484,7 @@ líneas de código que se han modificado en cada uno de los commits.
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
         En la TB1, emití juicios informados al seleccionar e implementar estrategias de despliegue para los diferentes componentes del software (backend, mobile, frontend y landing page), considerando su impacto en contextos más amplios. Evalué cuidadosamente las implicaciones económicas de las plataformas de hosting seleccionadas, buscando un equilibrio entre costo, rendimiento y escalabilidad.
-        <b>TP:</b> 
+        <b>Díaz Villacrez, María Alejandra TP:</b> 
          Para el TP, al desarrollar el capítulo completo de DevOps Practices, emití juicios informados sobre el impacto de nuestras prácticas de CI/CD en múltiples niveles. Analicé y seleccioné herramientas y servicios cloud (GitHub Actions, Azure App Service).
         </td>
         <td rowspan="6"> 

@@ -123,6 +123,48 @@ Este workflow garantiza que en cada push o pull request a las ramas main o devel
 
 **Frontend:**
 
+- Pipeline de compilación con Node
+
+Compilando archivo yaml
+<img src="../assets/img/chapter-VII/frontend-ci-1.png">
+
+Ruleset cuando requiere aprobación de un reviewer para aprobar el merge
+<img src="../assets/img/chapter-VII/frontend-ci-2.png">
+
+Compilación exitosa y permite hacer merge
+<img src="../assets/img/chapter-VII/frontend-ci-3.png">
+
+A continuación, se muestra el archivo de configuración .yml de GitHub Actions utilizado para compilar y ejecutar pruebas en el frontend utilizando Node:
+
+```yaml
+name: CI - Frontend
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main, develop]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Angular app
+        run: npm run build -- --configuration=production
+```
+
+Este workflow garantiza que en cada push o pull request a las ramas main o develop, el código se compila correctamente y se ejecutan las pruebas unitarias antes de permitir un merge.
 
 ## 7.2. Continuous Delivery
 
@@ -148,6 +190,21 @@ Utilizamos como origen el repositorio de Github, rama main. Para la compilación
 
 **Frontend**
 
+- Herramientas:
+
+    - Netlify para el despliegue continuo desde nuestro repositorio Git
+    - GitHub: Configurado como repositorio de origen para el despliegue.
+
+- Prácticas:
+    - Despliegue automático a Netlify cuando se hace un pull request a la rama main o develop.
+
+Centro de Implementación de Netlify: 
+
+Utilizamos como origen el repositorio de Github, rama main. Para la compilación usamos Node.js y versión 18. 
+
+<img src="../assets/img/chapter-VII/frontend-netlify.png">
+<img src="../assets/img/chapter-VII/frontend-netlify-1.png">
+
 ### 7.2.2. Stages Deployment Pipeline Components
 
 **Backend**
@@ -159,10 +216,19 @@ Utilizamos como origen el repositorio de Github, rama main. Para la compilación
 2. Deployment:
     - Azure App Service captura el build y despliega automáticamente.  
 
-Diagrama de flujo del deployment:
+Diagrama de flujo del deployment del backend:
 <img src="../assets/img/chapter-VII/diagram-ci.png">
 
 **Frontend**
+
+1. Build:
+    - El Servicio de compilación de Netlify reconoce automáticamente nuestro proyecto de frontend con Angular y ejecuta el comando `npm ci` para instalar las dependencias de Node y el comando `npm run build` para compilar el código fuente.
+
+2. Deployment:
+    - Netlify captura el build y despliega automáticamente.  
+
+Diagrama de flujo del deployment del frontend:
+<img src="../assets/img/chapter-VII/diagram-ci-frontend.png">
 
 ## 7.3. Continuous deployment
 
@@ -184,6 +250,17 @@ Diagrama de flujo del deployment:
     - Uso de una pila compatible de versiones (Java 21, Spring Boot 3.x).
 
 **Frontend**
+
+- Herramientas utilizadas:
+    - GitHub: Repositorio del código fuente del backend.
+    - GitHub Actions: Ejecuta el pipeline de CI (build, test, análisis de código).
+    - Netlify: Plataforma como servicio (PaaS) para desplegar la aplicación de Angular.
+
+- Buenas prácticas aplicadas:
+    - Separación entre ramas de desarrollo (develop) y producción (main).
+    - Revisión de código mediante pull requests antes de hacer merge a main.
+    - Compilación del código fuente con Angular en cada commit validado.
+    - Despliegue controlado automáticamente a producción desde Netlify.
 
 ### 7.3.2. Production Deployment Pipeline Components
 
@@ -212,6 +289,26 @@ Evidencia de un deployment en el app service de Azure luego de un push a main:
 Link de la REST API desplegada: https://restyle-web-services-cyf0axfvakcxaehd.brazilsouth-01.azurewebsites.net/swagger-ui/index.html#/
 
 **Frontend**
+
+Flujo del pipeline de despliegue a producción:
+
+- Hacemos un merge a la rama main.
+- GitHub detecta el push y GitHub Actions ejecuta el CI:
+
+    - Checkout del código
+    - Descargar dependencias con `npm ci`
+    - Build con Node `npm run build`
+    - Tests automáticos
+
+- En el centro de implementación de Netlify:
+    - Se detecta que hubo un nuevo commit en main
+    - Se despliega el código a producción
+
+Evidencia de un deployment en la interfaz de Netlify luego de un push a main:
+<img src="../assets/img/chapter-VII/frontend-netlify.png">
+<img src="../assets/img/chapter-VII/frontend-deployed.png">
+
+Link del frontend desplegado: https://restyle-frontend.netlify.app/
 
 ## 7.4. Continuous Monitoring
 
