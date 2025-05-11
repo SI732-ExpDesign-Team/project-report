@@ -10,81 +10,152 @@ A continuación se detallan las pruebas unitarias e integrales realizadas por ca
 
 **Pruebas unitarias:**
 - `BusinessCommandServiceImplTest`: Valida la creación de negocios.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.001.png)
+
 - `BusinessQueryServiceImplTest`: Prueba consultas de negocios por ID, nombre y listado general.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.002.png)
+
 - `BusinessValidatorTest`: Valida reglas de negocio en creación y actualización.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.003.png)
+
 
 **Pruebas de integración:**
 - `BusinessRepositoryIntegrationTest`: Verifica la persistencia de entidades Business.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.004.png)
+
 - `BusinessesControllerIntegrationTest`: Evalúa el flujo completo desde la API REST hasta la base de datos.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.005.png)
+
 
 #### 2. Módulo de IAM (Identity and Access Management)
 
 **Pruebas unitarias:**
 - `UserCommandServiceImplTest`: Valida el registro, actualización y gestión de usuarios.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.006.png)
+
 - `UserQueryServiceImplTest`: Prueba búsquedas y consultas de usuarios.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.007.png)
+
 - `RoleAssignmentServiceTest`: Verifica la asignación de roles (USER, CONTRACTOR, REMODELER).
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.008.png)
+
 - `PasswordEncoderServiceTest`: Comprueba la codificación segura de contraseñas.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.009.png)
+
 
 **Pruebas de integración:**
 - `AuthenticationControllerIntegrationTest`: Evalúa el flujo de registro e inicio de sesión.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.010.png)
+
 - `UserRepositoryIntegrationTest`: Valida la persistencia de usuarios en la base de datos.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.011.png)
+
 
 #### 3. Módulo de Project
 
 **Pruebas unitarias:**
 - `ProjectCommandServiceImplTest`: Prueba la creación y modificación de proyectos.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.012.png)
+
 - `ProjectQueryServiceImplTest`: Evalúa consultas de proyectos.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.013.png)
+
 - `ProjectValidatorTest`: Valida reglas de creación de proyectos.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.014.png)
+
 - `ProjectStatusServiceTest`: Verifica las transiciones de estado (iniciado, en progreso, finalizado).
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.015.png)
 
 **Pruebas de integración:**
 - `ProjectsControllerIntegrationTest`: Valida el flujo completo de la API de proyectos.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.016.png)
+
 - `ProjectRepositoryIntegrationTest`: Verifica la persistencia de proyectos.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.017.png)
+
 - `ProjectRemodelerIntegrationTest`: Evalúa la asignación de remodeladores a proyectos.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.018.png)
+
 
 #### 4. Módulo de ProjectRequest
 
 **Pruebas unitarias:**
 - `ProjectRequestCommandServiceImplTest`: Valida la creación y modificación de solicitudes.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.019.png)
+
 - `ProjectRequestQueryServiceImplTest`: Evalúa las consultas de solicitudes.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.020.png)
+
 - `ProjectRequestValidatorTest`: Verifica la validez de los datos en las solicitudes.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.021.png)
+
 - `RequestStatusServiceTest`: Prueba transiciones de estado (pendiente, aceptada, rechazada).
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.022.png)
 
 **Pruebas de integración:**
 - `ProjectRequestsControllerIntegrationTest`: Verifica el flujo completo de solicitudes.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.023.png)
+
 - `ProjectRequestRepositoryIntegrationTest`: Valida la persistencia de solicitudes.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.024.png)
+
 - `ProjectRequestNotificationIntegrationTest`: Evalúa el envío de notificaciones relacionadas.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.025.png)
 
 #### 5. Módulo de Reviews
 
 **Pruebas unitarias:**
 - `ReviewCommandServiceImplTest`: Prueba la creación y gestión de reseñas.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.026.png)
+
 - `ReviewQueryServiceImplTest`: Evalúa la consulta de reseñas.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.027.png)
+
 - `ReviewValidatorTest`: Valida los datos ingresados (calificación, contenido).
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.028.png)
+
 
 **Pruebas de integración:**
 - `ReviewsControllerIntegrationTest`: Valida el flujo completo de evaluación.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.029.png)
+
 - `ReviewRepositoryIntegrationTest`: Comprueba la persistencia de reseñas.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.030.png)
+
 
 #### 6. Módulo de Profiles
 
 **Pruebas unitarias:**
 - `ProfileCommandServiceImplTest`: Prueba la creación y actualización de perfiles.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.031.png)
+
 - `ProfileQueryServiceImplTest`: Evalúa la consulta de perfiles.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.032.png)
+
 - `ProfileValidatorTest`: Valida la integridad de los datos de perfil.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.033.png)
+
 
 **Pruebas de integración:**
 - `ProfileRepositoryIntegrationTest`: Verifica la persistencia de perfiles de usuario.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.034.png)
+
 
 #### 7. Módulo de Información
 
 **Pruebas unitarias:**
 - `InformationCommandServiceImplTest`: Gestiona la creación y actualización de información.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.035.png)
+
 - `InformationQueryServiceImplTest`: Evalúa las consultas de información.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.036.png)
 
 **Pruebas de integración:**
 - `InformationControllerIntegrationTest`: Valida el flujo completo de gestión de información.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.037.png)
+
 - `InformationRepositoryIntegrationTest`: Comprueba la persistencia de datos informativos.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.038.png)
 
 ---
 
@@ -93,9 +164,17 @@ A continuación se detallan las pruebas unitarias e integrales realizadas por ca
 Además de las pruebas por módulo, se implementaron pruebas de flujos completos que validan la interacción entre módulos en escenarios reales:
 
 - **`ProjectRequestToProjectFlowTest`**: Verifica el flujo desde la solicitud hasta la creación del proyecto.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.039.png)
+
 - **`UserRegistrationToRequestFlowTest`**: Evalúa el flujo desde el registro del usuario hasta la solicitud de un proyecto.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.040.png)
+
 - **`ProjectAssignmentToCompletionFlowTest`**: Verifica el flujo desde la asignación del remodelador hasta la finalización del proyecto.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.041.png)
+
 - **`ProjectCompletionToReviewFlowTest`**: Evalúa el flujo desde la finalización de un proyecto hasta la publicación de la reseña.
+![](../assets/img/chapter-VI/Aspose.Words.bb7577dd-9c3b-4e15-abce-c33e2c653247.042.png)
+
 
 ---
 
