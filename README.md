@@ -44,7 +44,8 @@
 | 1.0     | 04/04/2025 | Alejandra Díaz                                                                | Se creo la ramificación del repositorio y se adicionó los documentos en su versión inicial previa a la investigacón |
 | 2.0    | 08/05/2025 | Alejandra Díaz                                                                | Se comenzó la redacción del capítulo 7 |
 | 2.1    | 09/05/2025 | Alejandra Díaz                                                                | Se terminó la redacción del capítulo 7 |
-
+| 2.2    | 10/05/2025 | Mariana Chambi                                                                | Se comenzó la redacción del capítulo 6 |
+| 2.3    | 10/05/2025 | Ely Riva                                                                      | Se terminó la redacción del capítulo 6 |
 
 ### Project Report Collaboration Insights
 
@@ -435,7 +436,9 @@ Se divieron las siguientes ramas para la colaboración en el proyecto:
       <td>
       <b>Chambi Mendoza, Mariana Alexandra TB1:</b> <br> 
       Durante la elaboración de la TB1, asumí la responsabilidad ética y profesional al considerar los impactos del sistema en los usuarios. Analicé las necesidades y segmentación de los usuarios, asegurando que las decisiones no solo cumplieran con los requerimientos funcionales, sino que también protegieran la privacidad, seguridad y equidad. Utilicé herramientas como User Personas y User Journey Mapping para identificar posibles riesgos y proponer soluciones que favorecieran el bienestar de todos los involucrados, destacando la importancia de la ética en la ingeniería de software.  
-    </td>   
+      <b>Chambi Mendoza, Mariana Alexandra TP1:</b>
+      Durante el desarrollo del TP1, asumí la responsabilidad ética y profesional al diseñar y ejecutar pruebas en los distintos componentes del sistema: backend, frontend y mobile. Utilicé herramientas como JUnit para las pruebas unitarias y de integración en el backend, y Postman para validar los endpoints críticos desde el cliente. Estas pruebas permitieron identificar errores y prevenir fallos en funcionalidades sensibles como la autenticación, gestión de usuarios, proyectos y solicitudes. En el frontend y mobile, validé la correcta integración con los servicios y el manejo de errores del lado del usuario. Estas acciones reflejan un compromiso con la calidad del software y con el impacto que este tiene sobre los usuarios finales, asegurando que cada entrega cumpla estándares éticos, técnicos y de seguridad.
+      </td>   
     </tr>
     <!-- Estudiante 3 TB1-->
      <tr>   
@@ -496,7 +499,9 @@ Se divieron las siguientes ramas para la colaboración en el proyecto:
     <tr> 
       <td>
       <b>Chambi Mendoza, Mariana Alexandra TB1:</b> <br> 
-      En la TB1, emití juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales. Utilicé herramientas como User Personas y User Journey Mapping para evaluar las necesidades de los usuarios y los posibles riesgos. Aseguré que las soluciones propuestas cumplieran con los requisitos funcionales y respetaran principios éticos, como la privacidad, seguridad y equidad, buscando generar un impacto positivo y sostenible en la sociedad.  
+      En la TB1, emití juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales. Utilicé herramientas como User Personas y User Journey Mapping para evaluar las necesidades de los usuarios y los posibles riesgos. Aseguré que las soluciones propuestas cumplieran con los requisitos funcionales y respetaran principios éticos, como la privacidad, seguridad y equidad, buscando generar un impacto positivo y sostenible en la sociedad.
+      <b>Chambi Mendoza, Mariana Alexandra TP1:</b>
+      En este TP1, asumí mi responsabilidad ética y profesional realizando pruebas unitarias con JUnit en el backend y validando las APIs con Postman. También verifiqué la integridad y seguridad de las interfaces en frontend y mobile, garantizando que el sistema fuera confiable y seguro para los usuarios, priorizando siempre la calidad y la protección de datos. 
     </td>   
     </tr>
     <!-- Estudiante 3 TB1-->
