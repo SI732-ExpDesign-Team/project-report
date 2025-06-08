@@ -352,9 +352,111 @@ Finalmente, se garantizó que la aplicación compilara sin errores tanto en ento
 
 ### 6.2.1. Static Code Analysis
 
+<div align="justify">
+
+El análisis estático de código es una práctica esencial para garantizar la calidad, seguridad y mantenibilidad del software. Permite detectar errores, vulnerabilidades y malas prácticas de forma temprana, antes de la ejecución, lo que reduce riesgos y costos asociados a fallos en producción. Por ello, se integró como parte fundamental del ciclo de desarrollo y entrega continua del proyecto.
+
+</div>
+
+El análisis estático de código para el proyecto actual se realizó utilizando las siguientes herramientas y servicios:
+
+- **IntelliJ IDEA Ultimate 2024.1** (incluyendo su motor de inspección de código y análisis estático)
+- **Qodana Community 2024.1** (integrado con IntelliJ para análisis avanzado)
+- **Java JDK 17**
+- **Spring Boot 3.2.x**
+- **Maven 3.9.x** (para gestión de dependencias y ejecución de análisis)
+- **Dependabot** (para la detección automática de vulnerabilidades en dependencias)
+
+**Proceso:**
+
+Se configuraron y ejecutaron los análisis estáticos tanto localmente (con IntelliJ y Qodana) como en el pipeline CI/CD, asegurando la revisión de todo el código fuente, dependencias y configuraciones relevantes.
+
+**Resultados:**
+
+El repositorio del proyecto fue sometido a exhaustivas pruebas de análisis estático:
+
+- Se corrigieron todas las vulnerabilidades conocidas en dependencias (Spring, Logback, XMLUnit, etc.), manteniendo las versiones más recientes y seguras.
+- Se eliminaron redundancias, código muerto, imports no utilizados y métodos innecesarios, siguiendo las mejores prácticas de Java y Lombok.
+- Se documentaron y suprimieron advertencias irrelevantes o falsos positivos, especialmente en métodos requeridos por interfaces de Spring Security.
+- Se implementaron anotaciones de nullabilidad y políticas de `@NonNullApi` en los paquetes de repositorios para mejorar la seguridad y claridad del código.
+
+**Evidencias del análisis estático:**
+
+**1. Resumen general del análisis**
+![Resumen general](../assets/img/chapter-VI/imgpassed1.jpeg)
+
+**2. Detalle de métricas de calidad**
+![Métricas de calidad](../assets/img/chapter-VI/imgpassed2.jpeg)
+
+**3. Confirmación de análisis exitoso**
+![Análisis exitoso](../assets/img/chapter-VI/imgpassed4.jpeg)
+
+**4. Resumen final**
+![Resumen final](../assets/img/chapter-VI/imgpassed6.jpeg)
+
 #### 6.2.1.1. Coding standard & Code conventions
 
+**Convenciones y Estándares Básicos**
+
+##### Naming Conventions (Convenciones de nombres):
+
+- Los identificadores utilizan únicamente caracteres ASCII.
+- Los nombres de clases y enums se escriben en **UpperCamelCase (PascalCase)**. Ejemplo:
+
+  ```java
+  UserDetailsImpl, ProjectRequest
+  ```
+- Las clases de prueba terminan en `Test`. Ejemplo:
+
+  ```java
+  UserServiceTest
+  ```
+- Los nombres de variables locales, parámetros y métodos se escriben en **camelCase**. Ejemplo:
+
+  ```java
+  projectName, getUserDetails()
+  ```
+- Los nombres de constantes se escriben en mayúsculas y con guiones bajos. Ejemplo:
+
+  ```java
+  MAX_ATTEMPTS
+  ```
+- Los nombres de interfaces no llevan prefijo especial, siguiendo la convención Java estándar. Ejemplo:
+
+  ```java
+  UserRepository
+  ```
+- Los nombres de archivos y directorios siguen el mismo formato que las clases que contienen, en PascalCase.
+- Los paquetes se nombran en minúsculas y, de ser necesario, separados por puntos. Ejemplo:
+
+  ```java
+  com.empresa.proyecto.repository
+  ```
+
+##### Estilo de código
+
+- Los modificadores de acceso siguen el orden: `public`, `protected`, `private`, seguido de otros modificadores como `static`, `final`, etc.
+- Las declaraciones import van al inicio de cada archivo, ordenadas alfabéticamente, colocando primero las de Java estándar (`java.*`, `javax.*`).
+- Se utiliza una sola instrucción por línea.
+- La indentación es de 4 espacios por nivel, sin uso de tabs.
+- Los corchetes de apertura `{` van al final de la línea de declaración.
+- Se evita el uso de líneas de código innecesarias, comentarios redundantes y código muerto.
+- Se emplea **Lombok** para reducir el boilerplate, evitando la duplicidad de getters/setters.
+- Se aplican anotaciones de nullabilidad (`@NonNull`, `@Nullable`) y políticas de `@NonNullApi` en los paquetes de repositorios.
+
 #### 6.2.1.2. Code Quality & Code Security
+
+El código fue evaluado durante las revisiones y análisis estático considerando las siguientes métricas de calidad:
+
+- **Seguridad:**
+  - Se corrigieron todas las vulnerabilidades conocidas en dependencias y código fuente.
+  - Se emplearon herramientas como Qodana, IntelliJ y Dependabot para la detección y remediación de riesgos.
+- **Exactitud (Reliability):**
+  - Se eliminaron redundancias, código muerto y se aseguraron implementaciones correctas de interfaces requeridas por Spring Security y otros frameworks.
+- **Mantenibilidad:**
+  - Se aplicaron las mejores prácticas de Java y Spring Boot, uso de Lombok para reducir código repetitivo, y se documentaron decisiones técnicas relevantes.
+- **Consistencia:**
+  - Se mantuvo un estilo de código uniforme en todo el proyecto, siguiendo las convenciones de nombres, estructura de carpetas y formato de código.
 
 ### 6.2.2. Reviews
 
