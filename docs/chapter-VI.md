@@ -383,15 +383,19 @@ El repositorio del proyecto fue sometido a exhaustivas pruebas de análisis est�
 **Evidencias del análisis estático:**
 
 **1. Resumen general del análisis**
+
 ![Resumen general](../assets/img/chapter-VI/imgpassed1.jpeg)
 
 **2. Detalle de métricas de calidad**
+
 ![Métricas de calidad](../assets/img/chapter-VI/imgpassed2.jpeg)
 
 **3. Confirmación de análisis exitoso**
+
 ![Análisis exitoso](../assets/img/chapter-VI/imgpassed4.jpeg)
 
 **4. Resumen final**
+
 ![Resumen final](../assets/img/chapter-VI/imgpassed6.jpeg)
 
 #### 6.2.1.1. Coding standard & Code conventions
