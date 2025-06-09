@@ -468,9 +468,405 @@ El código fue evaluado durante las revisiones y análisis estático considerand
 
 ### 6.3.1. Diseño de Entrevistas
 
+- **User Goal: Navegar por la landing page**  
+
+User persona → Remodeladores y contratistas  
+
+Explicación del flujo → El usuario deberá ingresar a la landing page de la aplicación web. En esta, podrá desplazarse y visualizar información general sobre los servicios ofrecidos, así como los beneficios de utilizar la aplicación. Además, podrá cambiar el idioma a inglés o español a través de un botón. También, podrá descargar el aplicativo a través de un Call To Action situado en la vista principal de la landing page.  
+
+- **User Goal: Iniciar sesión**  
+
+User persona → Remodeladores y contratistas  
+
+Explicación del flujo → Primero, el usuario deberá ingresar a la aplicación desplegada. A continuación, verá en la pantalla un formulario que le pedirá sus datos de inicio de sesión, específicamente su correo electrónico y contraseña. Una vez validadas las credenciales, el sistema le permitirá ingresar a la aplicación. En caso el usuario no tenga una cuenta, puede registrarse completando otro formulario con sus datos personales.  
+
+- **User Goal: Ver perfil**  
+
+User persona → Remodeladores y contratistas  
+
+Explicación del flujo → El usuario tiene dos formas de acceder a su perfil. La primera opción es a través de un panel lateral ubicado a la izquierda de la aplicación; al hacer clic en el ícono de la persona, podrá acceder a su perfil, donde verá sus datos personales y detalles de la cuenta. La segunda opción es desde la barra de navegación en la parte superior de la aplicación; al hacer clic en "Mi perfil", accederá a la misma vista mencionada.  
+
+- **User Goal: Buscar remodeladores**  
+
+User persona → Contratistas  
+
+Explicación del flujo → Primero el usuario puede acceder a la vista de busqueda de remodeladores desde el sidebar lateral, donde podrá buscar remodeladores por nombre, distrito, especialidad. Además, podrá filtrar los resultados de la búsqueda. Una vez seleccionado un remodelador, podrá ver su portafolio, reseñas y una vista para contactar con el remodelador seleccionado.  
+
+- **User Goal: Creacion de proyecto**  
+
+User persona → Remodeladores   
+
+Explicación del flujo → En primer lugar, el usuario deberá acceder a la vista de portafolio. En esta, podrá ver la opción de creación de proyectos, donde podrá ingresar los datos necesarios para la creación de proyectos. 
+
+
+
 ### 6.3.2. Registro de Entrevistas
 
+**Entrevistas a remodeladores:** 
+
+|**Entrevistado 1** |**InnovaInteriores** |
+| :-: | :-: |
+|Edad |53 |
+|Distrito |Pueblo Libre |
+|![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.043.png) |La entrevistada nos comenta que la landing page es clara y concisa, el diseño y paleta de colores son similares para la landing page y la aplicación móvil, lo cual habla de que se mantiene una imagen coherente de marca. La aplicación móvil desearía que se añada una descripción de la empresa en el HOME y que el botón de eliminar cuente con un mensaje de confirmación para verificar si se desea borrar un proyecto antes de borrarlo por error.  |
+|Timing:0:00-8:05 |URL:[ ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EWhw1hIvQPROrW67I7w5xtIB-Nc06JsHrfXsDsqGQt76Hg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jv8PrW)<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EWhw1hIvQPROrW67I7w5xtIB-Nc06JsHrfXsDsqGQt76Hg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jv8PrW> |
+|**Entrevistado 2** |Carlos Mendez |
+|Edad |60 |
+|Distrito |Lima |
+|![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.044.png) |En la entrevista se comenta que los estilos están bien. Sin embargo en su dispositivo móvil la Landing Page se deforma un poco, comentando que eso se debería mejorar. Por parte del aplicativo móvil, no tuvo observaciones importantes, además de mejorar los colores. |
+|Timing: 0:00-14:20 |URL:[ ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EWG8dXHp4fdHjiUEy5zSTWcBO_xB8IU9W93xSuM7j90EJg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Wsf9S3)<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EWG8dXHp4fdHjiUEy5zSTWcBO_xB8IU9W93xSuM7j90EJg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Wsf9S3>  |
+|**Entrevistado 3** ||
+|Edad ||
+|Distrito |Lima, Perú |
+| |En la entrevista, |
+|Timing: 0:00 – |URL:|
+
+
+
+**Entrevistas a contratistas:** 
+
+|**Entrevistado 1** |**Jakeline Morey** |
+| :-: | :-: |
+|Edad |50 |
+|Distrito |Miraflores |
+|![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.045.png) |La entrevistada opina que la landing page es profesional y fácil de entender. Nos menciona que el botón call to action es llamativo y cumple su propósito. La aplicación móvil le parece profesional y entendible. También comenta que le gustaría ver otra paleta de colores para el fondo del home, también comenta que no encuentra mucho propósito en una aplicación móvil dedicada al rubro y que preferiría utilizar una aplicación web. |
+|Timing:0:00 – 7:02 |URL: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EXFVBPw31vhNm8JgK1kX7wcBDcj5nyBO_LXvUSXAGDtvgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=shMOut>  |
+|**Entrevistado 2** ||
+|Edad ||
+|Distrito |Lima |
+||La entrevistada nos |
+|Timing: 0:00-5:36 |URL:|
+|**Entrevistado 3** ||
+|Edad ||
+|Distrito ||
+| |En la entrevista |
+|Timing: 00:00 – 08:05 |URL:|
+
+
 ### 6.3.3. Evaluaciones según heurísticas
+
+UX Heuristics & Principles Evaluation 
+
+Usability – Inclusive Design – Information Architecture 
+
+CARRERA : Ingeniería de Software 
+
+CURSO : Diseño de Experimentos de Ingeniería de Software
+
+SECCIÓN : 4430
+
+PROFESOR : Juan Carlos Tinoco Licas
+
+AUDITOR : Estrellados
+
+CLIENTE(S) : Grupo 2
+
+SITE o APP A EVALUAR: ReStyle 
+
+TAREAS A EVALUAR: 
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas: 
+
+**Landing Page** 
+
+i. Responsividad de la Landing Page 
+
+**Mobile Application** 
+
+i. Ventana de Home 
+
+ii. Eliminar Proyecto 
+
+iii. Paleta de Colores 
+
+iv. Foto en apartado editar perfil 
+
+v. Funcionalidad de reseñas 
+
+**Web Application**
+
+i. Diseño responsive para toda la aplicación
+
+ii. Selección de un proyecto
+
+iii. Accesibilidad a la edición de datos personales
+
+iv. Acceso a los proyectos del contratista
+
+v. Diseño de los botones sign-in y sign-up
+
+**ESCALA DE SEVERIDAD:** 
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad 
+
+|**Nivel** |**Descripción** |
+| :-: | :-: |
+|1 |Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+|2 |Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+|3 |Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+|4 |Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+
+
+**TABLA DE RESUMEN - Landing Page** 
+
+|**#**|**Problema**|**Escala de severidad**|**Heurística/PrincipIo violado**|
+| :-: | :-: | :-: | :-: |
+|<p>1</p><p></p>|La responsividad de ciertas partes    el Landing Page no es buena|3|Inclusive Design: Estética y diseño minimalista.|
+
+**DESCRIPCIÓN DE PROBLEMAS:** 
+
+PROBLEMA #1: 
+
+La responsividad de ciertas partes del Landing Page no es buena 
+
+Severidad: 
+
+3 
+
+Heurística violada: 
+
+Inclusive Design: Estética y diseño minimalista 
+
+Problema: 
+
+Hay algunas partes del Landing Page que son en parte responsivas pero cuando se cambia de tamaño a una cierto tamaño, los elementos se desordenan. 
+
+![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.046.png) 
+
+![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.047.png) 
+
+Recomendación: 
+
+Para mejorar la experiencia del usuario, se recomienda revisar el código base de los estilos del Landing Page y así mejorar o corregir los media querys. 
+
+
+
+**TABLA DE RESUMEN – Mobile Application** 
+
+|**#** |**Problema** |**Escala de severidad** |**Heurística/Principio violado** |
+| :-: | :-: | :-: | :-: |
+|1 |Se necesita una descripción para cada empresa de la pestaña Home |2 |Visibilidad del estado del sistema |
+|2 |Se necesita un mensaje de confirmación al momento de querer borrar un proyecto. |3 |Prevención de errores y Control del usuario |
+|3 |Se necesita una mejora de de la paleta de colores. |1 |Estética y diseño minimalista y Consistencia y estándares |
+|4 |Se sugiere mejorar la foto de perfil que hay cuando se edita el perfil mismo. |2 |Estética y diseño minimalista, Consistencia y estándares |
+|5 |Es necesario añadir la funcionalidad de reseñar y tambien poder visualizar reseñas de otros. |4 |Retroalimentación del usuario y Flexibilidad y eficiencia de uso |
+
+
+
+**DESCRIPCIÓN DE PROBLEMAS:** 
+
+PROBLEMA #1: 
+
+Se necesita una descripción para cada empresa de la pestaña Home   
+
+Severidad: 
+
+2 
+
+Heurística violada: 
+
+Visibilidad del estado del sistema   
+
+Problema: 
+
+La pestaña Home carece de una descripción para cada empresa, lo que dificulta a los usuarios entender rápidamente la información disponible sobre cada una. 
+
+![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.048.png) 
+
+Recomendación: 
+
+Agregar una descripción breve y destacada en cada empresa para facilitar el reconocimiento de su identidad y servicios principales sin necesidad de navegar a otra pantalla. 
+
+PROBLEMA #2: 
+
+Se necesita un mensaje de confirmación al momento de querer borrar un proyecto.   
+
+Severidad: 
+
+3 
+
+Heurística violada: 
+
+Prevención de errores y Control del usuario   
+
+Problema: 
+
+La aplicación no muestra un mensaje de confirmación al intentar borrar un proyecto, lo que puede llevar a eliminar información por error sin opción de deshacer. 
+
+![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.049.png) 
+
+Recomendación: 
+
+Implementar un cuadro de diálogo de confirmación antes de borrar un proyecto, con opciones de "Cancelar" y "Confirmar" para reducir el riesgo de errores. 
+
+PROBLEMA #3: 
+
+Se necesita una mejora de de la paleta de colores.   
+
+Severidad: 
+
+1 
+
+Heurística violada: 
+
+Estética y diseño minimalista y Consistencia y estándares   
+
+Problema: 
+
+La paleta de colores actual no es armoniosa ni facilita la navegación visual, afectando la experiencia y percepción del usuario. 
+
+![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.050.png) 
+
+Recomendación: 
+
+Revisar y unificar la paleta de colores para que sea más agradable a la vista y consistente en toda la aplicación, priorizando colores suaves y contrastes adecuados para mejorar la usabilidad. 
+
+PROBLEMA #4: 
+
+Se sugiere mejorar la foto de perfil que hay cuando se edita el perfil mismo.    
+
+Severidad: 
+
+2 
+
+Heurística violada: 
+
+Estética y diseño minimalista y Consistencia y estándares   
+
+Problema: 
+
+La foto de perfil en la sección de edición de perfil no tiene la calidad ni la presentación adecuada, lo cual afecta la estética y profesionalismo de la interfaz, además de no estar alineada visualmente con el resto de la aplicación. 
+
+![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.051.png) 
+
+Recomendación: 
+
+Mejorar la resolución de la foto de perfil y asegurar una visualización nítida. Añadir opciones para ajustar el tamaño o aplicar filtros básicos al editar la foto, ofreciendo una experiencia de personalización visualmente agradable y consistente con el estilo de la aplicación. 
+
+PROBLEMA #5: 
+
+Es necesario añadir la funcionalidad de reseñar y tambien poder visualizar reseñas de otros.      
+
+Severidad: 
+
+4 
+
+Heurística violada: 
+
+Retroalimentación del usuario y Flexibilidad y eficiencia de uso   
+
+Problema: 
+
+La aplicación no permite a los usuarios dejar reseñas ni visualizar las de otros usuarios, lo cual limita la confianza y la transparencia al momento de elegir una empresa de remodelación. Los usuarios no pueden basarse en experiencias previas de otros para tomar decisiones informadas. 
+
+![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.052.png) 
+
+Recomendación: 
+
+Añadir una funcionalidad que permita a los usuarios escribir y visualizar reseñas de las empresas. Esto debe incluir un sistema de calificación y un espacio para comentarios, asegurando que los usuarios puedan evaluar la calidad de cada empresa de manera confiable antes de contratar. 
+
+` `**TABLA DE RESUMEN - Web Application** 
+
+|**#**|**Problema**|**Escala de severidad**|**Heurística/PrincipIo violado**|
+| :-: | :-: | :-: | :-: |
+|1|Diseño no es responsive para toda la aplicación|3|<p>Inclusive Design: Adaptabilidad y</p><p>Flexibilidad</p>|
+|2|No se pueden seleccionar proyectos para el segmento objetivo de remodelador|4|Usability: Control y libertad del usuario|
+|3|<p>No se puede acceder a proyectos para el segmento objetivo de</p><p>contratista</p>|4|Usability: Control y libertad del usuario|
+|4|Botones no dinamicos para el sign-in y sign-up en la vista home|1|<p>Inclusive Design: Estética y diseño</p><p>minimalista</p>|
+|5|Falta de contenido personalizado|1|Usability: Flexibilidad y eficiencia de uso|
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+PROBLEMA #1: Diseño no es responsive para toda la aplicación
+
+Severidad: 3
+
+Heurística violada: Inclusive Design: Adaptabilidad y Flexibilidad
+
+Problema:
+
+La aplicación web no es responsive en todas sus pages. Solo el toolbar y sidebar son responsive para todas las pages y la sección "Remodeladores".
+
+Esto no permite que los usuarios utilicen correctamente la aplicación y evita acceder a secciones claves de la plataforma. Esta problemática tiene un nivel de severidad 3, ya que impide el uso de la aplicación en todo su potencial
+
+![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.053.png)
+
+Recomendación:
+
+Para solucionar el problema se deben agregar atributos responsive a la aplicacion mediante CSS.
+
+PROBLEMA #2: No se pueden seleccionar proyectos para el segmento objetivo de remodelador
+
+Severidad: 4
+
+Heurística violada: Usability: Control y libertad del usuario
+
+Problema:
+
+La aplicación web no les permite a los usuarios remodeladores escoger el proyecto que desean manejar. Solo se muestra un proyecto en la seccion "Mis
+
+Proyectos".
+
+Esto no permite que los usuarios utilicen correctamente la aplicacion y les evita acceder a secciones claves de la plataforma. Esta problematica
+
+tiene un nivel de severidad 4, ya que impide el uso de la aplicacion en todo su potencial.
+
+![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.054.png)
+
+Recomendación:
+
+Para solucionar el problema se debe agregar una page que permita escoger los proyectos que se desean manejar.
+
+PROBLEMA #3: No se puede acceder a proyectos para el segmento objetivo de contratista
+
+Severidad: 4
+
+Heurística violada: Usability: Control y libertad del usuario
+
+Problema:
+
+La aplicación web no les permite a los usuarios contratistas acceder a la sección "Mis Proyectos".
+
+Esto no permite que los usuarios utilicen correctamente la aplicación y evitaA acceder a secciones claves de la plataforma. Esta problemática tiene un nivel de severidad 4, ya que impide el uso de la aplicación en todo su potencial.
+
+![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.055.png)
+
+Recomendación:
+
+Para solucionar el problema se debe agregar una page que permita acceder a los proyectos para el segmento de contratistas.
+
+PROBLEMA #4: Botones no dinamicos para el sign-in y sign-up en la vista home
+
+Severidad: 1
+
+Heurística violada: Inclusive Design: Estética y diseño minimalista
+
+Problema:
+
+Los botones de "Ingresar" y "Registrarse" no son dinámicos en la sección "Home". Sin embargo, los botones en otras secciones si lo son.
+
+Esto rompe con el diseño de la aplicación y el estilo de la misma. Esta problemática tiene un nivel de severidad 1, ya que no impide el uso de la aplicación en todo su potencial, pero quiebra el diseño coherente de la misma.
+
+![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.056.png)
+
+Recomendación:
+
+Para solucionar el problema se deben agregar atributos que simulen interaccion con los botones en CSS.
+
+PROBLEMA #5:
+
+Severidad: 1
+
+Heurística violada: Usability: Flexibilidad y eficiencia de uso
+
+\*\*Problema:\*\*La aplicacion tiene queries simples y utilitarios que cumples su funcionalidad pero no existe personalización de contenidos para el usuario como no sugerir proyectos de jardín si es que han establecido como vivienda un departamento por lo que el usuario debera examinar opciones poco pertinentes antes de encontrar un proyecto apropiado en caso no utilize el buscador.
+
+![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.057.png)
+
+Recomendación:
+
+Implementar personalización de perfil para negocios y usuarios particulares e mostrar los tags automáticamente según preferencia
 
 ## 6.4. Auditoría de Experiencias de Usuario
 
