@@ -46,6 +46,7 @@
 | 2.1    | 09/05/2025 | Alejandra Díaz                                                                | Se terminó la redacción del capítulo 7 |
 | 2.2    | 10/05/2025 | Mariana Chambi                                                                | Se comenzó la redacción del capítulo 6 |
 | 2.3    | 10/05/2025 | Ely Riva                                                                      | Se terminó la redacción del capítulo 6 |
+| 2.4    | 10/0/2025 | Alejandra Díaz                                                                      | Se terminó la redacción del capítulo 7 |
 
 ### Project Report Collaboration Insights
 
@@ -424,7 +425,9 @@ Se divieron las siguientes ramas para la colaboración en el proyecto:
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
          Durante el desarrollo de la TB1, asumí la responsabilidad de gestionar los despliegues de todos los componentes de software del proyecto (backend, mobile, frontend y landing page). Implementé buenas prácticas de seguridad y respaldo de datos, estableciendo protocolos para garantizar que las implementaciones fueran confiables y transparentes.<br>
         <b>Díaz Villacrez, María Alejandra TP:</b> 
-        Para el TP, al desarrollar el Capítulo VII sobre DevOps Practices, apliqué principios éticos y profesionales al diseñar e implementar pipelines de CI/CD que garantizaran la calidad y seguridad del código en producción. Implementé reglas de protección de ramas en GitHub que aseguraron revisiones de código obligatorias antes de cualquier despliegue, evitando cambios no autorizados que pudieran comprometer la seguridad o funcionalidad del sistema.
+        Para el TP, al desarrollar el Capítulo VII sobre DevOps Practices, apliqué principios éticos y profesionales al diseñar e implementar pipelines de CI/CD que garantizaran la calidad y seguridad del código en producción. Implementé reglas de protección de ramas en GitHub que aseguraron revisiones de código obligatorias antes de cualquier despliegue, evitando cambios no autorizados que pudieran comprometer la seguridad o funcionalidad del sistema.<br>
+        <b>Díaz Villacrez, María Alejandra TB2:</b> 
+        Para el TB2, al desarrollar el Capítulo VII sobre DevOps Practices, se aplicó principios éticos y profesionales para diseñar e implementar pipelines de CI/CD. Se encargó de establecer reglas de protección en GitHub que exigían revisiones de código obligatorias, evitando cambios no autorizados que pudieran comprometer la seguridad y funcionalidad del sistema.
         </td>
         <td rowspan="6"> 
          <b>-</b><br>
@@ -492,7 +495,9 @@ Se divieron las siguientes ramas para la colaboración en el proyecto:
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
         En la TB1, emití juicios informados al seleccionar e implementar estrategias de despliegue para los diferentes componentes del software (backend, mobile, frontend y landing page), considerando su impacto en contextos más amplios. Evalué cuidadosamente las implicaciones económicas de las plataformas de hosting seleccionadas, buscando un equilibrio entre costo, rendimiento y escalabilidad.<br>
         <b>Díaz Villacrez, María Alejandra TP:</b> 
-         Para el TP, al desarrollar el capítulo completo de DevOps Practices, emití juicios informados sobre el impacto de nuestras prácticas de CI/CD en múltiples niveles. Analicé y seleccioné herramientas y servicios cloud (GitHub Actions, Azure App Service).
+         Para el TP, al desarrollar el capítulo completo de DevOps Practices, emití juicios informados sobre el impacto de nuestras prácticas de CI/CD en múltiples niveles. Analicé y seleccioné herramientas y servicios cloud (GitHub Actions, Azure App Service).<br>
+        <b>Díaz Villacrez, María Alejandra TB2:</b> 
+        Para el TB2, en el desarrollo del capítulo de DevOps Practices, se analizó y seleccionó herramientas y servicios cloud (como GitHub Actions y Azure App Service) evaluando de manera crítica el impacto de las prácticas de CI/CD en diversos niveles. Esta iniciativa se basó en un enfoque ético y sostenible, asegurando que la solución adoptada generara beneficios tanto técnicos como en términos de impacto global.
         </td>
         <td rowspan="6"> 
          <b>-</b><br>
