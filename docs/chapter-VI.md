@@ -463,6 +463,18 @@ El código fue evaluado durante las revisiones y análisis estático considerand
   - Se mantuvo un estilo de código uniforme en todo el proyecto, siguiendo las convenciones de nombres, estructura de carpetas y formato de código.
 
 ### 6.2.2. Reviews
+Se realizó una revisión inicial del módulo de reseñas para evaluar el cumplimiento de estándares de código y calidad. A continuación, se presentan los principales hallazgos.
+
+<table><tr><th colspan="4" valign="top"><b>Repositorio: ExpDesign-Team</b></th></tr>
+<tr><td colspan="4" valign="top"><b>Detalles de Revisiòn:</b></td></tr>
+<tr><td valign="top"><b>Fecha:</b> 10/06/2025</td><td valign="top"><b>Tipo de Revisiòn:</b> Code Review Inicial</td><td valign="top"><b>Autor:</b> Grupal</td><td valign="top"><b>Reviewer:</b> Mariana Chambi</td></tr>
+<tr><td colspan="2" rowspan="2" valign="top"><p><b>Archivos:</b></p><p>Landing Page</p><p>Web Application</p><p>Mobile Application </p><p>Backend</p><p></p></td><td colspan="2" rowspan="2" valign="top"><p><b>Propósito:</b> </p><p>Asegurar que toda la implementación se adhiera a los estándares de código y cumpla con las métricas de calidad establecidas.</p><p></p></td></tr>
+<tr></tr>
+<tr><td colspan="4" valign="top"><b>Resumen de Revisiòn</b></td></tr>
+<tr><td colspan="4" valign="top"><p><b>Estilo y Convenciones de Código:</b></p><p>El código presenta un buen cumplimiento de las guías de estilo establecidas. Aunque se identificaron algunos detalles menores, estos no afectan la claridad ni la estructura general del proyecto.</p></td></tr>
+<tr><td colspan="4" valign="top"><b>Lógica y Consistencia Funcional:</b><br>La lógica implementada es coherente y se mantiene uniforme a lo largo de todos los componentes revisados. Las funcionalidades analizadas responden adecuadamente a los requisitos del sistema, sin desviaciones ni errores críticos.</td></tr>
+<tr><td colspan="4" valign="top"><b>Documentación:</b><br>Se evidenció una cobertura limitada de comentarios y documentación en varias partes del código, e incluso su ausencia en algunos archivos. Esto podría dificultar futuras tareas de mantenimiento o incorporación de nuevos miembros al equipo. Se recomienda incorporar descripciones claras en funciones, clases y módulos clave.</td></tr>
+</table>
 
 ## 6.3. Validation Interviews
 
