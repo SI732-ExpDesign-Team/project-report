@@ -2,23 +2,166 @@
 
 ## 8.1. Experiment Planning
 
+La planificación de experimentos es crucial para definir una visión clara de lo que se busca aprender y cómo se logrará.
+
 ### 8.1.1. As-Is Summary
+
+Actualmente, el mercado de remodelación presenta una demanda creciente y un flujo constante de personas interesadas en construir o renovar sus hogares. Sin embargo, existe una problemática significativa: no hay plataformas digitales completas que reúnan a empresas de remodelación, lo que dificulta a los usuarios encontrar servicios adecuados y realizar un seguimiento integral de los proyectos. Los usuarios deben realizar búsquedas manuales, y muchas empresas carecen de un portafolio actualizado, lo que complica la toma de decisiones y la visibilidad para los profesionales. La escasez de soluciones tecnológicas específicas impide una digitalización eficiente del sector.
 
 ### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims
 
+Esta sección detalla los elementos base que nutren la planificación de los experimentos:
+
+### • Assumptions (Supuestos)
+
+- Los usuarios (contratistas y remodeladores) necesitan una plataforma digital que les permita contactar empresas, gestionar proyectos, acceder a un marketplace de materiales y ampliar su cartera de clientes.
+- Existe una creciente demanda en el mercado de remodelación de viviendas, que representa una valiosa oportunidad para la plataforma.
+- ReStyle puede diferenciarse de los competidores al ofrecer una plataforma digital que optimiza la experiencia para usuarios y profesionales.
+- Los clientes valorarán la facilidad, transparencia y calidad del servicio ofrecido por ReStyle.
+
+### • Knowledge Gaps (Brechas de Conocimiento)
+
+- La efectividad real de las optimizaciones en la búsqueda y comparación de remodeladores para aumentar la recurrencia de usuarios.
+- La curva de aprendizaje real de la plataforma y su efecto en la reducción de consultas al soporte.
+- El porcentaje exacto de aumento en la contratación de profesionales con mejores valoraciones tras implementar un sistema de evaluaciones.
+- La tasa de conversión efectiva de remodeladores a planes premium durante el primer año de lanzamiento.
+
+### • Ideas (Ideas)
+
+- Optimizar el proceso de búsqueda y comparación de remodeladores para mejorar la experiencia del contratista.
+- Diseñar una plataforma sencilla y accesible para atraer a una amplia base de usuarios.
+- Incorporar un sistema robusto de evaluaciones y comentarios para generar confianza y reflejar la reputación de los remodeladores.
+- Ofrecer planes de suscripción premium (mensuales y anuales) a los remodeladores para establecer una fuente de ingresos recurrente y financiar herramientas avanzadas.
+
+### • Claims (Afirmaciones)
+
+- Se proyecta un aumento del 20% en la tasa de recurrencia de usuarios contratistas en los primeros seis meses, con un incremento del 25% en los contratos recurrentes.
+- Se espera un incremento del 20% en la satisfacción del cliente y un 15% en la permanencia de los remodeladores en el servicio.
+- Se prevé un aumento del 30% en la contratación de profesionales con mejores valoraciones.
+- Se busca que al menos el 30% de los remodeladores se suscriban a planes premium durante el primer año.
+
 ### 8.1.3. Experiment-Ready Questions
 
+## Preguntas clave para el diseño de experimentos
+
+Basado en las brechas de conocimiento y las ideas, las preguntas clave para el diseño de experimentos son:
+
+- ¿Cómo podemos optimizar el proceso de búsqueda y comparación de remodeladores para incrementar la recurrencia de usuarios en un 20% en los primeros seis meses?
+- ¿De qué manera un diseño de plataforma sencillo y accesible atraerá a más visitantes interesados en remodelaciones y profesionales, reduciendo las consultas de soporte en un 30%?
+- ¿La incorporación de un sistema de evaluaciones y comentarios dentro de la plataforma aumentará la contratación de profesionales con mejores valoraciones en un 30%?
+- ¿La oferta de planes de suscripción premium (mensuales y anuales) para remodeladores resultará en que al menos el 30% de los visitantes de este segmento se suscriban durante el primer año de lanzamiento?
+
 ### 8.1.4. Question Backlog
+
+El backlog de preguntas, priorizado según la urgencia de validación para el modelo de negocio, es el siguiente :
+
+1. ¿Cómo podemos optimizar el proceso de búsqueda y comparación de remodeladores para incrementar la recurrencia de usuarios en un 20% en los primeros seis meses?
+2. ¿De qué manera un diseño de plataforma sencillo y accesible atraerá a más visitantes interesados en remodelaciones y profesionales, reduciendo las consultas de soporte en un 30%?
+3. ¿La incorporación de un sistema de evaluaciones y comentarios dentro de la plataforma aumentará la contratación de profesionales con mejores valoraciones en un 30%?
+4. ¿La oferta de planes de suscripción premium (mensuales y anuales) para remodeladores resultará en que al menos el 30% de los visitantes de este segmento se suscriban durante el primer año de lanzamiento?
 
 ### 8.1.5. Experiment Cards
 
 ## 8.2. Experiment Design
-
+En esta sección se formulan hipótesis claras, medibles y orientadas a validar los elementos clave del modelo de negocio de reStyle. Estas hipótesis surgen a partir de los supuestos, brechas de conocimiento e ideas definidos en el punto 8.1.2, y se vinculan directamente con las preguntas del backlog priorizado (8.1.4).
 ### 8.2.1. Hypotheses
 
-### 8.2.2. Measures
+#### Hipótesis 1:
+  Si optimizamos el proceso de búsqueda y comparación de remodeladores, entonces la tasa de recurrencia de los contratistas aumentará en un 20% durante los primeros seis meses.
 
+- Motivación: Mejorar la experiencia de búsqueda puede fomentar el uso repetido de la plataforma.
+
+- Validación: Un aumento sostenido en el número de sesiones por usuario contratista y contrataciones recurrentes.
+
+#### Hipótesis 2:
+Si el diseño de la plataforma es sencillo, claro y accesible, entonces se reducirá el número de consultas al soporte en al menos un 30% en los primeros tres meses tras el rediseño.
+
+- Motivación: Una interfaz clara puede reducir fricciones y dudas al usar el sistema.
+
+- Validación: Reducción del volumen de tickets o mensajes al equipo de soporte, especialmente en categorías de navegación y usabilidad.
+
+#### Hipótesis 3:
+Si se incorpora un sistema de evaluaciones y comentarios para remodeladores, entonces la contratación de profesionales con altas valoraciones aumentará en un 30%.
+
+- Motivación: Los usuarios tienden a confiar más en profesionales con buena reputación visible.
+
+- Validación: Mayor porcentaje de contrataciones concentrado en perfiles con calificación ≥ 4 estrellas.
+
+#### Hipótesis 4:
+Si se ofrece un plan de suscripción premium con herramientas avanzadas, al menos el 30% de los remodeladores activos en la plataforma se suscribirá en el primer año.
+
+- Motivación: Profesionales que desean destacar y captar más clientes estarán dispuestos a pagar por visibilidad y beneficios adicionales.
+
+- Validación: Porcentaje de remodeladores con cuenta premium vs. total de remodeladores activos.
+
+### 8.2.2. Measures
+Esta sección define qué se va a medir para evaluar si las hipótesis formuladas en el punto 8.2.1 son validadas o no. Las métricas seleccionadas deben ser cuantificables, relevantes para el negocio y directamente vinculadas con los cambios esperados.
+
+#### Medidas para la Hipótesis 1 (Optimización de búsqueda → +20% recurrencia de usuarios):
+- Tasa de recurrencia de contratistas
+(Usuarios que vuelven a contratar dentro de los primeros 6 meses después de su primera contratación).
+
+- Frecuencia de uso de la funcionalidad de búsqueda avanzada
+(Número de veces que se utiliza la herramienta de filtrado o comparación).
+
+- Tiempo promedio de búsqueda
+(Reducción del tiempo necesario entre el inicio de una búsqueda y la contratación de un remodelador).
+
+#### Medidas para la Hipótesis 2 (Diseño accesible → -30% consultas de soporte):
+- Cantidad de tickets o mensajes recibidos por soporte técnico
+(Especialmente en las categorías relacionadas con navegación, registro, búsqueda o contratación).
+
+- Tiempo de permanencia en páginas clave
+(Mayor claridad se asocia con menor permanencia innecesaria o rebotes).
+
+- Tasa de rebote por sección de la interfaz
+(Altas tasas pueden indicar confusión o mal diseño).
+
+#### Medidas para la Hipótesis 3 (Sistema de evaluaciones → +30% contratación de los mejor valorados):
+- Porcentaje de contrataciones hechas a remodeladores con 4 estrellas o más
+
+- Número total de evaluaciones publicadas por usuarios
+(Para validar si el sistema se está utilizando activamente).
+
+- Tasa de conversión de perfiles mejor valorados frente a los de baja calificación
+(Para ver si efectivamente los mejor calificados tienen mayor contratación).
+
+#### Medidas para la Hipótesis 4 (Planes premium → 30% suscripción remodeladores):
+- Porcentaje de remodeladores activos que adquieren el plan premium
+
+- Retención de remodeladores premium vs. estándar
+(¿Se quedan más tiempo los usuarios de pago?).
+
+- Número de funciones premium utilizadas por remodeladores suscritos
+(Para validar el uso real del valor agregado ofrecido).
 ### 8.2.3. Conditions
+Esta sección establece las condiciones bajo las cuales se llevarán a cabo los experimentos para asegurar que los resultados sean válidos, confiables y estén alineados con los objetivos de negocio. Las condiciones incluyen el entorno del experimento, la segmentación de usuarios, las variables a controlar y los plazos estimados.
+
+#### Condiciones generales para todos los experimentos
+- Entorno controlado: Los experimentos se realizarán en la plataforma web y app de ReStyle, asegurando un entorno digital estable y funcional.
+
+- Usuarios reales: Los datos se recopilarán de usuarios reales (contratistas y remodeladores) dentro de un entorno de producción o en pruebas A/B.
+
+- Segmentación geográfica: Los primeros experimentos estarán enfocados en una región piloto (por ejemplo, Lima Metropolitana) antes de expandirse.
+
+- Período de prueba: Cada experimento se ejecutará inicialmente durante 8 semanas, para observar tanto efectos inmediatos como tendencias sostenidas.
+
+#### Condiciones específicas por hipótesis
+- Hipótesis 1 – Optimización del buscador
+    Se habilitará una nueva versión del buscador a un grupo de usuarios A (50%) y se comparará con el grupo B (con versión antigua).
+ 
+ Ambos grupos deben tener perfiles similares en antigüedad y nivel de actividad.
+
+- Hipótesis 2 – Interfaz sencilla y accesible
+Se realizará un rediseño parcial (wireframes de baja carga cognitiva) que se mostrará a nuevos usuarios y se comparará con la versión anterior. <br><br>Se controlará la fuente del tráfico (redes sociales, Google Ads, tráfico orgánico) para reducir sesgos.
+
+- Hipótesis 3 – Sistema de evaluaciones
+Se activará el sistema de valoraciones solo en ciertos tipos de servicios o categorías durante el primer test (ej: cocina y baño).<br><br>Se incentivará a los usuarios a dejar una evaluación tras completar un proyecto.
+
+- Hipótesis 4 – Planes premium
+Se ofrecerá la opción premium a remodeladores registrados con más de 2 contratos exitosos.
+
+Se usará una landing especial para mostrar beneficios exclusivos a este grupo y comparar con remodeladores sin exposición a esta oferta.
 
 ### 8.2.4. Scale Calculations and Decisions
 
