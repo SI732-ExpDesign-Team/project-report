@@ -164,8 +164,80 @@ Esta sección establece las condiciones bajo las cuales se llevarán a cabo los 
 - Se usará una landing especial para mostrar beneficios exclusivos a este grupo y comparar con remodeladores sin exposición a esta oferta.
 
 ### 8.2.4. Scale Calculations and Decisions
+Esta sección define el tamaño mínimo de muestra requerido para validar estadísticamente las hipótesis planteadas y las decisiones clave sobre cómo escalar cada experimento a mayor número de usuarios si se observan resultados positivos.
+
+#### Tamaño mínimo de muestra (Sample Size)
+Para que los resultados de los experimentos sean estadísticamente significativos, necesitamos calcular cuántos usuarios deben participar en cada grupo (control y experimental). Utilizaremos las siguientes condiciones estándar para pruebas A/B:
+
+- Nivel de confianza (Confidence level): 95%
+
+  Esto significa que hay un 95% de probabilidad de que los resultados reflejen una diferencia real y no un error aleatorio.
+
+- Poder estadístico (Statistical power): 80%
+
+  Esto indica que si realmente existe un efecto (por ejemplo, una mejora en contrataciones), hay un 80% de probabilidad de detectarlo.
+
+- Tasa de conversión base esperada (Baseline conversion rate): 10%
+
+  Por ejemplo, si actualmente el 10% de los visitantes contratan un servicio, este será nuestro punto de comparación.
+
+- Diferencia mínima detectable (Minimum Detectable Effect, MDE): 10%
+
+  Esperamos ver al menos un 10% de mejora (por ejemplo, pasar de 10% a 11%).
+
+Utilizando una calculadora estadística estándar (por ejemplo, Evan Miller’s Sample Size Calculator), se obtiene lo siguiente:
+
+- Para detectar una diferencia del 10% con 95% de confianza y 80% de poder estadístico, partiendo de una tasa base del 10%:
+
+  Resultado: Se requieren aproximadamente 385 usuarios por grupo, es decir:
+
+  770 usuarios en total por experimento A/B.
+
+#### Escalamiento por hipótesis
+Hipótesis 1 – Optimización del proceso de búsqueda y comparación.
+
+- Tamaño de muestra inicial: 770 usuarios (385 grupo A y 385 grupo B)
+
+- Criterio de éxito: aumento significativo ≥10% en la tasa de recurrencia.
+
+- Escalamiento: Si se valida, se aplicará la mejora a todos los usuarios activos.
+
+Hipótesis 2 – Diseño sencillo y accesible.
+
+- Tamaño de muestra inicial: 600 usuarios (300 por grupo), nuevos visitantes.
+
+- Criterio de éxito: reducción ≥30% en consultas a soporte y mayor retención en primera semana.
+
+- Escalamiento: Publicación completa del diseño tras dos ciclos exitosos.
+
+Hipótesis 3 – Evaluaciones y comentarios.
+
+- Tamaño de muestra inicial: 500 usuarios (centrados en proyectos de cocina/baño)
+
+- Criterio de éxito: incremento ≥25-30% en contratación de profesionales con alta puntuación.
+
+- Escalamiento: Activación del sistema de reseñas en toda la plataforma.
+
+Hipótesis 4 – Planes de suscripción premium.
+
+- Tamaño de muestra inicial: 400 remodeladores activos
+
+- Criterio de éxito: ≥30% de suscripciones en el primer mes.
+
+- Escalamiento: Lanzamiento completo de los planes premium y nuevas funcionalidades asociadas.
+
+#### Decisiones clave sobre escalamiento
+
+- El escalamiento nacional (fuera de Lima) solo ocurrirá si se valida primero con éxito en la región piloto (Lima Metropolitana).
+
+- Se utilizarán experimentos iterativos (por ejemplo, cada 2 semanas) para ajustes rápidos y detección de mejoras marginales.
+
+- Los grupos de control se mantendrán en producción para comparar resultados a largo plazo (especialmente en métricas de retención y satisfacción).
+
+- En caso de baja significancia estadística o efecto nulo, se replanteará la hipótesis o se ajustará el diseño de la solución.
 
 ### 8.2.5. Methods Selection
+
 
 ### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection
 
