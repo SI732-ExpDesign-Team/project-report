@@ -312,10 +312,104 @@ Link del frontend desplegado: https://restyle-frontend.netlify.app/
 
 ## 7.4. Continuous Monitoring
 
+La monitorización continua es fundamental para garantizar la estabilidad, el rendimiento y la seguridad de la aplicación, tanto en el entorno backend (desplegado en Azure App Service) como en el frontend (desplegado en Netlify). Esta estrategia permite detectar de forma temprana anomalías y reaccionar rápidamente ante incidencias.
+
 ### 7.4.1. Tools and Practices
+
+**Backend:**  
+- **Azure Monitor y Application Insights:**  
+  Recopilan métricas de rendimiento (latencia, throughput, tasa de error) y logs de la aplicación, facilitando el diagnóstico de incidencias.  
+  Fuente: [Azure Monitor Overview](https://learn.microsoft.com/es-es/azure/azure-monitor/overview)
+
+  <img src="../assets/img/chapter-VII/sprint-2/backend-tools1.png">
+
+- **Azure Log Analytics:**  
+  Permite la agregación y análisis avanzado de logs usando el lenguaje de consultas KQL para profundizar en el comportamiento del sistema.  
+  Fuente: [Azure Log Analytics](https://learn.microsoft.com/es-es/azure/azure-monitor/logs/log-analytics-overview)
+
+   <img src="../assets/img/chapter-VII/sprint-2/backend-tools2.png">
+
+- **Prácticas Generales:**  
+  - Monitoreo 24/7 mediante dashboards personalizados en Azure.  
+  - Implementación de Health Checks en endpoints críticos para asegurar la disponibilidad.  
+  - Revisión periódica de logs y métricas a través de consultas automatizadas.
+
+**Frontend:**  
+- **Sentry y LogRocket:**  
+  Estas herramientas registran y analizan errores de la aplicación Angular en tiempo real, proporcionando información detallada (stack trace, contexto del navegador, etc.).  
+  Fuentes:  
+  - [Sentry para JavaScript](https://sentry.io/for/javascript/)  
+
+  <img src="../assets/img/chapter-VII/sprint-2/frontend-tools1.png">
+
+  - [LogRocket](https://logrocket.com/)
+
+  <img src="../assets/img/chapter-VII/sprint-2/frontend-tools2.png">
+
+- **Netlify Analytics:**  
+  Complementa la monitorización al ofrecer métricas de rendimiento (tiempos de carga, interacciones de usuario) directamente relacionadas con la experiencia en producción.  
+  Fuente: [Netlify Analytics](https://www.netlify.com/products/analytics/)
+
+    <img src="../assets/img/chapter-VII/sprint-2/frontend-tools3.png">
+
+- **Prácticas Generales:**  
+  - Integración de dashboards centralizados para la visualización de métricas y errores del frontend.  
+  - Uso de métricas de experiencia del usuario (UX) para optimizar la interfaz.
 
 ### 7.4.2. Monitoring Pipeline Components
 
+El pipeline de monitoreo se compone de los siguientes elementos:
+
+1. **Agregación de Datos:**  
+   - En el backend, agentes de Azure Monitor capturan métricas y logs, enviándolos a Azure Log Analytics para su análisis.  
+   - En el frontend, los SDKs de Sentry y LogRocket recogen eventos y errores, integrándose en dashboards personalizados.
+
+2. **Procesamiento y Análisis:**  
+   - Uso de consultas KQL en Azure Log Analytics para filtrar y analizar logs.  
+   - Los datos de Sentry/LogRocket se procesan para identificar patrones de errores y tendencias en el comportamiento de la aplicación.
+
+3. **Visualización:**  
+   - Dashboards en el portal de Azure muestran métricas clave (latencia, tasa de error, uso de recursos) en tiempo real.  
+   - Paneles interactivos en Sentry y Netlify Analytics ofrecen una visión clara de la salud y el rendimiento del frontend.
+
+    <img src="../assets/img/chapter-VII/sprint-2/monitoring1.png">
+
 ### 7.4.3. Alerting Pipeline Components
 
+Para reaccionar de forma inmediata ante incidentes, se configura un sistema robusto de alertas:
+
+1. **Definición de Umbrales:**  
+   - Establecimiento de límites críticos, por ejemplo:  
+     - Latencia superior a 1000 ms.  
+     - Tasa de error HTTP (5xx) que supere un porcentaje determinado.  
+     - Disponibilidad menor al 99.9%.
+   - Ejemplo de consulta en Azure Log Analytics para detectar alta latencia:
+     ```kql
+     requests
+     | where duration > 1000
+     | summarize avg(duration) by bin(timestamp, 5m)
+     ```
+
+2. **Configuración de Alertas:**  
+   - En Azure Monitor se configuran alertas basadas en las consultas, las cuales se activan al superar los umbrales predefinidos.  
+   - Sentry y LogRocket permiten la generación de alertas en tiempo real en el frontend ante la detección de errores críticos.
+
+3. **Integración con Acción:**  
+   - Las alertas se integran con Action Groups de Azure para enviar notificaciones automáticas (correo, SMS, Slack) al equipo de soporte.
+
 ### 7.4.4. Notification Pipeline Components
+
+El mecanismo de notificaciones asegura que toda alerta se comunique rápidamente al equipo responsable:
+
+1. **Canales de Notificación:**  
+   - **Slack/Teams:** Integraciones configuradas para enviar mensajes a canales específicos cuando se dispara una alerta.  
+   - **Correo Electrónico y SMS:** Utilización de Action Groups en Azure para notificar de forma inmediata a los contactos asignados.
+
+2. **Escalamiento y Seguimiento:**  
+   - Si una alerta no es atendida en un tiempo determinado, se activa un proceso de escalamiento que involucra a niveles superiores de soporte.  
+   - Se registra la recepción y resolución de alertas mediante sistemas de tickets, como Jira o ServiceNow, para garantizar un seguimiento adecuado.
+
+3. **Confirmación de Notificaciones:**  
+   - Procedimientos que confirman la recepción de notificaciones, permitiendo una trazabilidad completa de la respuesta ante incidentes.
+
+Mediante la integración de estas herramientas y prácticas se garantiza un ecosistema de monitoreo robusto, que no solo detecta y alerta sobre posibles incidencias, sino que también facilita una respuesta rápida y eficaz, minimizando el impacto en la experiencia del usuario y manteniendo la alta disponibilidad del sistema.

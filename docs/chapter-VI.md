@@ -364,6 +364,188 @@ Finalmente, se garantizó que la aplicación compilara sin errores tanto en ento
 
 ### 6.3.2. Registro de Entrevistas
 
+Entrevista a Contratistas
+
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 1</th>
+                <th>Jackeline Morey</th>
+            </tr>
+            <tr>
+                <th>Entrevistador </th>
+                <th>Alejandra Diaz</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td>26</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>Lima</td>
+            </tr>
+            <tr>
+                <td><img src="../assets/img/chapter-VI/entrevistas/contratista1.png" alt="agregar foto"></td>
+                <td><strong>Resumen:</strong><br>
+                  El usuario pudo completar todos los User Goals, esta contento con el estilo y funcionabilidad de tanto la aplicación como el landing page. Sin embargo, destaca algunos cambios que se pueden realizar en cuanto al diseño de algunas pages de la aplicación para que esta pueda ser más homogénea y se vea más profesional.
+                </td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EXFVBPw31vhNm8JgK1kX7wcBDcj5nyBO_LXvUSXAGDtvgA?e=tKk9PO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</td>
+            </tr>
+            <tr>
+                <th>Entrevistado 2</th>
+                <th></th>
+            <tr>
+                <th>Entrevistador </th>
+                <th></th>
+            </tr>
+            <tr>
+                <td>Edad</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td></td>
+            </tr>
+            <tr>
+            <td><img src=""></td>
+                <td><strong>Resumen:</strong><br></td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>Entrevistado 3</th>
+                <th></th>
+            <tr>
+                <th>Entrevistador </th>
+                <th></th>
+            </tr>
+            <tr>
+                <td>Edad</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td></td>
+            </tr>
+            <tr>
+            <td><img src="" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br></td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td></td>
+            </tr>
+        </tbody>
+</table>
+
+Entrevista a Remodeladores
+
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 1</th>
+                <th>Olga Samanez</th>
+            <tr>
+                <th>Entrevistador </th>
+                <th>Alejandra Diaz</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td>52</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>Pueblo Libre</td>
+            </tr>
+            <tr>
+                <td><img src="../assets/img/chapter-VI/entrevistas/remodelador1.png" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br>La entrevistada logra completar todos los user goals, desde visualizar el landing page, encontrar el boton call to action, iniciar sesion en la aplicacion web, realizar busqueda de remodeladores y utilizar el project management. Finaliza solicitando un tutorial pequeño o flechas que indiquen como utilizar la aplicacion para los visitantes nuevos, tambien solicita colores más llamativos en el sidebar.</td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EWhw1hIvQPROrW67I7w5xtIB-Nc06JsHrfXsDsqGQt76Hg?e=Kvpjn5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</td>
+            </tr>
+            <tr>
+                <th>Entrevistado 2</th>
+                <th></th>
+            <tr>
+                <th>Entrevistador </th>
+                <th></th>
+            </tr>
+            <tr>
+                <td>Edad</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td></td>
+            </tr>
+            <tr>
+            <td><img src="" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br></td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>Entrevistado 3</th>
+                <th></th>
+            <tr>
+                <th>Entrevistador </th>
+                <th></th>
+            </tr>
+            <tr>
+                <td>Edad</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td></td>
+            </tr>
+            <tr>
+            <td><img src="" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br>.</td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td></td>
+            </tr>
+</table>
+
 ### 6.3.3. Evaluaciones según heurísticas
 
 ## 6.4. Auditoría de Experiencias de Usuario
