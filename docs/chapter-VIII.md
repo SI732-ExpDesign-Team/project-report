@@ -2,13 +2,63 @@
 
 ## 8.1. Experiment Planning
 
+La planificación de experimentos es crucial para definir una visión clara de lo que se busca aprender y cómo se logrará.
+
 ### 8.1.1. As-Is Summary
+
+Actualmente, el mercado de remodelación presenta una demanda creciente y un flujo constante de personas interesadas en construir o renovar sus hogares. Sin embargo, existe una problemática significativa: no hay plataformas digitales completas que reúnan a empresas de remodelación, lo que dificulta a los usuarios encontrar servicios adecuados y realizar un seguimiento integral de los proyectos. Los usuarios deben realizar búsquedas manuales, y muchas empresas carecen de un portafolio actualizado, lo que complica la toma de decisiones y la visibilidad para los profesionales. La escasez de soluciones tecnológicas específicas impide una digitalización eficiente del sector.
 
 ### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims
 
+Esta sección detalla los elementos base que nutren la planificación de los experimentos:
+
+### • Assumptions (Supuestos)
+
+- Los usuarios (contratistas y remodeladores) necesitan una plataforma digital que les permita contactar empresas, gestionar proyectos, acceder a un marketplace de materiales y ampliar su cartera de clientes.
+- Existe una creciente demanda en el mercado de remodelación de viviendas, que representa una valiosa oportunidad para la plataforma.
+- ReStyle puede diferenciarse de los competidores al ofrecer una plataforma digital que optimiza la experiencia para usuarios y profesionales.
+- Los clientes valorarán la facilidad, transparencia y calidad del servicio ofrecido por ReStyle.
+
+### • Knowledge Gaps (Brechas de Conocimiento)
+
+- La efectividad real de las optimizaciones en la búsqueda y comparación de remodeladores para aumentar la recurrencia de usuarios.
+- La curva de aprendizaje real de la plataforma y su efecto en la reducción de consultas al soporte.
+- El porcentaje exacto de aumento en la contratación de profesionales con mejores valoraciones tras implementar un sistema de evaluaciones.
+- La tasa de conversión efectiva de remodeladores a planes premium durante el primer año de lanzamiento.
+
+### • Ideas (Ideas)
+
+- Optimizar el proceso de búsqueda y comparación de remodeladores para mejorar la experiencia del contratista.
+- Diseñar una plataforma sencilla y accesible para atraer a una amplia base de usuarios.
+- Incorporar un sistema robusto de evaluaciones y comentarios para generar confianza y reflejar la reputación de los remodeladores.
+- Ofrecer planes de suscripción premium (mensuales y anuales) a los remodeladores para establecer una fuente de ingresos recurrente y financiar herramientas avanzadas.
+
+### • Claims (Afirmaciones)
+
+- Se proyecta un aumento del 20% en la tasa de recurrencia de usuarios contratistas en los primeros seis meses, con un incremento del 25% en los contratos recurrentes.
+- Se espera un incremento del 20% en la satisfacción del cliente y un 15% en la permanencia de los remodeladores en el servicio.
+- Se prevé un aumento del 30% en la contratación de profesionales con mejores valoraciones.
+- Se busca que al menos el 30% de los remodeladores se suscriban a planes premium durante el primer año.
+
 ### 8.1.3. Experiment-Ready Questions
 
+## Preguntas clave para el diseño de experimentos
+
+Basado en las brechas de conocimiento y las ideas, las preguntas clave para el diseño de experimentos son:
+
+- ¿Cómo podemos optimizar el proceso de búsqueda y comparación de remodeladores para incrementar la recurrencia de usuarios en un 20% en los primeros seis meses?
+- ¿De qué manera un diseño de plataforma sencillo y accesible atraerá a más visitantes interesados en remodelaciones y profesionales, reduciendo las consultas de soporte en un 30%?
+- ¿La incorporación de un sistema de evaluaciones y comentarios dentro de la plataforma aumentará la contratación de profesionales con mejores valoraciones en un 30%?
+- ¿La oferta de planes de suscripción premium (mensuales y anuales) para remodeladores resultará en que al menos el 30% de los visitantes de este segmento se suscriban durante el primer año de lanzamiento?
+
 ### 8.1.4. Question Backlog
+
+El backlog de preguntas, priorizado según la urgencia de validación para el modelo de negocio, es el siguiente :
+
+1. ¿Cómo podemos optimizar el proceso de búsqueda y comparación de remodeladores para incrementar la recurrencia de usuarios en un 20% en los primeros seis meses?
+2. ¿De qué manera un diseño de plataforma sencillo y accesible atraerá a más visitantes interesados en remodelaciones y profesionales, reduciendo las consultas de soporte en un 30%?
+3. ¿La incorporación de un sistema de evaluaciones y comentarios dentro de la plataforma aumentará la contratación de profesionales con mejores valoraciones en un 30%?
+4. ¿La oferta de planes de suscripción premium (mensuales y anuales) para remodeladores resultará en que al menos el 30% de los visitantes de este segmento se suscriban durante el primer año de lanzamiento?
 
 ### 8.1.5. Experiment Cards
 
