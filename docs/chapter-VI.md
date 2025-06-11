@@ -370,7 +370,7 @@ Entrevista a Contratistas
         <thead>
             <tr>
                 <th>Entrevistado 1</th>
-                <th>Jose Gutierrez</th>
+                <th>Jackeline Morey</th>
             </tr>
             <tr>
                 <th>Entrevistador </th>
@@ -398,7 +398,7 @@ Entrevista a Contratistas
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EXFVBPw31vhNm8JgK1kX7wcBDcj5nyBO_LXvUSXAGDtvgA?e=tKk9PO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</td>
             </tr>
             <tr>
                 <th>Entrevistado 2</th>
@@ -488,7 +488,7 @@ Entrevista a Remodeladores
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
-                <td></td>
+                <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EWhw1hIvQPROrW67I7w5xtIB-Nc06JsHrfXsDsqGQt76Hg?e=Kvpjn5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</td>
             </tr>
             <tr>
                 <th>Entrevistado 2</th>
