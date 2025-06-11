@@ -147,21 +147,21 @@ Esta sección establece las condiciones bajo las cuales se llevarán a cabo los 
 - Período de prueba: Cada experimento se ejecutará inicialmente durante 8 semanas, para observar tanto efectos inmediatos como tendencias sostenidas.
 
 #### Condiciones específicas por hipótesis
-- Hipótesis 1 – Optimización del buscador
-    Se habilitará una nueva versión del buscador a un grupo de usuarios A (50%) y se comparará con el grupo B (con versión antigua).
- 
- Ambos grupos deben tener perfiles similares en antigüedad y nivel de actividad.
+  #### Hipótesis 1 – Optimización del buscador
+  - Se habilitará una nueva versión del buscador a un grupo de usuarios A (50%) y se comparará con el grupo B (con versión antigua).
+  - Ambos grupos deben tener perfiles similares en antigüedad y nivel de actividad.
 
-- Hipótesis 2 – Interfaz sencilla y accesible
-Se realizará un rediseño parcial (wireframes de baja carga cognitiva) que se mostrará a nuevos usuarios y se comparará con la versión anterior. <br><br>Se controlará la fuente del tráfico (redes sociales, Google Ads, tráfico orgánico) para reducir sesgos.
+#### Hipótesis 2 – Interfaz sencilla y accesible
+- Se realizará un rediseño parcial (wireframes de baja carga cognitiva) que se mostrará a nuevos usuarios y se comparará con la versión anterior.
+- Se controlará la fuente del tráfico (redes sociales, Google Ads, tráfico orgánico) para reducir sesgos.
 
-- Hipótesis 3 – Sistema de evaluaciones
-Se activará el sistema de valoraciones solo en ciertos tipos de servicios o categorías durante el primer test (ej: cocina y baño).<br><br>Se incentivará a los usuarios a dejar una evaluación tras completar un proyecto.
+#### Hipótesis 3 – Sistema de evaluaciones
+- Se activará el sistema de valoraciones solo en ciertos tipos de servicios o categorías durante el primer test (ej: cocina y baño).
+- Se incentivará a los usuarios a dejar una evaluación tras completar un proyecto.
 
-- Hipótesis 4 – Planes premium
-Se ofrecerá la opción premium a remodeladores registrados con más de 2 contratos exitosos.
-
-Se usará una landing especial para mostrar beneficios exclusivos a este grupo y comparar con remodeladores sin exposición a esta oferta.
+#### Hipótesis 4 – Planes premium
+- Se ofrecerá la opción premium a remodeladores registrados con más de 2 contratos exitosos.
+- Se usará una landing especial para mostrar beneficios exclusivos a este grupo y comparar con remodeladores sin exposición a esta oferta.
 
 ### 8.2.4. Scale Calculations and Decisions
 
