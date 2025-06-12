@@ -146,7 +146,7 @@ Esta sección establece las condiciones bajo las cuales se llevarán a cabo los 
 
 - Período de prueba: Cada experimento se ejecutará inicialmente durante 8 semanas, para observar tanto efectos inmediatos como tendencias sostenidas.
 
-#### Condiciones específicas por hipótesis
+### Condiciones específicas por hipótesis
   #### Hipótesis 1 – Optimización del buscador
   - Se habilitará una nueva versión del buscador a un grupo de usuarios A (50%) y se comparará con el grupo B (con versión antigua).
   - Ambos grupos deben tener perfiles similares en antigüedad y nivel de actividad.
@@ -166,7 +166,7 @@ Esta sección establece las condiciones bajo las cuales se llevarán a cabo los 
 ### 8.2.4. Scale Calculations and Decisions
 Esta sección define el tamaño mínimo de muestra requerido para validar estadísticamente las hipótesis planteadas y las decisiones clave sobre cómo escalar cada experimento a mayor número de usuarios si se observan resultados positivos.
 
-#### Tamaño mínimo de muestra (Sample Size)
+### Tamaño mínimo de muestra (Sample Size)
 Para que los resultados de los experimentos sean estadísticamente significativos, necesitamos calcular cuántos usuarios deben participar en cada grupo (control y experimental). Utilizaremos las siguientes condiciones estándar para pruebas A/B:
 
 - Nivel de confianza (Confidence level): 95%
@@ -193,7 +193,7 @@ Utilizando una calculadora estadística estándar (por ejemplo, Evan Miller’s 
 
   770 usuarios en total por experimento A/B.
 
-#### Escalamiento por hipótesis
+### Escalamiento por hipótesis
 Hipótesis 1 – Optimización del proceso de búsqueda y comparación.
 
 - Tamaño de muestra inicial: 770 usuarios (385 grupo A y 385 grupo B)
@@ -226,7 +226,7 @@ Hipótesis 4 – Planes de suscripción premium.
 
 - Escalamiento: Lanzamiento completo de los planes premium y nuevas funcionalidades asociadas.
 
-#### Decisiones clave sobre escalamiento
+### Decisiones clave sobre escalamiento
 
 - El escalamiento nacional (fuera de Lima) solo ocurrirá si se valida primero con éxito en la región piloto (Lima Metropolitana).
 
@@ -237,6 +237,38 @@ Hipótesis 4 – Planes de suscripción premium.
 - En caso de baja significancia estadística o efecto nulo, se replanteará la hipótesis o se ajustará el diseño de la solución.
 
 ### 8.2.5. Methods Selection
+En esta sección se detallan los métodos a utilizar para validar las hipótesis planteadas, considerando el tipo de datos necesarios, el nivel de fidelidad requerido y la etapa de desarrollo del producto.
+
+### Métodos Cuantitativos
+
+Estos métodos permitirán validar hipótesis relacionadas con comportamiento, métricas de conversión y patrones de uso a mayor escala.
+
+| Método                                   | Justificación                                                                                                                                                                                                                                                                 |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **A/B Testing**                          | Ideal para comparar variantes de funcionalidades como el buscador optimizado, presentación de remodeladores, o la incorporación de filtros. Permite medir con precisión el impacto de un cambio en métricas clave como tasa de conversión o tiempo promedio en la plataforma. |
+| **Análisis de Cohortes**                 | Útil para analizar el comportamiento de grupos de usuarios (p. ej., contratistas nuevos vs. recurrentes) a lo largo del tiempo, validando hipótesis sobre retención y recurrencia.                                                                                            |
+| **Funnel Analysis**                      | Ayuda a identificar en qué etapa del flujo de uso (registro, búsqueda, contratación, contacto) se producen los mayores abandonos, y así validar hipótesis sobre mejoras UX o accesibilidad.                                                                                   |
+| **Encuestas con escala Likert (en app)** | Cuantifica la percepción del usuario sobre facilidad de uso, confianza en los evaluadores y satisfacción general.                                                                                                                                                             |
+| **Segmentación por comportamiento**      | Permite analizar si ciertos segmentos (p. ej., usuarios frecuentes vs. esporádicos) reaccionan de manera diferente a las mejoras, especialmente útil para el sistema de suscripciones.                                                                                        |
+### Métodos Cualitativos
+Complementan los datos cuantitativos para entender los "porqués" detrás del comportamiento del usuario.
+
+| Método                                  | Justificación                                                                                                                                                                              |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Entrevistas en profundidad**          | Ideal en etapas tempranas para validar supuestos y detectar insights sobre cómo los usuarios perciben la plataforma, qué barreras tienen, o qué funcionalidades valoran más.               |
+| **Pruebas de usabilidad (think aloud)** | Esenciales para identificar problemas en el diseño y navegación del sistema antes o durante los experimentos. Permiten mejorar la experiencia sin esperar datos a gran escala.             |
+| **Diarios de usuario (User Diaries)**   | Sirven para recolectar experiencias más ricas y contextuales durante periodos prolongados de uso de la plataforma. Especialmente útiles para evaluar la percepción del valor en el tiempo. |
+
+
+### Selección basada en la hipótesis
+| Hipótesis clave                              | Métodos sugeridos                                          |
+| -------------------------------------------- | ---------------------------------------------------------- |
+| Optimización de búsqueda mejora recurrencia  | A/B testing + análisis de cohorte + entrevistas            |
+| Diseño sencillo reduce consultas de soporte  | Pruebas de usabilidad + funnel analysis + encuestas        |
+| Sistema de evaluaciones aumenta contratación | A/B testing + segmentación de comportamiento + entrevistas |
+| Planes premium generan suscripciones         | Funnel analysis + encuestas + entrevistas a remodeladores  |
+
+
 
 
 ### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection
