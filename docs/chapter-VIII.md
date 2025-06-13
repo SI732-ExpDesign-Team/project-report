@@ -268,10 +268,42 @@ Complementan los datos cuantitativos para entender los "porqués" detrás del co
 | Sistema de evaluaciones aumenta contratación | A/B testing + segmentación de comportamiento + entrevistas |
 | Planes premium generan suscripciones         | Funnel analysis + encuestas + entrevistas a remodeladores  |
 
-
-
-
 ### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection
+
+El objetivo de esta sección es definir con claridad qué se va a medir, por qué se mide y cómo se utilizarán esos datos para evaluar el éxito de los experimentos y tomar decisiones informadas.
+
+### Goals (Objetivos Analíticos)
+- Incrementar la recurrencia de usuarios contratistas.<br>
+  Validar si las mejoras en la búsqueda y experiencia de usuario logran que los contratistas regresen y contraten más de una vez.
+
+- Reducir la fricción de uso y dependencia del soporte.<br>
+  Verificar si el diseño intuitivo disminuye el número de consultas, tickets o errores reportados.
+
+- Incrementar la contratación de remodeladores con mejores valoraciones.<br>
+  Medir si el sistema de evaluaciones incide directamente en decisiones de contratación.
+
+- Validar viabilidad del modelo de monetización mediante suscripciones premium.<br>
+  Medir la aceptación, conversión y retención de remodeladores en planes pagos.
+
+### KPIs (Indicadores Clave de Rendimiento)
+
+| Objetivo                                | KPI Principal                                 | Fórmula / Descripción                                                                  |
+| --------------------------------------- | --------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Recurrencia de usuarios                 | **Tasa de Retención**                         | % de usuarios que regresan y contratan en un período definido (ej. dentro de 30 días). |
+| Facilidad de uso                        | **Número de tickets de soporte**              | Total de consultas o incidencias reportadas durante el uso de la plataforma.           |
+| Efectividad del sistema de evaluaciones | **Tasa de contratación de top remodeladores** | % de contrataciones que se hacen a remodeladores con calificación ≥ 4.5/5.             |
+| Viabilidad del plan premium             | **Tasa de conversión a plan premium**         | % de remodeladores activos que se suscriben a un plan pago.                            |
+
+### Otras Métricas Complementarias
+| Métrica                                 | Descripción                                                                                                                          |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Tiempo medio en búsqueda**            | Tiempo promedio que toma a un contratista filtrar, explorar y contactar a un remodelador. Idealmente debe disminuir con las mejoras. |
+| **Net Promoter Score (NPS)**            | Evalúa la satisfacción general y probabilidad de recomendación. Se obtiene a través de encuestas.                                    |
+| **Customer Satisfaction (CSAT)**        | Calificación del usuario luego de una contratación o interacción, típicamente medida en escala 1–5.                                  |
+| **Tasa de rebote**                      | % de usuarios que abandonan sin interactuar con el sistema de búsqueda. Un indicador de experiencia poco atractiva o confusa.        |
+| **Churn Rate de remodeladores premium** | % de remodeladores premium que cancelan su suscripción. Ayuda a evaluar sostenibilidad del modelo de ingresos.                       |
+
+
 
 ### 8.2.7. Web and Mobile Tracking Plan
 
