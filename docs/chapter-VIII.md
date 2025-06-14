@@ -432,6 +432,9 @@ Hemos realizado el despliegue del web service desde Azure App Services:
 Web services desplegados: https://restyle-web-services-cyf0axfvakcxaehd.brazilsouth-01.azurewebsites.net/swagger-ui/index.html
 
 #### 8.3.3.6. Team Collaboration Insights
+Para el desarrollo de la app web todos los repositorios se realizaron en GitHub. A continuación, se mostrará el gráfico de commits de las diferentes repositorios:
+
+<img src="../assets/img/chapter-VIII/Team Collaboration Insights.jpg"> 
 
 ### 8.3.4. To-Be Validation Interviews
 
