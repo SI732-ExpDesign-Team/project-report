@@ -6,7 +6,43 @@ La planificación de experimentos es crucial para definir una visión clara de l
 
 ### 8.1.1. As-Is Summary
 
-Actualmente, el mercado de remodelación presenta una demanda creciente y un flujo constante de personas interesadas en construir o renovar sus hogares. Sin embargo, existe una problemática significativa: no hay plataformas digitales completas que reúnan a empresas de remodelación, lo que dificulta a los usuarios encontrar servicios adecuados y realizar un seguimiento integral de los proyectos. Los usuarios deben realizar búsquedas manuales, y muchas empresas carecen de un portafolio actualizado, lo que complica la toma de decisiones y la visibilidad para los profesionales. La escasez de soluciones tecnológicas específicas impide una digitalización eficiente del sector.
+Esta evaluación describe el funcionamiento operativo de la aplicación en su forma actual,
+centrándose en las experiencias tanto de los arrendadores como de los estudiantes.
+
+Actualmente, la plataforma ReStyle está diseñada para optimizar la experiencia de remodelación del hogar, actuando como un puente entre usuarios y empresas especializadas. La aplicación permite a los clientes contratar servicios de remodelación de manera directa y gestionar todo el proceso desde una sola herramienta, incluyendo funcionalidades como el seguimiento del avance de los proyectos, administración de tareas.
+
+**Funcionalidades Actuales de ReStyle:**
+
+*   **Gestión de Cuentas y Roles:**
+    *   Capacidad de crear una cuenta como contratista para acceder al mercado que provee la plataforma.
+    *   Capacidad de crear una cuenta como remodelador para promocionar sus servicios.
+    *   Visualización del home de la plataforma con opciones disponibles según el rol del usuario.
+    *   Visualización de páginas no encontradas.
+
+*   **Gestión de Portafolio para Remodeladores:**
+    *   Herramienta para subir contenido multimedia al portafolio y promocionar servicios y proyectos pasados a posibles clientes.
+    *   Capacidad de buscar proyectos hechos por remodeladores en sus portafolios.
+*   **Búsqueda y Contratación de Servicios de Remodelación**:
+    *   Funcionalidad para buscar empresas remodeladoras por ubicación o expertise para obtener resultados personalizados.
+    *   Posibilidad de revisar críticas y opiniones de otros clientes para conocer la calidad del trabajo del remodelador.
+    *   Opción para agregar críticas y opiniones sobre el remodelador con quien se realizó un proyecto.
+    *   Funcionalidad para programar una consulta con un remodelador para discutir necesidades y obtener recomendaciones.
+    
+*   **Gestión y Seguimiento de Proyectos:**
+    *   Herramienta para que el remodelador vea los hitos del seguimiento de su proyecto y sepa en qué estado y etapa se encuentra.
+
+**Problemas Identificados:**
+
+*   **Dificultades en la Búsqueda y Toma de Decisiones para Usuarios:** Los usuarios deben realizar búsquedas manuales para encontrar empresas confiables, y muchas de estas carecen de un portafolio actualizado, lo que complica la toma de decisiones informadas.
+*   **Problemas de Visibilidad para Profesionales:** Las empresas de remodelación deben promocionar sus servicios sin garantías de visibilidad ante potenciales clientes.
+*   **Digitalización Ineficiente del Sector:** Existe una escasa oferta de soluciones tecnológicas específicas para el rubro de remodelación y construcción, impidiendo una digitalización eficiente del sector.
+
+**Oportunidades de Mejora:**
+
+*   **Optimizar Búsqueda y Comparación de Remodeladores:** Mejorar el proceso de búsqueda y comparación para elevar la tasa de recurrencia de usuarios contratistas.
+*   **Diseño Sencillo y Accesible:** Implementar un diseño de plataforma que sea fácil de usar y accesible para atraer una base de usuarios más amplia y reducir las consultas al soporte.
+*   **Sistema Robusto de Evaluaciones y Comentarios:** Incorporar un sistema que genere confianza y refleje de manera efectiva la reputación de los remodeladores.
+*   **Planes de Suscripción Premium:** Ofrecer planes de suscripción (mensuales y anuales) para remodeladores, estableciendo una fuente de ingresos recurrente y permitiendo el desarrollo de herramientas avanzadas.
 
 ### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims
 
@@ -53,14 +89,58 @@ Basado en las brechas de conocimiento y las ideas, las preguntas clave para el d
 
 ### 8.1.4. Question Backlog
 
-El backlog de preguntas, priorizado según la urgencia de validación para el modelo de negocio, es el siguiente :
+A continuación, se presenta el **Backlog de Preguntas** para ReStyle:
 
-1. ¿Cómo podemos optimizar el proceso de búsqueda y comparación de remodeladores para incrementar la recurrencia de usuarios en un 20% en los primeros seis meses?
-2. ¿De qué manera un diseño de plataforma sencillo y accesible atraerá a más visitantes interesados en remodelaciones y profesionales, reduciendo las consultas de soporte en un 30%?
-3. ¿La incorporación de un sistema de evaluaciones y comentarios dentro de la plataforma aumentará la contratación de profesionales con mejores valoraciones en un 30%?
-4. ¿La oferta de planes de suscripción premium (mensuales y anuales) para remodeladores resultará en que al menos el 30% de los visitantes de este segmento se suscriban durante el primer año de lanzamiento?
+| Pregunta | Prioridad | Objetivo |
+|---|---|---|
+| ¿Cómo podemos optimizar el proceso de búsqueda y comparación de remodeladores para incrementar la recurrencia de usuarios en un 20% en los primeros seis meses? | Alta | Incrementar la recurrencia de usuarios contratistas en un 20% en los primeros seis meses. |
+| ¿De qué manera un diseño de plataforma sencillo y accesible atraerá a más visitantes interesados en remodelaciones y profesionales, reduciendo las consultas de soporte en un 30%? | Media | Atraer a más visitantes interesados en remodelaciones y profesionales, y reducir las consultas de soporte en un 30%. |
+| ¿La incorporación de un sistema de evaluaciones y comentarios dentro de la plataforma aumentará la contratación de profesionales con mejores valoraciones en un 30%? | Media | Aumentar la contratación de profesionales con mejores valoraciones en un 30%. |
+| ¿La oferta de planes de suscripción premium (mensuales y anuales) para remodeladores resultará en que al menos el 30% de los visitantes de este segmento se suscriban durante el primer año de lanzamiento? | Alta | Lograr que al menos el 30% de los visitantes del segmento remodelador se suscriban a los planes premium durante el primer año de lanzamiento. |
 
 ### 8.1.5. Experiment Cards
+
+A continuación, se presentan las Tarjetas de Experimento (Experiment Cards) para ReStyle
+
+### **8.1.5. Experiment Cards**
+
+| Elemento | Descripción |
+|---|---|
+| **Experiment Card 1 – Optimización de búsqueda** | |
+| **Question** | ¿Cómo podemos **optimizar el proceso de búsqueda y comparación de remodeladores** para incrementar la recurrencia de usuarios en un 20% en los primeros seis meses? |
+| **Why** | Mejorar la experiencia de búsqueda puede fomentar el uso repetido de la plataforma. |
+| **What** | Se habilitará una nueva versión del buscador a un grupo de usuarios A (50%) y se comparará con el grupo B (con versión antigua). Ambos grupos deben tener perfiles similares en antigüedad y nivel de actividad. Se medirán los datos de uso para validar la hipótesis. |
+| **Hipótesis** | Si optimizamos el proceso de búsqueda y comparación de remodeladores, entonces la tasa de recurrencia de los contratistas aumentará en un 20% durante los primeros seis meses. |
+
+<br>
+
+| Elemento | Descripción |
+|---|---|
+| **Experiment Card 2 – Interfaz sencilla y accesible** | |
+| **Question** | ¿De qué manera un **diseño de plataforma sencillo y accesible** atraerá a más visitantes interesados en remodelaciones y profesionales, reduciendo las consultas de soporte en un 30%? |
+| **Why** | Una interfaz clara puede reducir fricciones y dudas al usar el sistema. |
+| **What** | Se realizará un rediseño parcial (wireframes de baja carga cognitiva) que se mostrará a nuevos usuarios y se comparará con la versión anterior. Se controlará la fuente del tráfico (redes sociales, Google Ads, tráfico orgánico) para reducir sesgos. Se medirá la reducción de tickets o mensajes al soporte. |
+| **Hipótesis** | Si el diseño de la plataforma es sencillo, claro y accesible, entonces se reducirá el número de consultas al soporte en al menos un 30% en los primeros tres meses tras el rediseño. |
+
+<br>
+
+| Elemento | Descripción |
+|---|---|
+| **Experiment Card 3 – Sistema de evaluaciones** | |
+| **Question** | ¿La incorporación de un **sistema de evaluaciones y comentarios** dentro de la plataforma aumentará la contratación de profesionales con mejores valoraciones en un 30%? |
+| **Why** | Los usuarios tienden a confiar más en profesionales con buena reputación visible. |
+| **What** | Se activará el sistema de valoraciones solo en ciertos tipos de servicios o categorías durante el primer test (ej: cocina y baño). Se incentivará a los usuarios a dejar una evaluación tras completar un proyecto. Se medirá el porcentaje de contrataciones en perfiles con alta calificación. |
+| **Hipótesis** | Si se incorpora un sistema de evaluaciones y comentarios para remodeladores, entonces la contratación de profesionales con altas valoraciones aumentará en un 30%. |
+
+<br>
+
+| Elemento | Descripción |
+|---|---|
+| **Experiment Card 4 – Planes premium** | |
+| **Question** | ¿La oferta de **planes de suscripción premium (mensuales y anuales)** para remodeladores resultará en que al menos el 30% de los visitantes de este segmento se suscriban durante el primer año de lanzamiento? |
+| **Why** | Profesionales que desean destacar y captar más clientes estarán dispuestos a pagar por visibilidad y beneficios adicionales. |
+| **What** | Se ofrecerá la opción premium a remodeladores registrados con más de 2 contratos exitosos. Se usará una landing especial para mostrar beneficios exclusivos a este grupo y comparar con remodeladores sin exposición a esta oferta. Se medirá el porcentaje de remodeladores con cuenta premium vs. el total de remodeladores activos. |
+| **Hipótesis** | Si se ofrece un plan de suscripción premium con herramientas avanzadas, al menos el 30% de los remodeladores activos en la plataforma se suscribirá en el primer año|
 
 ## 8.2. Experiment Design
 En esta sección se formulan hipótesis claras, medibles y orientadas a validar los elementos clave del modelo de negocio de reStyle. Estas hipótesis surgen a partir de los supuestos, brechas de conocimiento e ideas definidos en el punto 8.1.2, y se vinculan directamente con las preguntas del backlog priorizado (8.1.4).
