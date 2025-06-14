@@ -548,10 +548,10 @@ Explicación del flujo → En primer lugar, el usuario deberá acceder a la vist
 |Distrito |Lima |
 ||La entrevistada nos |
 |Timing: 0:00-5:36 |URL:|
-|**Entrevistado 3** ||
-|Edad ||
-|Distrito ||
-| |En la entrevista |
+|**Entrevistado 3** | Fabian Reyes|
+|Edad |20|
+|Distrito | San Martin de Porres|
+|![](..\assets\img\chapter-VI\Fabian-Contratista.png)|Fabián exploró las funcionalidades del sitio web: vio los remodeladores disponibles, interactuó con uno y solicitó una cotización para negociar. También usó la función de búsqueda para encontrar uno específico. Le pareció que la web es muy buena, aunque sugirió mejoras en el diseño.|
 |Timing: 00:00 – 08:05 |URL:|
 
 
