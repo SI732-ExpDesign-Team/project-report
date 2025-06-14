@@ -311,7 +311,70 @@ El objetivo de esta sección es definir con claridad qué se va a medir, por qu�
 
 ### 8.3.1. To-Be User Stories
 
+En esta sección, se identifican y refinan las historias de usuario clave del proyecto **Restyle**, enfocadas en facilitar la interacción entre contratistas y empresas remodeladoras. Estas historias han sido analizadas y ajustadas respecto a versiones anteriores, incorporando mejoras de usabilidad y funcionalidades técnicas necesarias para lograr una experiencia más eficiente, confiable y satisfactoria para los usuarios.
+
+
+---
+#### **US007 - Búsqueda de empresas remodeladoras**
+
+- **Historia de Usuario:**  
+  *Como visitante del segmento contratista, quiero poder buscar remodeladoras por ubicación o expertise para obtener un resultado más personalizado.*
+
+- **Estado Inicial:**  
+  La búsqueda arrojaba resultados genéricos sin posibilidad de filtrado específico por tipo de servicio o zona geográfica.
+
+- **Cambios:**  
+  Se implementaron filtros por especialidad, puntuación y ubicación, permitiendo a los usuarios encontrar empresas más alineadas con sus necesidades concretas.
+
+- **Estado Final:**  
+  La búsqueda se ha vuelto más precisa y eficiente, permitiendo una mejor experiencia de descubrimiento y comparación entre proveedores de servicios.
+
+---
+
+#### **US009 - Agregar críticas y opiniones**
+
+- **Historia de Usuario:**  
+  *Como visitante del segmento contratista, quiero agregar un review para poder compartir mi experiencia con otros usuarios sobre el remodelador con el que realicé un proyecto.*
+
+- **Estado Inicial:**  
+  La funcionalidad no estaba disponible en etapas tempranas de desarrollo, lo que limitaba el feedback colaborativo en la plataforma.
+
+- **Cambios:**  
+  Se desarrolló un módulo para registrar comentarios, calificaciones con estrellas y retroalimentación textual, vinculado al perfil del remodelador.
+
+- **Estado Final:**  
+  Ahora, los usuarios pueden compartir sus experiencias, ayudando a otros a tomar decisiones informadas y fomentando la confianza en el ecosistema de la aplicación.
+
+
+---
+#### **US016 - Programar consulta con un remodelador**
+
+- **Historia de Usuario:**  
+  *Como propietario de vivienda interesado en remodelar, quiero poder programar una consulta con un remodelador a través de la plataforma para discutir mis necesidades y obtener recomendaciones.*
+
+- **Estado Inicial:**  
+  No existía una forma clara para coordinar citas o reuniones con los remodeladores desde la aplicación.
+
+- **Cambios:**  
+  Se añadió una funcionalidad de agendamiento, incluyendo un formulario con calendario, opciones de horarios disponibles y confirmación por correo electrónico.
+
+- **Estado Final:**  
+  Los usuarios ahora pueden gestionar consultas directamente con los profesionales, facilitando el inicio del proceso de remodelación y generando una interacción más fluida.
+
+
+
+
 ### 8.3.2. To-Be Product Backlog
+
+A continuación, se presenta el Product Backlog actualizado del proyecto **Restyle**. Estas historias representan funcionalidades clave para brindar una experiencia personalizada y eficiente a los usuarios interesados en servicios de remodelación.
+
+| N°  | ID     | Título                                     | Descripción                                                                                                                                    | Story Points |
+|-----|--------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 7   | US007  | Búsqueda de empresas remodeladoras         | Como visitante del segmento contratista, quiero poder buscar remodeladoras por ubicación o expertise para obtener un resultado más personalizado. | 4            |
+| 9   | US009  | Agregar críticas y opiniones               | Como visitante del segmento contratista, quiero agregar un review para poder compartir mi experiencia con otros usuarios sobre el remodelador con el que realicé un proyecto. | 3            |
+| 16  | US016  | Programar consulta con un remodelador      | Como propietario de vivienda interesado en remodelar, quiero poder programar una consulta con un remodelador a través de la plataforma para discutir mis necesidades y obtener recomendaciones. | 5            |
+
+
 
 ### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
 
