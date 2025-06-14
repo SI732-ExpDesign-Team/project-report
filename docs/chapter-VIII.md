@@ -379,20 +379,108 @@ A continuación, se presenta el Product Backlog actualizado del proyecto **Resty
 ### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
 
 #### 8.3.3.1. To-Be Sprint Backlogs
+A continuación, la estructura de la tabla para el Sprint Backlog :
+
+| User Story Id | User Story Title                      | Work-Item / Task Id | Work-Item / Task Title               | Description                                                                                          | Estimation (Hours) | Assigned To        | Status      |
+|---------------|----------------------------------------|----------------------|-------------------------------------|------------------------------------------------------------------------------------------------------|--------------------|--------------------|-------------|
+| US007         | Búsqueda de empresas remodeladoras     | T01                 | Diseñar interfaz de búsqueda         | Diseñar la vista para permitir buscar remodeladoras por ubicación o especialidad en la web.          | 4                  | Mariana Chambi     | Done |
+| US007         | Búsqueda de empresas remodeladoras     | T02                 | Desarrollar lógica de filtrado       | Implementar la lógica backend que filtre los resultados por parámetros seleccionados.                | 5                  | Rely Rivaldo       | Done       |
+| US007         | Búsqueda de empresas remodeladoras     | T03                 | Integración con base de datos        | Conectar el sistema de búsqueda con la base de datos de empresas remodeladoras.                      | 4                  | Alejandra Díaz     | Done       |
+| US009         | Agregar críticas y opiniones           | T04                 | Diseñar formulario de review         | Diseñar interfaz donde los usuarios puedan dejar su opinión y calificación de remodeladores.         | 3                  | Paolo Parraga      | Done |
+| US009         | Agregar críticas y opiniones           | T05                 | Implementar backend para reviews     | Crear endpoints y lógica de servidor para guardar críticas y opiniones en la base de datos.          | 4                  | Alejandra Díaz     | Done       |
+| US009         | Agregar críticas y opiniones           | T06                 | Visualización de opiniones           | Crear componente que muestre las opiniones y calificaciones dejadas por otros usuarios.              | 3                  | Stefano Valenzuela | Done       |
+| US016         | Programar consulta con un remodelador  | T07                 | Diseñar formulario de agendamiento   | Diseñar la interfaz donde los propietarios pueden programar una consulta con un remodelador.         | 4                  | Stefano Valenzuela | Done |
+| US016         | Programar consulta con un remodelador  | T08                 | Crear lógica de horarios disponibles | Desarrollar lógica para verificar y mostrar disponibilidad en base al calendario del remodelador.    | 5                  | Rely Rivaldo       | Done       |
+| US016         | Programar consulta con un remodelador  | T09                 | Notificación de confirmación         | Implementar notificación automática tras agendar una consulta vía correo o mensaje dentro de la app. | 4                  | Paolo Parraga      | Done       |
 
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence
+Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes pasos: 
+
+
+<img src="../assets/img/chapter-V/landing1.png"> 
+<img src="../assets/img/chapter-V/landing2.png">
+<img src="../assets/img/chapter-V/landing3.png">
+
+Landing Page desplegado: https://si732-expdesign-team.github.io/landing-page/
 
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 
+**Frontend Web Applications**
+
+PHemos realizado el despliegue del frontend web applications desde Netlify:
+
+<img src="../assets/img/chapter-V/frontend-deploy2.png"> 
+
+Frontend web applications desplegado: https://restyle-frontend.netlify.app/home
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
+Hemos realizado el despliegue mobile application desde GitHub Releases: 
+
+Esto nos generará un archivo .apk que podremos instalar en nuestro dispositivo móvil. 
+
+<img src="../assets/img/chapter-V/mobile.png"> 
+<img src="../assets/img/chapter-V/release-mobile2.png"> 
+
+
+Native-Mobile Application desplegada: https://github.com/SI732-ExpDesign-Team/mobile/releases/download/v0.2.0-alpha/ReStyle.apk
 
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
+Hemos realizado el despliegue del web service desde Azure App Services:
+
+<img src="../assets/img/chapter-V/web-service.png"> 
+<img src="../assets/img/chapter-V/web-service1.png"> 
+
+Web services desplegados: https://restyle-web-services-cyf0axfvakcxaehd.brazilsouth-01.azurewebsites.net/swagger-ui/index.html
 
 #### 8.3.3.6. Team Collaboration Insights
 
 ### 8.3.4. To-Be Validation Interviews
 
 #### 8.3.4.1. Diseño de Entrevistas
+#### **Segmento Objetivo 1: Contratistas en búsqueda de servicios de remodelación**
+
+**Propósito de la entrevista:**  
+Recolectar la opinión directa de contratistas o propietarios que desean contratar servicios de remodelación a través de la plataforma. Se busca conocer sus expectativas, problemas actuales en la búsqueda y contratación de remodeladores, así como validar si la solución de Restyle facilita una experiencia más eficiente, confiable y personalizada.
+
+**Preguntas demográficas:**
+1. ¿Cuál es su nombre completo?
+2. ¿Cuál es su edad?
+3. ¿En qué distrito reside?
+4. ¿Cuál es su ocupación actual?
+5. ¿Con qué frecuencia requiere servicios de remodelación?
+
+**Interacción con la aplicación web:**  
+Se invitará al entrevistado a utilizar la funcionalidad de búsqueda personalizada por ubicación y tipo de servicio, explorar perfiles de remodeladores, leer reseñas y simular una programación de consulta. Se observará su navegación y reacciones frente a cada función.
+
+**Preguntas sobre la experiencia con la web:**
+- ¿Le resultó intuitivo buscar remodeladores según su necesidad?
+- ¿Considera útil poder filtrar por especialidades o ubicación?
+- ¿Le parecieron útiles las opiniones y calificaciones de otros usuarios?
+- ¿Programaría una consulta desde la plataforma en una situación real?
+- ¿Qué elementos o funcionalidades cree que mejorarían la experiencia?
+
+---
+
+### **Segmento Objetivo 2: Remodeladores registrados en la plataforma**
+
+**Propósito de la entrevista:**  
+Comprender la experiencia del remodelador al utilizar la plataforma Restyle para ofrecer sus servicios. Se evaluará la facilidad para crear un perfil profesional, recibir solicitudes de consulta, gestionar opiniones de clientes y la percepción general del sistema como canal de captación de clientes.
+
+**Preguntas demográficas:**
+1. ¿Cuál es su nombre completo?
+2. ¿Qué tipo de servicios de remodelación ofrece?
+3. ¿En qué distritos trabaja actualmente?
+4. ¿Cuántos años de experiencia tiene en el rubro?
+5. ¿Trabaja de forma independiente o con una empresa?
+
+**Interacción con la aplicación web:**  
+Se invitará al remodelador a crear un perfil de servicio, revisar cómo se muestran sus datos al público, visualizar críticas de usuarios y probar la función de gestión de consultas programadas.
+
+**Preguntas sobre la experiencia con la web:**
+- ¿Fue sencillo crear y personalizar su perfil como remodelador?
+- ¿Considera adecuada la forma en que los clientes pueden contactarlo?
+- ¿Cree que las reseñas y valoraciones afectan positivamente su visibilidad?
+- ¿Recibir solicitudes desde la plataforma le resulta útil para captar clientes?
+- ¿Qué mejoras o funcionalidades adicionales le gustaría ver como profesional?
 
 #### 8.3.4.2. Registro de Entrevistas
 
