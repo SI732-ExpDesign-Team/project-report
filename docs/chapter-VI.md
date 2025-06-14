@@ -519,26 +519,26 @@ Entrevista a Remodeladores
             </tr>
             <tr>
                 <th>Entrevistado 3</th>
-                <th></th>
+                <td>Fabian Reyes Trujillano</tdh>
             <tr>
                 <th>Entrevistador </th>
-                <th></th>
+                <td>Stefano Valenzuela Vallejos</td>
             </tr>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>20</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>San Martin de Porres</td>
             </tr>
             <tr>
-            <td><img src="" alt="Foto de entrevista"></td>
-                <td><strong>Resumen:</strong><br>.</td>
+            <td><img src="C:\Users\avale\OneDrive\Documentos\GitHub\project-report\assets\img\chapter-VI\entrevistas\Fabian-Contratista.png" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br>Fabián exploró las funcionalidades del sitio web: vio los remodeladores disponibles, interactuó con uno y solicitó una cotización para negociar. También usó la función de búsqueda para encontrar uno específico. Le pareció que la web es muy buena, aunque sugirió mejoras en el diseño.</td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>7:00</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
