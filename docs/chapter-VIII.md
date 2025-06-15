@@ -304,8 +304,45 @@ El objetivo de esta sección es definir con claridad qué se va a medir, por qu�
 | **Churn Rate de remodeladores premium** | % de remodeladores premium que cancelan su suscripción. Ayuda a evaluar sostenibilidad del modelo de ingresos.                       |
 
 
-
 ### 8.2.7. Web and Mobile Tracking Plan
+
+Este plan define qué se debe rastrear en las plataformas web y móvil para asegurar que se capturen correctamente los datos necesarios para evaluar las hipótesis y KPIs definidos en los experimentos.
+
+### Objetivo del Plan de Tracking
+Implementar un sistema robusto de monitoreo que permita:
+
+- Registrar la interacción de usuarios (contratistas y remodeladores) con la plataforma.
+
+- Medir el rendimiento de funcionalidades clave (búsqueda, contacto, evaluaciones, suscripciones).
+
+- Identificar cuellos de botella o puntos de abandono.
+
+- Asegurar trazabilidad desde el primer contacto hasta la conversión o abandono.
+
+### Eventos de Tracking Clave por Plataforma
+- Contratistas (Web/Móvil)
+
+  | Evento                      |   Descripción                                 | Plataforma |
+  | --------------------------- |   ------------------------------------------- | ---------- |
+  | `search_performed`          | Usuario realiza una búsqueda de   remodelador | Web + App  |
+  | `remodeler_profile_viewed`  | Usuario entra al perfil de un   remodelador   | Web + App  |
+  | `contact_remodeler_clicked` | Usuario hace clic en  "Contactar"            | Web + App  |
+  | `project_created`           | Usuario inicia un nuevo   proyecto            | Web + App  |
+  | `project_completed`         | Proyecto marcado como   finalizado            | Web + App  |
+  | `review_submitted`          | Usuario deja una  evaluación                 | Web + App  |
+  | `session_duration`          | Tiempo de permanencia por   sesión            | Web + App  |
+
+- Remodeladores (Web/Móvil)
+  
+  | Evento                   |  Descripción                            | Plataforma |
+  | ------------------------ |  -------------------------------------- | ---------- |
+  | `profile_completed`      | Completa todos los campos de su  perfil | Web + App  |
+  | `subscription_clicked`   | Clic en información sobre plan   premium | Web + App  |
+  | `subscription_purchased` | Remodelador se suscribe a un   plan      | Web + App  |
+  | `message_received`       | Recibe contacto de un  contratista      | Web + App  |
+  | `review_received`        | Recibe una   evaluación                  | Web + App  |
+  
+
 
 ## 8.3. Experimentation
 
