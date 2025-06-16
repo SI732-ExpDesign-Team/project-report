@@ -908,6 +908,19 @@ La auditoría de la experiencia de usuario se llevó a cabo en el siguiente cron
 
 #### 6.4.1.3. Contenido de auditoría realizada
 
+|**#**|**Problema**|**Escala de severidad**|**Heurística/Principio violado(a)**|
+| :- | :- | :- | :- |
+|**1**|Varias imágenes tienen bajo contraste con el fondo, dificultando la identificación visual para usuarios con visión reducida.|3|Accesibilidad; Estética y diseño minimalista|
+|**2**|El logo y los íconos grandes sobre imágenes en la home generan ruido visual, restando foco al mensaje principal.|2|Estética y diseño minimalista; Consistencia y estándares|
+|**3**|No todas las imágenes decorativas cuentan con texto alternativo (alt), afectando el acceso de usuarios con lectores de pantalla.	|4|Accesibilidad; Ayuda y documentación|
+|**4**|El uso inconsistente de fondos (algunas secciones con fondo azul, otras rosado) puede confundir sobre la jerarquía visual de la información.	|2|Consistencia y estándares|
+|**5**|Las fotos de perfil de los miembros tienen distintos estilos (algunos recortes irregulares, fondos diferentes), perdiendo armonía visual.	|2|Estética y diseño minimalista; Consistencia y estándares|
+|**6**|Algunas imágenes están estiradas o pixeladas (por ejemplo, iconos grandes), perdiendo calidad y profesionalismo.	|2|Estética y diseño minimalista|
+|**7**|El tamaño de las imágenes de servicios no es uniforme, provocando desbalance visual en la sección “Servicios”.	|1|Estética y diseño minimalista|
+|**8**|No hay mecanismo para ampliar imágenes relevantes (por ejemplo, testimonios o recursos informativos), limitando la experiencia para usuarios que necesitan más detalle.	|1|Flexibilidad y eficiencia de uso; Accesibilidad|
+
+
+
 ### 6.4.2. Auditoría recibida
 
 #### 6.4.2.1. Información del grupo auditor
