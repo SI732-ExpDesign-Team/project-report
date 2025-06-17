@@ -527,11 +527,11 @@ Explicación del flujo → En primer lugar, el usuario deberá acceder a la vist
 |Distrito |Lima |
 |![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.044.png) |En la entrevista se comenta que los estilos están bien. Sin embargo en su dispositivo móvil la Landing Page se deforma un poco, comentando que eso se debería mejorar. Por parte del aplicativo móvil, no tuvo observaciones importantes, además de mejorar los colores. |
 |Timing: 0:00-14:20 |URL:[ ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EWG8dXHp4fdHjiUEy5zSTWcBO_xB8IU9W93xSuM7j90EJg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Wsf9S3)<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EWG8dXHp4fdHjiUEy5zSTWcBO_xB8IU9W93xSuM7j90EJg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Wsf9S3>  |
-|**Entrevistado 3** ||
-|Edad ||
-|Distrito |Lima, Perú |
-| |En la entrevista, |
-|Timing: 0:00 – |URL:|
+|**Entrevistado 3** |Diego Bastidas |
+|Edad |24 |
+|Distrito |Lince |
+|![](../assets/img/chapter-VI/entrevistacap6.png) |Durante la entrevista, Diego resaltó que la estructura general de la landing page es funcional, pero mencionó que el tamaño de las imágenes podría optimizarse para una carga más rápida. En cuanto a la aplicación móvil, sugirió que sería útil contar con un buscador para filtrar proyectos por nombre o cliente, y que los botones deberían tener mayor contraste para mejorar la accesibilidad visual. Consideró positivo que ambos productos mantengan una identidad visual coherente. |
+|Timing: 0:00 – 7:15 |URL:[ ](https://drive.google.com/drive/folders/165Am15Cz-OB2JEjjMgpaPgiS8IG0_B6a?usp=sharing) |
 
 
 
