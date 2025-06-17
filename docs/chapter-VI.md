@@ -554,7 +554,6 @@ Explicación del flujo → En primer lugar, el usuario deberá acceder a la vist
 |![](../assets/img/chapter-VI/Fabian-Contratista.png)|Fabián exploró las funcionalidades del sitio web: vio los remodeladores disponibles, interactuó con uno y solicitó una cotización para negociar. También usó la función de búsqueda para encontrar uno específico. Le pareció que la web es muy buena, aunque sugirió mejoras en el diseño.|
 |Timing: 00:00 – 08:05 |URL: <https://drive.google.com/drive/folders/165Am15Cz-OB2JEjjMgpaPgiS8IG0_B6a?usp=sharing> |
 
-
 ### 6.3.3. Evaluaciones según heurísticas
 
 UX Heuristics & Principles Evaluation 
@@ -724,7 +723,7 @@ Heurística violada:
 
 Estética y diseño minimalista y Consistencia y estándares   
 
-Problema: 
+Problema:
 
 La paleta de colores actual no es armoniosa ni facilita la navegación visual, afectando la experiencia y percepción del usuario. 
 

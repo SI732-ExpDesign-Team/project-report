@@ -6,7 +6,43 @@ La planificación de experimentos es crucial para definir una visión clara de l
 
 ### 8.1.1. As-Is Summary
 
-Actualmente, el mercado de remodelación presenta una demanda creciente y un flujo constante de personas interesadas en construir o renovar sus hogares. Sin embargo, existe una problemática significativa: no hay plataformas digitales completas que reúnan a empresas de remodelación, lo que dificulta a los usuarios encontrar servicios adecuados y realizar un seguimiento integral de los proyectos. Los usuarios deben realizar búsquedas manuales, y muchas empresas carecen de un portafolio actualizado, lo que complica la toma de decisiones y la visibilidad para los profesionales. La escasez de soluciones tecnológicas específicas impide una digitalización eficiente del sector.
+Esta evaluación describe el funcionamiento operativo de la aplicación en su forma actual,
+centrándose en las experiencias tanto de los arrendadores como de los estudiantes.
+
+Actualmente, la plataforma ReStyle está diseñada para optimizar la experiencia de remodelación del hogar, actuando como un puente entre usuarios y empresas especializadas. La aplicación permite a los clientes contratar servicios de remodelación de manera directa y gestionar todo el proceso desde una sola herramienta, incluyendo funcionalidades como el seguimiento del avance de los proyectos, administración de tareas.
+
+**Funcionalidades Actuales de ReStyle:**
+
+*   **Gestión de Cuentas y Roles:**
+    *   Capacidad de crear una cuenta como contratista para acceder al mercado que provee la plataforma.
+    *   Capacidad de crear una cuenta como remodelador para promocionar sus servicios.
+    *   Visualización del home de la plataforma con opciones disponibles según el rol del usuario.
+    *   Visualización de páginas no encontradas.
+
+*   **Gestión de Portafolio para Remodeladores:**
+    *   Herramienta para subir contenido multimedia al portafolio y promocionar servicios y proyectos pasados a posibles clientes.
+    *   Capacidad de buscar proyectos hechos por remodeladores en sus portafolios.
+*   **Búsqueda y Contratación de Servicios de Remodelación**:
+    *   Funcionalidad para buscar empresas remodeladoras por ubicación o expertise para obtener resultados personalizados.
+    *   Posibilidad de revisar críticas y opiniones de otros clientes para conocer la calidad del trabajo del remodelador.
+    *   Opción para agregar críticas y opiniones sobre el remodelador con quien se realizó un proyecto.
+    *   Funcionalidad para programar una consulta con un remodelador para discutir necesidades y obtener recomendaciones.
+    
+*   **Gestión y Seguimiento de Proyectos:**
+    *   Herramienta para que el remodelador vea los hitos del seguimiento de su proyecto y sepa en qué estado y etapa se encuentra.
+
+**Problemas Identificados:**
+
+*   **Dificultades en la Búsqueda y Toma de Decisiones para Usuarios:** Los usuarios deben realizar búsquedas manuales para encontrar empresas confiables, y muchas de estas carecen de un portafolio actualizado, lo que complica la toma de decisiones informadas.
+*   **Problemas de Visibilidad para Profesionales:** Las empresas de remodelación deben promocionar sus servicios sin garantías de visibilidad ante potenciales clientes.
+*   **Digitalización Ineficiente del Sector:** Existe una escasa oferta de soluciones tecnológicas específicas para el rubro de remodelación y construcción, impidiendo una digitalización eficiente del sector.
+
+**Oportunidades de Mejora:**
+
+*   **Optimizar Búsqueda y Comparación de Remodeladores:** Mejorar el proceso de búsqueda y comparación para elevar la tasa de recurrencia de usuarios contratistas.
+*   **Diseño Sencillo y Accesible:** Implementar un diseño de plataforma que sea fácil de usar y accesible para atraer una base de usuarios más amplia y reducir las consultas al soporte.
+*   **Sistema Robusto de Evaluaciones y Comentarios:** Incorporar un sistema que genere confianza y refleje de manera efectiva la reputación de los remodeladores.
+*   **Planes de Suscripción Premium:** Ofrecer planes de suscripción (mensuales y anuales) para remodeladores, estableciendo una fuente de ingresos recurrente y permitiendo el desarrollo de herramientas avanzadas.
 
 ### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims
 
@@ -53,14 +89,58 @@ Basado en las brechas de conocimiento y las ideas, las preguntas clave para el d
 
 ### 8.1.4. Question Backlog
 
-El backlog de preguntas, priorizado según la urgencia de validación para el modelo de negocio, es el siguiente :
+A continuación, se presenta el **Backlog de Preguntas** para ReStyle:
 
-1. ¿Cómo podemos optimizar el proceso de búsqueda y comparación de remodeladores para incrementar la recurrencia de usuarios en un 20% en los primeros seis meses?
-2. ¿De qué manera un diseño de plataforma sencillo y accesible atraerá a más visitantes interesados en remodelaciones y profesionales, reduciendo las consultas de soporte en un 30%?
-3. ¿La incorporación de un sistema de evaluaciones y comentarios dentro de la plataforma aumentará la contratación de profesionales con mejores valoraciones en un 30%?
-4. ¿La oferta de planes de suscripción premium (mensuales y anuales) para remodeladores resultará en que al menos el 30% de los visitantes de este segmento se suscriban durante el primer año de lanzamiento?
+| Pregunta | Prioridad | Objetivo |
+|---|---|---|
+| ¿Cómo podemos optimizar el proceso de búsqueda y comparación de remodeladores para incrementar la recurrencia de usuarios en un 20% en los primeros seis meses? | Alta | Incrementar la recurrencia de usuarios contratistas en un 20% en los primeros seis meses. |
+| ¿De qué manera un diseño de plataforma sencillo y accesible atraerá a más visitantes interesados en remodelaciones y profesionales, reduciendo las consultas de soporte en un 30%? | Media | Atraer a más visitantes interesados en remodelaciones y profesionales, y reducir las consultas de soporte en un 30%. |
+| ¿La incorporación de un sistema de evaluaciones y comentarios dentro de la plataforma aumentará la contratación de profesionales con mejores valoraciones en un 30%? | Media | Aumentar la contratación de profesionales con mejores valoraciones en un 30%. |
+| ¿La oferta de planes de suscripción premium (mensuales y anuales) para remodeladores resultará en que al menos el 30% de los visitantes de este segmento se suscriban durante el primer año de lanzamiento? | Alta | Lograr que al menos el 30% de los visitantes del segmento remodelador se suscriban a los planes premium durante el primer año de lanzamiento. |
 
 ### 8.1.5. Experiment Cards
+
+A continuación, se presentan las Tarjetas de Experimento (Experiment Cards) para ReStyle
+
+### **8.1.5. Experiment Cards**
+
+| Elemento | Descripción |
+|---|---|
+| **Experiment Card 1 – Optimización de búsqueda** | |
+| **Question** | ¿Cómo podemos **optimizar el proceso de búsqueda y comparación de remodeladores** para incrementar la recurrencia de usuarios en un 20% en los primeros seis meses? |
+| **Why** | Mejorar la experiencia de búsqueda puede fomentar el uso repetido de la plataforma. |
+| **What** | Se habilitará una nueva versión del buscador a un grupo de usuarios A (50%) y se comparará con el grupo B (con versión antigua). Ambos grupos deben tener perfiles similares en antigüedad y nivel de actividad. Se medirán los datos de uso para validar la hipótesis. |
+| **Hipótesis** | Si optimizamos el proceso de búsqueda y comparación de remodeladores, entonces la tasa de recurrencia de los contratistas aumentará en un 20% durante los primeros seis meses. |
+
+<br>
+
+| Elemento | Descripción |
+|---|---|
+| **Experiment Card 2 – Interfaz sencilla y accesible** | |
+| **Question** | ¿De qué manera un **diseño de plataforma sencillo y accesible** atraerá a más visitantes interesados en remodelaciones y profesionales, reduciendo las consultas de soporte en un 30%? |
+| **Why** | Una interfaz clara puede reducir fricciones y dudas al usar el sistema. |
+| **What** | Se realizará un rediseño parcial (wireframes de baja carga cognitiva) que se mostrará a nuevos usuarios y se comparará con la versión anterior. Se controlará la fuente del tráfico (redes sociales, Google Ads, tráfico orgánico) para reducir sesgos. Se medirá la reducción de tickets o mensajes al soporte. |
+| **Hipótesis** | Si el diseño de la plataforma es sencillo, claro y accesible, entonces se reducirá el número de consultas al soporte en al menos un 30% en los primeros tres meses tras el rediseño. |
+
+<br>
+
+| Elemento | Descripción |
+|---|---|
+| **Experiment Card 3 – Sistema de evaluaciones** | |
+| **Question** | ¿La incorporación de un **sistema de evaluaciones y comentarios** dentro de la plataforma aumentará la contratación de profesionales con mejores valoraciones en un 30%? |
+| **Why** | Los usuarios tienden a confiar más en profesionales con buena reputación visible. |
+| **What** | Se activará el sistema de valoraciones solo en ciertos tipos de servicios o categorías durante el primer test (ej: cocina y baño). Se incentivará a los usuarios a dejar una evaluación tras completar un proyecto. Se medirá el porcentaje de contrataciones en perfiles con alta calificación. |
+| **Hipótesis** | Si se incorpora un sistema de evaluaciones y comentarios para remodeladores, entonces la contratación de profesionales con altas valoraciones aumentará en un 30%. |
+
+<br>
+
+| Elemento | Descripción |
+|---|---|
+| **Experiment Card 4 – Planes premium** | |
+| **Question** | ¿La oferta de **planes de suscripción premium (mensuales y anuales)** para remodeladores resultará en que al menos el 30% de los visitantes de este segmento se suscriban durante el primer año de lanzamiento? |
+| **Why** | Profesionales que desean destacar y captar más clientes estarán dispuestos a pagar por visibilidad y beneficios adicionales. |
+| **What** | Se ofrecerá la opción premium a remodeladores registrados con más de 2 contratos exitosos. Se usará una landing especial para mostrar beneficios exclusivos a este grupo y comparar con remodeladores sin exposición a esta oferta. Se medirá el porcentaje de remodeladores con cuenta premium vs. el total de remodeladores activos. |
+| **Hipótesis** | Si se ofrece un plan de suscripción premium con herramientas avanzadas, al menos el 30% de los remodeladores activos en la plataforma se suscribirá en el primer año|
 
 ## 8.2. Experiment Design
 En esta sección se formulan hipótesis claras, medibles y orientadas a validar los elementos clave del modelo de negocio de reStyle. Estas hipótesis surgen a partir de los supuestos, brechas de conocimiento e ideas definidos en el punto 8.1.2, y se vinculan directamente con las preguntas del backlog priorizado (8.1.4).
@@ -348,25 +428,179 @@ Implementar un sistema robusto de monitoreo que permita:
 
 ### 8.3.1. To-Be User Stories
 
+En esta sección, se identifican y refinan las historias de usuario clave del proyecto **Restyle**, enfocadas en facilitar la interacción entre contratistas y empresas remodeladoras. Estas historias han sido analizadas y ajustadas respecto a versiones anteriores, incorporando mejoras de usabilidad y funcionalidades técnicas necesarias para lograr una experiencia más eficiente, confiable y satisfactoria para los usuarios.
+
+
+---
+#### **US007 - Búsqueda de empresas remodeladoras**
+
+- **Historia de Usuario:**  
+  *Como visitante del segmento contratista, quiero poder buscar remodeladoras por ubicación o expertise para obtener un resultado más personalizado.*
+
+- **Estado Inicial:**  
+  La búsqueda arrojaba resultados genéricos sin posibilidad de filtrado específico por tipo de servicio o zona geográfica.
+
+- **Cambios:**  
+  Se implementaron filtros por especialidad, puntuación y ubicación, permitiendo a los usuarios encontrar empresas más alineadas con sus necesidades concretas.
+
+- **Estado Final:**  
+  La búsqueda se ha vuelto más precisa y eficiente, permitiendo una mejor experiencia de descubrimiento y comparación entre proveedores de servicios.
+
+---
+
+#### **US009 - Agregar críticas y opiniones**
+
+- **Historia de Usuario:**  
+  *Como visitante del segmento contratista, quiero agregar un review para poder compartir mi experiencia con otros usuarios sobre el remodelador con el que realicé un proyecto.*
+
+- **Estado Inicial:**  
+  La funcionalidad no estaba disponible en etapas tempranas de desarrollo, lo que limitaba el feedback colaborativo en la plataforma.
+
+- **Cambios:**  
+  Se desarrolló un módulo para registrar comentarios, calificaciones con estrellas y retroalimentación textual, vinculado al perfil del remodelador.
+
+- **Estado Final:**  
+  Ahora, los usuarios pueden compartir sus experiencias, ayudando a otros a tomar decisiones informadas y fomentando la confianza en el ecosistema de la aplicación.
+
+
+---
+#### **US016 - Programar consulta con un remodelador**
+
+- **Historia de Usuario:**  
+  *Como propietario de vivienda interesado en remodelar, quiero poder programar una consulta con un remodelador a través de la plataforma para discutir mis necesidades y obtener recomendaciones.*
+
+- **Estado Inicial:**  
+  No existía una forma clara para coordinar citas o reuniones con los remodeladores desde la aplicación.
+
+- **Cambios:**  
+  Se añadió una funcionalidad de agendamiento, incluyendo un formulario con calendario, opciones de horarios disponibles y confirmación por correo electrónico.
+
+- **Estado Final:**  
+  Los usuarios ahora pueden gestionar consultas directamente con los profesionales, facilitando el inicio del proceso de remodelación y generando una interacción más fluida.
+
+
+
+
 ### 8.3.2. To-Be Product Backlog
+
+A continuación, se presenta el Product Backlog actualizado del proyecto **Restyle**. Estas historias representan funcionalidades clave para brindar una experiencia personalizada y eficiente a los usuarios interesados en servicios de remodelación.
+
+| N°  | ID     | Título                                     | Descripción                                                                                                                                    | Story Points |
+|-----|--------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 7   | US007  | Búsqueda de empresas remodeladoras         | Como visitante del segmento contratista, quiero poder buscar remodeladoras por ubicación o expertise para obtener un resultado más personalizado. | 4            |
+| 9   | US009  | Agregar críticas y opiniones               | Como visitante del segmento contratista, quiero agregar un review para poder compartir mi experiencia con otros usuarios sobre el remodelador con el que realicé un proyecto. | 3            |
+| 16  | US016  | Programar consulta con un remodelador      | Como propietario de vivienda interesado en remodelar, quiero poder programar una consulta con un remodelador a través de la plataforma para discutir mis necesidades y obtener recomendaciones. | 5            |
+
+
 
 ### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
 
 #### 8.3.3.1. To-Be Sprint Backlogs
+A continuación, la estructura de la tabla para el Sprint Backlog :
+
+| User Story Id | User Story Title                      | Work-Item / Task Id | Work-Item / Task Title               | Description                                                                                          | Estimation (Hours) | Assigned To        | Status      |
+|---------------|----------------------------------------|----------------------|-------------------------------------|------------------------------------------------------------------------------------------------------|--------------------|--------------------|-------------|
+| US007         | Búsqueda de empresas remodeladoras     | T01                 | Diseñar interfaz de búsqueda         | Diseñar la vista para permitir buscar remodeladoras por ubicación o especialidad en la web.          | 4                  | Mariana Chambi     | Done |
+| US007         | Búsqueda de empresas remodeladoras     | T02                 | Desarrollar lógica de filtrado       | Implementar la lógica backend que filtre los resultados por parámetros seleccionados.                | 5                  | Ely Cortez       | Done       |
+| US007         | Búsqueda de empresas remodeladoras     | T03                 | Integración con base de datos        | Conectar el sistema de búsqueda con la base de datos de empresas remodeladoras.                      | 4                  | Alejandra Díaz     | Done       |
+| US009         | Agregar críticas y opiniones           | T04                 | Diseñar formulario de review         | Diseñar interfaz donde los usuarios puedan dejar su opinión y calificación de remodeladores.         | 3                  | Paolo Parraga      | Done |
+| US009         | Agregar críticas y opiniones           | T05                 | Implementar backend para reviews     | Crear endpoints y lógica de servidor para guardar críticas y opiniones en la base de datos.          | 4                  | Alejandra Díaz     | Done       |
+| US009         | Agregar críticas y opiniones           | T06                 | Visualización de opiniones           | Crear componente que muestre las opiniones y calificaciones dejadas por otros usuarios.              | 3                  | Stefano Valenzuela | Done       |
+| US016         | Programar consulta con un remodelador  | T07                 | Diseñar formulario de agendamiento   | Diseñar la interfaz donde los propietarios pueden programar una consulta con un remodelador.         | 4                  | Stefano Valenzuela | Done |
+| US016         | Programar consulta con un remodelador  | T08                 | Crear lógica de horarios disponibles | Desarrollar lógica para verificar y mostrar disponibilidad en base al calendario del remodelador.    | 5                  |Ely Cortez      | Done       |
+| US016         | Programar consulta con un remodelador  | T09                 | Notificación de confirmación         | Implementar notificación automática tras agendar una consulta vía correo o mensaje dentro de la app. | 4                  | Paolo Parraga      | Done       |
 
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence
+Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes pasos: 
+
+
+<img src="../assets/img/chapter-V/landing1.png"> 
+<img src="../assets/img/chapter-V/landing2.png">
+<img src="../assets/img/chapter-V/landing3.png">
+
+Landing Page desplegado: https://si732-expdesign-team.github.io/landing-page/
 
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 
+**Frontend Web Applications**
+
+PHemos realizado el despliegue del frontend web applications desde Netlify:
+
+<img src="../assets/img/chapter-V/frontend-deploy2.png"> 
+
+Frontend web applications desplegado: https://restyle-frontend.netlify.app/home
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
+Hemos realizado el despliegue mobile application desde GitHub Releases: 
+
+Esto nos generará un archivo .apk que podremos instalar en nuestro dispositivo móvil. 
+
+<img src="../assets/img/chapter-V/mobile.png"> 
+<img src="../assets/img/chapter-V/release-mobile2.png"> 
+
+
+Native-Mobile Application desplegada: https://github.com/SI732-ExpDesign-Team/mobile/releases/download/v0.2.0-alpha/ReStyle.apk
 
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
+Hemos realizado el despliegue del web service desde Azure App Services:
+
+<img src="../assets/img/chapter-V/web-service.png"> 
+<img src="../assets/img/chapter-V/web-service1.png"> 
+
+Web services desplegados: https://restyle-web-services-cyf0axfvakcxaehd.brazilsouth-01.azurewebsites.net/swagger-ui/index.html
 
 #### 8.3.3.6. Team Collaboration Insights
+Para el desarrollo de la app web todos los repositorios se realizaron en GitHub. A continuación, se mostrará el gráfico de commits de las diferentes repositorios:
+
+<img src="../assets/img/chapter-VIII/Team Collaboration Insights.jpg"> 
 
 ### 8.3.4. To-Be Validation Interviews
 
 #### 8.3.4.1. Diseño de Entrevistas
+#### **Segmento Objetivo 1: Contratistas en búsqueda de servicios de remodelación**
+
+**Propósito de la entrevista:**  
+Recolectar la opinión directa de contratistas o propietarios que desean contratar servicios de remodelación a través de la plataforma. Se busca conocer sus expectativas, problemas actuales en la búsqueda y contratación de remodeladores, así como validar si la solución de Restyle facilita una experiencia más eficiente, confiable y personalizada.
+
+**Preguntas demográficas:**
+1. ¿Cuál es su nombre completo?
+2. ¿Cuál es su edad?
+3. ¿En qué distrito reside?
+4. ¿Cuál es su ocupación actual?
+5. ¿Con qué frecuencia requiere servicios de remodelación?
+
+**Interacción con la aplicación web:**  
+Se invitará al entrevistado a utilizar la funcionalidad de búsqueda personalizada por ubicación y tipo de servicio, explorar perfiles de remodeladores, leer reseñas y simular una programación de consulta. Se observará su navegación y reacciones frente a cada función.
+
+**Preguntas sobre la experiencia con la web:**
+- ¿Le resultó intuitivo buscar remodeladores según su necesidad?
+- ¿Considera útil poder filtrar por especialidades o ubicación?
+- ¿Le parecieron útiles las opiniones y calificaciones de otros usuarios?
+- ¿Programaría una consulta desde la plataforma en una situación real?
+- ¿Qué elementos o funcionalidades cree que mejorarían la experiencia?
+
+---
+
+### **Segmento Objetivo 2: Remodeladores registrados en la plataforma**
+
+**Propósito de la entrevista:**  
+Comprender la experiencia del remodelador al utilizar la plataforma Restyle para ofrecer sus servicios. Se evaluará la facilidad para crear un perfil profesional, recibir solicitudes de consulta, gestionar opiniones de clientes y la percepción general del sistema como canal de captación de clientes.
+
+**Preguntas demográficas:**
+1. ¿Cuál es su nombre completo?
+2. ¿Qué tipo de servicios de remodelación ofrece?
+3. ¿En qué distritos trabaja actualmente?
+4. ¿Cuántos años de experiencia tiene en el rubro?
+5. ¿Trabaja de forma independiente o con una empresa?
+
+**Interacción con la aplicación web:**  
+Se invitará al remodelador a crear un perfil de servicio, revisar cómo se muestran sus datos al público, visualizar críticas de usuarios y probar la función de gestión de consultas programadas.
+
+**Preguntas sobre la experiencia con la web:**
+- ¿Fue sencillo crear y personalizar su perfil como remodelador?
+- ¿Considera adecuada la forma en que los clientes pueden contactarlo?
+- ¿Cree que las reseñas y valoraciones afectan positivamente su visibilidad?
+- ¿Recibir solicitudes desde la plataforma le resulta útil para captar clientes?
+- ¿Qué mejoras o funcionalidades adicionales le gustaría ver como profesional?
 
 #### 8.3.4.2. Registro de Entrevistas
 
