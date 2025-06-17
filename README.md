@@ -45,7 +45,7 @@
 | 2.0    | 08/05/2025 | Alejandra Díaz                                                                | Se comenzó la redacción del capítulo 7 |
 | 2.1    | 09/05/2025 | Alejandra Díaz                                                                | Se terminó la redacción del capítulo 7 |
 | 2.2    | 10/05/2025 | Mariana Chambi                                                                | Se comenzó la redacción del capítulo 6 |
-| 2.3    | 10/05/2025 | Ely Riva                                                                      | Se terminó la redacción del capítulo 6 |
+| 2.3    | 10/05/2025 | Ely Cortez                                                                      | Se terminó la redacción del capítulo 6 |
 | 2.4    | 10/0/2025 | Alejandra Díaz                                                                      | Se terminó la redacción del capítulo 7 |
 
 ### Project Report Collaboration Insights
