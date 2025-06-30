@@ -174,6 +174,30 @@ Si se ofrece un plan de suscripción premium con herramientas avanzadas, al meno
 
 - Validación: Porcentaje de remodeladores con cuenta premium vs. total de remodeladores activos.
 
+### 8.2.1.1 Hypotheses (Null & Alternative Hypotheses Statements)
+
+#### Hipótesis 1: Mejora de recurrencia de usuarios contratistas
+
+- H₀ (Hipótesis Nula): La implementación del sistema de búsqueda y comparación de remodeladores no genera un aumento significativo en la tasa de recurrencia de usuarios contratistas en los primeros seis meses.
+
+- H₁ (Hipótesis Alternativa): La implementación del sistema de búsqueda y comparación de remodeladores genera un aumento ≥ 20% en la tasa de recurrencia de usuarios contratistas en los primeros seis meses.
+
+#### Hipótesis 2: Reducción de consultas de soporte
+- H₀ (Hipótesis Nula): Un diseño de plataforma sencilla y accesible no reduce el número de consultas de soporte.
+
+- H₁ (Hipótesis Alternativa): Un diseño de plataforma sencilla y accesible reduce en al menos 30% el número de consultas de soporte en los tres primeros meses.
+
+#### Hipótesis 3: Impacto del sistema de evaluaciones
+
+- H₀ (Hipótesis Nula): La incorporación del sistema de evaluaciones y comentarios no impacta significativamente en la contratación de remodeladores con mejores valoraciones.
+
+- H₁ (Hipótesis Alternativa): La incorporación del sistema de evaluaciones y comentarios incrementa al menos en 30% la contratación de remodeladores con mejores valoraciones.
+
+#### Hipótesis 4: Adopción de planes premium
+- H₀ (Hipótesis Nula): La oferta de planes premium no logra que al menos 30% de los remodeladores se suscriban durante el primer año.
+
+- H₁ (Hipótesis Alternativa): La oferta de planes premium logra que al menos 30% de los remodeladores se suscriban durante el primer año.
+
 ### 8.2.2. Measures
 Esta sección define qué se va a medir para evaluar si las hipótesis formuladas en el punto 8.2.1 son validadas o no. Las métricas seleccionadas deben ser cuantificables, relevantes para el negocio y directamente vinculadas con los cambios esperados.
 
