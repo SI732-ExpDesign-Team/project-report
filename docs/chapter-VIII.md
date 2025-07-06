@@ -633,6 +633,15 @@ Se invitará al remodelador a crear un perfil de servicio, revisar cómo se mues
 ### 8.4.1. Analysis and Interpretation of Results
 
 ### 8.4.2. Re-scored and Re-prioritized Question Backlog
+En esta sección se presenta el backlog de preguntas actualizado para ReStyle, reordenado según su prioridad estratégica. 
+
+| Pregunta | Prioridad | Objetivo |
+|---|---|---|
+| ¿Cómo podemos optimizar el proceso de búsqueda y comparación de remodeladores para incrementar la recurrencia de usuarios en un 20% en los primeros seis meses? | Alta | Incrementar la recurrencia de usuarios contratistas en un 20% en los primeros seis meses. |
+| ¿La oferta de planes de suscripción premium (mensuales y anuales) para remodeladores resultará en que al menos el 30% de los visitantes de este segmento se suscriban durante el primer año de lanzamiento? | Alta | Lograr que al menos el 30% de los visitantes del segmento remodelador se suscriban a los planes premium durante el primer año de lanzamiento. |
+| ¿De qué manera un diseño de plataforma sencillo y accesible atraerá a más visitantes interesados en remodelaciones y profesionales, reduciendo las consultas de soporte en un 30%? | Media | Atraer a más visitantes interesados en remodelaciones y profesionales, y reducir las consultas de soporte en un 30%. |
+| ¿La incorporación de un sistema de evaluaciones y comentarios dentro de la plataforma aumentará la contratación de profesionales con mejores valoraciones en un 30%? | Media | Aumentar la contratación de profesionales con mejores valoraciones en un 30%. |
+
 
 ## 8.5. Continuous Learning
 
