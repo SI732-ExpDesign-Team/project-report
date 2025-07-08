@@ -647,6 +647,72 @@ En esta sección se presenta el backlog de preguntas actualizado para ReStyle, r
 
 ### 8.5.1. Shareback Session Artifacts: Learning Workflow
 
+Para el proyecto ReStyle, la implementación y el desarrollo se apoyaron en un stack tecnológico robusto y un conjunto de herramientas cuidadosamente seleccionadas para garantizar eficiencia, calidad y colaboración. Este flujo de aprendizaje se centra en la elección de software y las prácticas asociadas a cada fase del ciclo de vida del desarrollo.
+
+### Stack Principal
+
+El proyecto ReStyle utiliza una combinación de tecnologías que incluyen **Java** (para el Backend), **Angular** (para el Frontend web), y herramientas de desarrollo web y móvil como HTML, CSS y JavaScript/TypeScript. La base de datos es **MySQL**.
+
+### Gestión de Requisitos y Planificación de Proyectos
+
+**Software Empleado:** Pivotal Tracker, Uxpressia, MIRO, Lucid Chart y Overflow.
+
+**Propósito:** Pivotal Tracker se utilizó para gestionar historias de usuario, organizarlas en épicas y evaluar su importancia, permitiendo una vista en tiempo real del progreso. Herramientas como Uxpressia, MIRO, Lucid Chart y Overflow fueron fundamentales para el mapeo de la trayectoria del cliente, ideación, creación de diagramas (incluyendo UML y flujos de usuario) y prototipos, facilitando la colaboración en el diseño UX/UI.
+
+### Diseño de Experiencia e Interfaz de Usuario (UX/UI)
+
+**Software Empleado:** Figma.
+
+**Propósito:** Figma se empleó para la creación digital de modelos y prototipos del sitio web, tanto para versiones de escritorio como móviles, dada su capacidad de ejecución en línea y compatibilidad con navegadores web y móviles. El diseño buscó una estética uniforme, simplicidad, legibilidad, y reflejar la identidad de marca a través de tipografías (Montserrat), paletas de colores (azules y morados) y un espaciado consistente.
+
+### Desarrollo Frontend
+
+**Software Empleado:** Angular, Webstorm, HTML5, CSS, y JavaScript/TypeScript.
+
+**Propósito:** Angular fue el framework principal para el desarrollo de la aplicación web, aprovechando su robustez. Webstorm se utilizó como IDE para el desarrollo web en JavaScript, HTML y CSS. HTML estructuró la página web, CSS definió y mejoró la presentación visual, y JavaScript/TypeScript se usó para crear interacciones dinámicas y lógica de programación.
+
+### Desarrollo Backend
+
+**Software Empleado:** Java, Spring Boot.
+
+**Propósito:** Java y Spring Boot se utilizaron para construir los servicios web (API RESTful), permitiendo el acceso seguro a los datos del sistema y la gestión de la lógica de negocio. Las pruebas unitarias e integrales se realizaron extensivamente para módulos como Business, IAM, Project, ProjectRequest, Reviews y Profiles.
+
+### Base de Datos
+
+**Software Empleado:** MySQL.
+
+**Propósito:** MySQL, junto con MySQL Workbench, fue seleccionado como motor de base de datos relacional para almacenar y gestionar los datos del proyecto, basándose en el conocimiento del equipo y las características necesarias para la amplitud del proyecto.
+
+### Sistema para el Registro y Control de Versiones
+
+**Software Empleado:** Git y GitHub.
+
+**Propósito:** GitHub sirvió como el sistema centralizado de control de versiones, almacenando y gestionando todos los repositorios (Backend, Frontend, aplicación Móvil y Landing Page). Se implementó un modelo de ramificación GitFlow (ramas main, develop, y feature/*) para una gestión ordenada de las versiones y nuevas funcionalidades. Las convenciones de Conventional Commits se aplicaron para mensajes de commit claros.
+
+### Pruebas y Verificación (Testing & Verification)
+
+**Herramientas y Prácticas:** Jest-Cucumber (para BDD), Postman (para validación de APIs), IntelliJ IDEA Ultimate, Qodana Community, Dependabot.
+
+**Propósito:** Las pruebas se realizaron en varias capas: pruebas unitarias para entidades clave (Post, Reservation, User en el estudio de referencia, o Business, IAM, Project, Reviews, Profiles en ReStyle), pruebas de integración para flujos completos, y Behavior-Driven Development (BDD) usando Jest-Cucumber para describir el comportamiento del sistema desde la perspectiva del usuario. Las pruebas de sistema se enfocaron en el funcionamiento integral de la aplicación web y móvil. El análisis estático de código con IntelliJ IDEA y Qodana, junto con Dependabot, se utilizó para detectar errores, vulnerabilidades y mantener la calidad del código.
+
+### Despliegues (Deployments) y Entrega Continua (Continuous Delivery)
+
+**Software Empleado:** GitHub Pages (para Landing Page), Azure App Service (para Backend/Web Services), Netlify (para Frontend Web Applications), GitHub Releases (para Mobile Applications).
+
+**Propósito:** GitHub Pages facilitó el despliegue automático de la Landing Page. Azure App Service y Netlify se utilizaron para el despliegue continuo del Backend y Frontend, respectivamente, permitiendo la automatización de la compilación y el despliegue de los cambios en las ramas main y develop. GitHub Releases se empleó para la distribución de la aplicación móvil.
+
+### Integración Continua (Continuous Integration)
+
+**Herramientas y Prácticas:** GitHub Actions, Maven (para Backend), Node (para Frontend).
+
+**Propósito:** GitHub Actions configuró pipelines de CI para compilar y ejecutar pruebas en el backend (con Maven) y el frontend (con Node) en cada push o pull request a las ramas main o develop, asegurando que el código se compile correctamente y las pruebas unitarias pasen antes de permitir un merge. Se implementaron reglas de protección de ramas para mantener la calidad del código.
+
+### Monitoreo Continuo (Continuous Monitoring)
+
+**Herramientas y Prácticas:** Azure Monitor, Application Insights, Azure Log Analytics, Sentry, LogRocket, Netlify Analytics.
+
+**Propósito:** Para el backend, Azure Monitor, Application Insights y Azure Log Analytics recopilaron métricas de rendimiento y logs, facilitando el diagnóstico de incidencias.
+
 ## 8.6. To-Be Software Platform Pre-launch
 
 ### 8.6.1. About-the-Product Intro Video
