@@ -628,9 +628,117 @@ Se invitará al remodelador a crear un perfil de servicio, revisar cómo se mues
 
 #### 8.3.4.2. Registro de Entrevistas
 
+**Entrevistas a remodeladores:** 
+
+|**Entrevistado 1** |**InnovaInteriores** |
+| :-: | :-: |
+|Edad |53 |
+|Distrito |Pueblo Libre |
+|![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.043.png) |La entrevistada nos comenta que la landing page es clara y concisa, el diseño y paleta de colores son similares para la landing page y la aplicación móvil, lo cual habla de que se mantiene una imagen coherente de marca. La aplicación móvil desearía que se añada una descripción de la empresa en el HOME y que el botón de eliminar cuente con un mensaje de confirmación para verificar si se desea borrar un proyecto antes de borrarlo por error.  |
+|Timing:0:00-8:05 |URL:[ ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EWhw1hIvQPROrW67I7w5xtIB-Nc06JsHrfXsDsqGQt76Hg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jv8PrW)<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EWhw1hIvQPROrW67I7w5xtIB-Nc06JsHrfXsDsqGQt76Hg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jv8PrW> |
+|**Entrevistado 2** |Carlos Mendez |
+|Edad |60 |
+|Distrito |Lima |
+|![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.044.png) |En la entrevista se comenta que los estilos están bien. Sin embargo en su dispositivo móvil la Landing Page se deforma un poco, comentando que eso se debería mejorar. Por parte del aplicativo móvil, no tuvo observaciones importantes, además de mejorar los colores. |
+|Timing: 0:00-14:20 |URL:[ ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EWG8dXHp4fdHjiUEy5zSTWcBO_xB8IU9W93xSuM7j90EJg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Wsf9S3)<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EWG8dXHp4fdHjiUEy5zSTWcBO_xB8IU9W93xSuM7j90EJg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Wsf9S3>  |
+|**Entrevistado 3** |Diego Bastidas |
+|Edad |24 |
+|Distrito |Lince |
+|![](../assets/img/chapter-VI/entrevistacap6.png) |Durante la entrevista, Diego resaltó que la estructura general de la landing page es funcional, pero mencionó que el tamaño de las imágenes podría optimizarse para una carga más rápida. En cuanto a la aplicación móvil, sugirió que sería útil contar con un buscador para filtrar proyectos por nombre o cliente, y que los botones deberían tener mayor contraste para mejorar la accesibilidad visual. Consideró positivo que ambos productos mantengan una identidad visual coherente. |
+|Timing: 0:00 – 7:15 |URL:[ ](https://drive.google.com/drive/folders/165Am15Cz-OB2JEjjMgpaPgiS8IG0_B6a?usp=sharing) |
+
+
+
+**Entrevistas a contratistas:** 
+
+|**Entrevistado 1** |**Jakeline Morey** |
+| :-: | :-: |
+|Edad |50 |
+|Distrito |Miraflores |
+|![](../assets/img/chapter-VI/Aspose.Words.5b04100b-0033-4714-8f4a-ec9c90bb3554.045.png) |La entrevistada opina que la landing page es profesional y fácil de entender. Nos menciona que el botón call to action es llamativo y cumple su propósito. La aplicación móvil le parece profesional y entendible. También comenta que le gustaría ver otra paleta de colores para el fondo del home, también comenta que no encuentra mucho propósito en una aplicación móvil dedicada al rubro y que preferiría utilizar una aplicación web. |
+|Timing:0:00 – 7:02 |URL: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EXFVBPw31vhNm8JgK1kX7wcBDcj5nyBO_LXvUSXAGDtvgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=shMOut>  |
+|**Entrevistado 2** | **Leonardo Moreno**|
+|Edad |25|
+|Distrito |Pueblo Libre |
+|![](../assets/img/chapter-VI/video-validacion-leonardo.png)|El entrevistado opina que tanto la página web como la landing page presentan un diseño minimalista y profesional. Destacó la paleta de colores seleccionada y la buena distribución de la información, lo que facilita la navegación para los usuarios. Además, señaló que la página muestra claramente sus funcionalidades y ofrece un acceso sencillo tanto para personas familiarizadas con la tecnología como para aquellas con poca experiencia en su uso. | 
+|Timing: 0:00-5:36 |URL: <https://drive.google.com/drive/folders/165Am15Cz-OB2JEjjMgpaPgiS8IG0_B6a?usp=sharing> |
+|**Entrevistado 3** | **Fabian Reyes**|
+|Edad |20|
+|Distrito | San Martin de Porres|
+|![](../assets/img/chapter-VI/Fabian-Contratista.png)|Fabián exploró las funcionalidades del sitio web: vio los remodeladores disponibles, interactuó con uno y solicitó una cotización para negociar. También usó la función de búsqueda para encontrar uno específico. Le pareció que la web es muy buena, aunque sugirió mejoras en el diseño.|
+|Timing: 00:00 – 08:05 |URL: <https://drive.google.com/drive/folders/165Am15Cz-OB2JEjjMgpaPgiS8IG0_B6a?usp=sharing> |
+
 ## 8.4. Experiment Aftermath & Analysis
 
 ### 8.4.1. Analysis and Interpretation of Results
+
+A continuación, se presentan los resultados de cada prueba realizada para validar las hipótesis:
+
+Captura: <img src="../assets/img/chapter-VIII/questions.png" alt="">
+
+Link de encuesta: [https://forms.gle/Yp4qdQpuJB2egJH56](https://forms.gle/Yp4qdQpuJB2egJH56)
+
+#### Pregunta 1:
+
+1. ¿Qué tan fácil te resulta buscar y comparar remodeladores en la plataforma?
+
+- Objetivo: Optimizar el proceso de búsqueda y comparación para elevar la recurrencia (+20 %).
+- Hipótesis: Si la media de la calificación ≥ 4 / 5, la experiencia actual es percibida como “fácil” y podremos optimizarla para aumentar la recurrencia un 20 % en 6 meses.
+- Método: Encuesta 
+
+Resultados: 
+
+<img src="../assets/img/chapter-VIII/1.png" alt="">
+
+2. ¿Qué tan probable es que vuelvas a usar la plataforma para tu próxima remodelación?
+
+- Objetivo: Medir la recurrencia de usuarios contratistas.
+- Hipótesis: Al menos 60 % de los usuarios escogerán 4-5 en la escala, lo que indica intención de recurrencia y sustenta la meta de +20 %.
+- Método: Encuesta 
+
+Resultados: 
+
+<img src="../assets/img/chapter-VIII/2.png" alt="">
+
+3. 	¿Cuánto te interesaría un plan de suscripción Premium (mensual o anual) que ofrezca más visibilidad y herramientas adicionales?
+
+- Objetivo: Validar la adopción esperada del 30 % en planes premium.
+- Hipótesis: ≥ 30 % marcarán 4-5, sugiriendo que un tercio de los remodeladores se suscribirían en el primer año.
+- Método: Encuesta 
+
+Resultados: 
+
+<img src="../assets/img/chapter-VIII/3.png" alt="">
+
+4. 	El diseño actual te parece claro y fácil de usar (es decir, rara vez necesitas ayuda del soporte)?
+
+- Objetivo: Correlacionar simplicidad de la interfaz con menos consultas al soporte (−30 %).
+- Hipótesis: Si la media ≥ 4, la interfaz ya es lo bastante intuitiva como para aspirar a reducir tickets en un 30 %.
+- Método: Encuesta 
+
+Resultados: 
+
+<img src="../assets/img/chapter-VIII/4.png" alt="">
+
+5. 	Para decidir a quién contratar, ¿qué tan importante te resultan las evaluaciones y comentarios de otros usuarios dentro de la plataforma?
+
+- Objetivo: Estimar el impacto del sistema de valoraciones en la contratación de profesionales mejor puntuados (+30 %).
+- Hipótesis: ≥ 50 % seleccionarán 4-5, indicando que las valoraciones impulsarán un +30 % de contratos a profesionales mejor puntuados.
+- Método: Encuesta 
+
+Resultados: 
+
+<img src="../assets/img/chapter-VIII/5.png" alt="">
+
+6. 	¿Qué funcionalidad o mejora agregarías?
+
+- Objetivo: Recoger ideas cualitativas que den contexto a las respuestas numéricas.
+- Hipótesis: Al menos el 40 % de las respuestas mencionarán alguna de las cuatro áreas clave: búsqueda/filtrado, planes Premium, diseño-UX o sistema de valoraciones, confirmando la alineación con las hipótesis anteriores.
+- Método: Encuesta 
+
+Resultados: 
+
+<img src="../assets/img/chapter-VIII/6.png" alt="">
 
 ### 8.4.2. Re-scored and Re-prioritized Question Backlog
 En esta sección se presenta el backlog de preguntas actualizado para ReStyle, reordenado según su prioridad estratégica. 
@@ -717,6 +825,11 @@ El proyecto ReStyle utiliza una combinación de tecnologías que incluyen **Java
 
 ### 8.6.1. About-the-Product Intro Video
 
+Captura: <img src="../assets/img/chapter-VIII/about-the-product-to-be.png" alt="">
+
+Link: [https://shorturl.at/2CK4c](https://shorturl.at/2CK4c)
+
+
 # Capítulo IX: Conclusiones 
 
 ## 9.1. Conclusiones y recomendaciones
@@ -766,7 +879,7 @@ Terrel, E. (2023). Cinco razones por las que los peruanos eligen remodelar su vi
       Duración: 28:27 min
     </td>
     <td>Consolida todas las entrevistas realizadas, incluyendo en cada entrevista títulos con información del entrevistado, el segmento objetivo y la fecha de la entrevista.</td>
-    <td>Enlace: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ET1QS27QI8FIp31HoL_PQVoB4ZOZMMzHz00ElPWsFPpE1Q?e=t2hWIb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link de entrevistas</a>
+    <td>Enlace: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ET1QS27QI8FIp31HoL_PQVoB4ZOZMMzHz00ElPWsFPpE1Q?e=t2hWIb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ET1QS27QI8FIp31HoL_PQVoB4ZOZMMzHz00ElPWsFPpE1Q?e=t2hWIb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
     <br>Captura:<br> <img src="../assets/img/chapter-II/needfinding-tb1.png" alt="Foto de entrevista" width=200px></td>
   </tr>
   <!--SEGUNDA FILA-->
@@ -779,14 +892,18 @@ Terrel, E. (2023). Cinco razones por las que los peruanos eligen remodelar su vi
       Duración: 1:00 min</td>
     <td>
     Orientación promocional, resumiendo el modelo de negocio, las características y beneficios del producto, incluyendo algunas escenas de interacción con el producto y al menos una opinión por cada segmento objetivo.</td>
-    <td>Enlace: <a href="https://www.youtube.com/embed/T2M434QKT4k">Link de Youtube</a>
+    <td>Enlace: <a href="https://www.youtube.com/embed/T2M434QKT4k">https://www.youtube.com/embed/T2M434QKT4k</a>
     <br>Captura:<br> <img src="../assets/img/chapter-V/video-about-the-product.png" alt="" width=200px></td>
   </tr>
   <!--TERCERA FILA-->
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>To-Be Software Platform Pre-launch</td>
+    <td>Cantidad de videos: 1<br>
+      Nomenclatura: To-Be Software Platform Pre-launch<br>
+      Formato: .mp4<br>
+      Duración: 6:30 min</td>
+    <td>Consolida el video To-Be Software Platform Pre-launch para el apartado About the product Intro video</td>
+    <td>Enlace: <a href="https://shorturl.at/2CK4c">https://shorturl.at/2CK4c</a>
+    <br>Captura:<br> <img src="../assets/img/chapter-VIII/about-the-product-to-be.png" alt="" width=200px></td>
   </tr>
 </table>
