@@ -13,7 +13,7 @@
 # Informe Trabajo Final
 ## Docente: Juan Carlos Tinoco Licas
 ## Startup: Estrellados
-## Producto: 
+## Producto: ReStyle
 ## Integrantes 
 
  </center> 
@@ -42,8 +42,13 @@
 | Versión | Fecha      | Autor                                                                          | Descripción de modificación                                                                                      |
 |---------|------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | 1.0     | 04/04/2025 | Alejandra Díaz                                                                | Se creo la ramificación del repositorio y se adicionó los documentos en su versión inicial previa a la investigacón |
-
-
+| 2.0    | 08/05/2025 | Alejandra Díaz                                                                | Se comenzó la redacción del capítulo 7 |
+| 2.1    | 09/05/2025 | Alejandra Díaz                                                                | Se terminó la redacción del capítulo 7 |
+| 2.2    | 10/05/2025 | Mariana Chambi                                                                | Se comenzó la redacción del capítulo 6 |
+| 2.3    | 10/05/2025 | Ely Cortez                                                                      | Se terminó la redacción del capítulo 6 |
+| 2.4    | 10/06/2025 | Alejandra Díaz                                                                      | Se terminó la redacción del capítulo 7 |
+| 2.5    | 16/06/2025 | Stefano Valenzuela                                                                     | Se terminó la redacción del capítulo 8  |
+| 2.6    | 08/07/2025 | Alejandra Díaz                                                                     | Se terminó la redacción del informe  |
 
 ### Project Report Collaboration Insights
 
@@ -54,7 +59,7 @@ Github Collaboration Insights proporciona un cronograma que muestra las principa
 - Maria Alejandra Díaz Villacrez (alehandraxx)
 - Mariana Alexandra Chambi Mendoza (MarianaAlexandra05)
 - Ely Rivaldo Cortez Flores (rivacortez)
-- Nombre Apellido (usuarioGithub)
+- Paolo Gonzalo Párraga Gamarra (PaoloParragaGamarra)
 - Stefano Alessandro Valenzuela Vallejos (AlessandroUPC)
 - Joaquin Antonio Cortez Quezada (Joaqquin0)
 
@@ -63,14 +68,6 @@ Se divieron las siguientes ramas para la colaboración en el proyecto:
 - main
 - quality
 - develop
-
-* #### Entregable TB1
-
-A continuación se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro 
-primer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada
-miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de 
-líneas de código que se han modificado en cada uno de los commits.
-
 
 ## Contenido 
 
@@ -428,11 +425,16 @@ líneas de código que se han modificado en cada uno de los commits.
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Texto
+         Durante el desarrollo de la TB1, asumí la responsabilidad de gestionar los despliegues de todos los componentes de software del proyecto (backend, mobile, frontend y landing page). Implementé buenas prácticas de seguridad y respaldo de datos, estableciendo protocolos para garantizar que las implementaciones fueran confiables y transparentes.<br>
+        <b>Díaz Villacrez, María Alejandra TP:</b> 
+        Para el TP, al desarrollar el Capítulo VII sobre DevOps Practices, apliqué principios éticos y profesionales al diseñar e implementar pipelines de CI/CD que garantizaran la calidad y seguridad del código en producción. Implementé reglas de protección de ramas en GitHub que aseguraron revisiones de código obligatorias antes de cualquier despliegue, evitando cambios no autorizados que pudieran comprometer la seguridad o funcionalidad del sistema.<br>
+        <b>Díaz Villacrez, María Alejandra TB2:</b> 
+        Para el TB2, al desarrollar el Capítulo VII sobre DevOps Practices, se aplicó principios éticos y profesionales para diseñar e implementar pipelines de CI/CD. Se encargó de establecer reglas de protección en GitHub que exigían revisiones de código obligatorias, evitando cambios no autorizados que pudieran comprometer la seguridad y funcionalidad del sistema.
+        <b>Díaz Villacrez, María Alejandra TF1:</b> 
+        Para el TF, al desarrollar el Capítulo VIII, el video sobre To-Be Software Platform Pre-launch, se aplicaron mejoras para diseñar e implementar las funcionalidades recomendadas por los entrevistados. Me encarge de recolectar las respuestas mediante un formulario y validar su relevancia con nuestro software.
         </td>
         <td rowspan="6"> 
-         <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
-        Texto
+         <b>-</b><br>
       </td>   
     </tr>
     <!-- Estudiante 2 TB1 --> 
@@ -440,37 +442,55 @@ líneas de código que se han modificado en cada uno de los commits.
       <td>
       <b>Chambi Mendoza, Mariana Alexandra TB1:</b> <br> 
       Durante la elaboración de la TB1, asumí la responsabilidad ética y profesional al considerar los impactos del sistema en los usuarios. Analicé las necesidades y segmentación de los usuarios, asegurando que las decisiones no solo cumplieran con los requerimientos funcionales, sino que también protegieran la privacidad, seguridad y equidad. Utilicé herramientas como User Personas y User Journey Mapping para identificar posibles riesgos y proponer soluciones que favorecieran el bienestar de todos los involucrados, destacando la importancia de la ética en la ingeniería de software.  
-    </td>   
+      <b>Chambi Mendoza, Mariana Alexandra TP1:</b>
+      Durante el desarrollo del TP1, asumí la responsabilidad ética y profesional al diseñar y ejecutar pruebas en los distintos componentes del sistema: backend, frontend y mobile. Utilicé herramientas como JUnit para las pruebas unitarias y de integración en el backend, y Postman para validar los endpoints críticos desde el cliente. Estas pruebas permitieron identificar errores y prevenir fallos en funcionalidades sensibles como la autenticación, gestión de usuarios, proyectos y solicitudes. En el frontend y mobile, validé la correcta integración con los servicios y el manejo de errores del lado del usuario. Estas acciones reflejan un compromiso con la calidad del software y con el impacto que este tiene sobre los usuarios finales, asegurando que cada entrega cumpla estándares éticos, técnicos y de seguridad.
+      <b>Chambi Mendoza, Mariana Alexandra TB2:</b>
+      Durante el desarrollo de la TB2, asumí responsabilidad ética al aplicar principios de calidad y seguridad en la fase de auditoría de pruebas. Verifiqué la ejecución de pruebas funcionales y de regresión en los distintos módulos del sistema, asegurando que las funcionalidades críticas no comprometieran la experiencia ni la información del usuario. Este enfoque riguroso reflejó el compromiso de mantener la integridad técnica y ética del producto final.
+      </td> 
+      </td>   
     </tr>
     <!-- Estudiante 3 TB1-->
      <tr>   
       <td>
         <b>Cortez Flores, Ely Rivaldo TB1:</b><br>
-        Durante la elaboración del mapa de impacto, reconocí la importancia de asumir una responsabilidad ética y profesional en cada decisión tomada. Identifiqué de forma consciente a los segmentos objetivos involucrados, analicé los posibles impactos que podría generar el sistema en cada uno de ellos y propuse entregables que no solo respondieran a los requerimientos funcionales, sino que también consideraran principios como la privacidad, la equidad, la seguridad y el bienestar del usuario final. Este proceso me permitió comprender cómo las decisiones en ingeniería de software pueden influir en la sociedad.
+        Durante la elaboración del mapa de impacto, reconocí la importancia de asumir una responsabilidad ética y profesional en cada decisión tomada. Identifiqué de forma consciente a los segmentos objetivos involucrados, analicé los posibles impactos que podría generar el sistema en cada uno de ellos y propuse entregables que no solo respondieran a los requerimientos funcionales, sino que también consideraran principios como la privacidad, la equidad, la seguridad y el bienestar del usuario final. Este proceso me permitió comprender cómo las decisiones en ingeniería de software pueden influir en la sociedad.<br>
+       <b>Cortez Flores, Ely Rivaldo TP:</b>
+        Durante el desarrollo del TP, asumí responsabilidad ética y profesional al trabajar en el Capítulo VI sobre Product Verification & Validation. Implementé y documenté pruebas rigurosas que garantizaron la fiabilidad y seguridad del sistema, considerando tanto los aspectos técnicos como los principios éticos de protección de datos y privacidad del usuario. Desarrollé pruebas de integración que verificaron la correcta comunicación entre los componentes del sistema, asegurando que cada interacción respetara los protocolos de seguridad establecidos y proporcionara una experiencia confiable a los usuarios finales.
+        <b>Cortez Flores, Ely Rivaldo TB2:</b>
+       Durante el desarrollo de la TB2, asumí responsabilidad ética y profesional al participar en el análisis de riesgos y el diseño del plan de pruebas para la auditoría. Implementé criterios de aceptación que garantizan la protección de datos y la integridad del sistema, y validé mediante documentación que las pruebas realizadas cumplieran con estándares éticos, especialmente en lo relacionado al tratamiento justo y seguro de la información de los usuarios.
       </td>    
     </tr>
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
       <b>Valenzuela Vallejos, Stefano Alessandro  TB1:</b><br>
-       Durante el desarrollo de la TB1, asumí la responsabilidad ética y profesional al trabajar en la elaboración del perfil de la startup, el perfil de la solución, el proceso Lean UX, el Lean UX Canvas y la entrevista al segmento contratista. Reflexioné sobre cómo nuestra propuesta de plataforma digital para servicios de remodelación debía respetar principios como la transparencia, la seguridad de la información y la equidad para todos los usuarios. Consideré los posibles riesgos de malas prácticas en el rubro, como la desinformación o la falta de seguimiento, y propuse soluciones centradas en la experiencia del usuario que fomenten la confianza y el trato justo entre contratistas y clientes. Este enfoque ético resultó clave para proponer una solución tecnológica que aporte de manera responsable a la sociedad.
-
-
-
+       Durante el desarrollo de la TB1, asumí la responsabilidad ética y profesional al trabajar en la elaboración del perfil de la startup, el perfil de la solución, el proceso Lean UX, el Lean UX Canvas y la entrevista al segmento contratista. Reflexioné sobre cómo nuestra propuesta de plataforma digital para servicios de remodelación debía respetar principios como la transparencia, la seguridad de la información y la equidad para todos los usuarios. Consideré los posibles riesgos de malas prácticas en el rubro, como la desinformación o la falta de seguimiento, y propuse soluciones centradas en la experiencia del usuario que fomenten la confianza y el trato justo entre contratistas y clientes. Este enfoque ético resultó clave para proponer una solución tecnológica que aporte de manera responsable a la sociedad.<br>
+      <b>Valenzuela Vallejos, Stefano Alessandro TP:<b><br>
+      Durante el TP, demostré responsabilidad ética y profesional al participar en el desarrollo del Capítulo V sobre Product Implementation. Implementé prácticas de código seguro y manejo responsable de datos en el frontend web, estableciendo validaciones robustas para proteger la información de los usuarios. Además, colaboré en la documentación detallada de la API RESTful, asegurando transparencia en cómo se procesan y almacenan los datos sensibles, y facilitando que otros desarrolladores comprendan claramente las implicaciones de seguridad en cada endpoint.
+      <b>Valenzuela Vallejos, Stefano Alessandro TB2:<b>
+      Durante el desarrollo de la TB2, asumí responsabilidad ética al participar en la auditoría de pruebas centrada en la validación de flujos sensibles como la creación de perfiles y solicitudes de servicio. Verifiqué que las funcionalidades no vulneren la privacidad de los usuarios y que cuenten con validaciones claras para evitar malentendidos o errores críticos. Este proceso ayudó a fortalecer la confiabilidad del sistema desde un enfoque técnico y ético.
 </td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
         <b>Párraga Gamarra, Paolo Gonzalo TB1:</b><br>
-        Durante el desarrollo del Capítulo IV: Product Design, asumí la responsabilidad ética y profesional al diseñar interfaces y arquitecturas centradas en el usuario, con un enfoque inclusivo y accesible. Al trabajar en las guías de estilo, arquitectura de información, wireframes, mock-ups y prototipos tanto para plataformas móviles como web, consideré las necesidades de distintos tipos de usuarios, priorizando la usabilidad, claridad y accesibilidad. Especial atención se dio a los emprendedores, nuestro segmento objetivo, mediante una entrevista directa que permitió comprender sus verdaderas necesidades y contextos de uso. Esto permitió diseñar soluciones empáticas, que no solo cumplen con los requisitos funcionales, sino que también promueven la equidad digital, reducen la brecha tecnológica y favorecen el bienestar de los usuarios.
+        Durante el desarrollo del Capítulo IV: Product Design, asumí la responsabilidad ética y profesional al diseñar interfaces y arquitecturas centradas en el usuario, con un enfoque inclusivo y accesible. Al trabajar en las guías de estilo, arquitectura de información, wireframes, mock-ups y prototipos tanto para plataformas móviles como web, consideré las necesidades de distintos tipos de usuarios, priorizando la usabilidad, claridad y accesibilidad. Especial atención se dio a los emprendedores, nuestro segmento objetivo, mediante una entrevista directa que permitió comprender sus verdaderas necesidades y contextos de uso. Esto permitió diseñar soluciones empáticas, que no solo cumplen con los requisitos funcionales, sino que también promueven la equidad digital, reducen la brecha tecnológica y favorecen el bienestar de los usuarios.<br>
+        <b>Párraga Gamarra, Paolo Gonzalo TP:</b>
+        Para el TP, asumí la responsabilidad ética y profesional al liderar la implementación de las interfaces de usuario siguiendo estrictamente los principios de accesibilidad web (WCAG) y las mejores prácticas de UX/UI. Tomé decisiones conscientes sobre el diseño de formularios y flujos de navegación para proteger a los usuarios de posibles errores, implementando validaciones y mensajes de error claros. Adicionalmente, documenté el código para facilitar su mantenimiento futuro y garanticé que la aplicación respetara la privacidad del usuario al minimizar la recolección de datos personales innecesarios.
+        <b>Párraga Gamarra, Paolo Gonzalo TB2:</b>
+        En la TB2, ejercí responsabilidad ética y profesional al liderar la validación de las interfaces implementadas, evaluando aspectos críticos como la accesibilidad, claridad de mensajes y prevención de errores del usuario. Verifiqué que las pruebas de usabilidad cumplieran con criterios éticos, especialmente en términos de inclusión digital y reducción de fricción para los usuarios con baja alfabetización tecnológica.
       </td>   
     </tr>
         <!-- Estudiante 6 TB1-->
     <tr>   
       <td>
         <b>Cortez Quezada, Joaquin Antonio TB1:</b><br>
-        Durante el análisis y actualización del diagrama C4 en el desarrollo de la TB1, asumí la responsabilidad ética y profesional al representar adecuadamente los sistemas y componentes de la arquitectura de la solución. Reflexioné sobre cómo la inclusión de la aplicación móvil, además de la plataforma web, debía respetar principios como la transparencia y la seguridad de la información. También consideré los riesgos de malas interpretaciones en el diseño del sistema y trabajé para garantizar una representación clara que promueva la equidad y la confianza entre los usuarios. Este compromiso ético fue esencial para proponer una arquitectura tecnológica que responda de manera responsable a las necesidades del sector.
+        Durante el análisis y actualización del diagrama C4 en el desarrollo de la TB1, asumí la responsabilidad ética y profesional al representar adecuadamente los sistemas y componentes de la arquitectura de la solución. Reflexioné sobre cómo la inclusión de la aplicación móvil, además de la plataforma web, debía respetar principios como la transparencia y la seguridad de la información. También consideré los riesgos de malas interpretaciones en el diseño del sistema y trabajé para garantizar una representación clara que promueva la equidad y la confianza entre los usuarios. Este compromiso ético fue esencial para proponer una arquitectura tecnológica que responda de manera responsable a las necesidades del sector.<br>
+        <b>Cortez Quezada, Joaquin Antonio TP:</b>
+        Durante el TP, ejercí responsabilidad ética y profesional al implementar y documentar la arquitectura de software basada en componentes. Me aseguré de que cada componente del sistema cumpliera con estándares de calidad y seguridad, implementando controles de acceso adecuados y mecanismos de autenticación robustos. Además, colaboré en la definición de políticas de protección de datos que garantizan el manejo ético de la información sensible de los usuarios, alineándome con las regulaciones vigentes y las mejores prácticas de la industria.
+        <b>Cortez Quezada, Joaquin Antonio TP:</b>
+        Durante la TB2, ejercí responsabilidad ética y profesional al auditar la coherencia entre la arquitectura planteada y las pruebas ejecutadas. Verifiqué que los componentes respetaran el diseño original y que los flujos de datos sensibles estuvieran adecuadamente protegidos. Además, revisé los logs de errores para identificar posibles vulnerabilidades, asegurando así una arquitectura ética, técnica y funcionalmente robusta.
       </td>   
     </tr>
     <tbody>
@@ -488,49 +508,71 @@ líneas de código que se han modificado en cada uno de los commits.
       <!-- Estudiante 1 TB1 -->    
       <td>
         <b>Díaz Villacrez, María Alejandra TB1:</b> 
-        Texto
+        En la TB1, emití juicios informados al seleccionar e implementar estrategias de despliegue para los diferentes componentes del software (backend, mobile, frontend y landing page), considerando su impacto en contextos más amplios. Evalué cuidadosamente las implicaciones económicas de las plataformas de hosting seleccionadas, buscando un equilibrio entre costo, rendimiento y escalabilidad.<br>
+        <b>Díaz Villacrez, María Alejandra TP:</b> 
+         Para el TP, al desarrollar el capítulo completo de DevOps Practices, emití juicios informados sobre el impacto de nuestras prácticas de CI/CD en múltiples niveles. Analicé y seleccioné herramientas y servicios cloud (GitHub Actions, Azure App Service).<br>
+        <b>Díaz Villacrez, María Alejandra TB2:</b> 
+        Para el TB2, en el desarrollo del capítulo de DevOps Practices, se analizó y seleccionó herramientas y servicios cloud (como GitHub Actions y Azure App Service) evaluando de manera crítica el impacto de las prácticas de CI/CD en diversos niveles. Esta iniciativa se basó en un enfoque ético y sostenible, asegurando que la solución adoptada generara beneficios tanto técnicos como en términos de impacto global.
+        <b>Díaz Villacrez, María Alejandra TF1:</b> 
+        Para el TF, al desarrollar el Capítulo VIII, el video sobre To-Be Software Platform Pre-launch, se aplicaron mejoras para diseñar e implementar las funcionalidades recomendadas por los entrevistados. Me encarge de recolectar las respuestas mediante un formulario y validar su relevancia con nuestro software.
         </td>
         <td rowspan="6"> 
-         <b>CONCLUSIÓN DEL ENTREGABLE TB1</b><br>
-        Texto
+         <b>-</b><br>
       </td>   
     </tr>
     <!-- Estudiante 2 TB1 --> 
     <tr> 
       <td>
       <b>Chambi Mendoza, Mariana Alexandra TB1:</b> <br> 
-      En la TB1, emití juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales. Utilicé herramientas como User Personas y User Journey Mapping para evaluar las necesidades de los usuarios y los posibles riesgos. Aseguré que las soluciones propuestas cumplieran con los requisitos funcionales y respetaran principios éticos, como la privacidad, seguridad y equidad, buscando generar un impacto positivo y sostenible en la sociedad.  
+      En la TB1, emití juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales. Utilicé herramientas como User Personas y User Journey Mapping para evaluar las necesidades de los usuarios y los posibles riesgos. Aseguré que las soluciones propuestas cumplieran con los requisitos funcionales y respetaran principios éticos, como la privacidad, seguridad y equidad, buscando generar un impacto positivo y sostenible en la sociedad.
+      <b>Chambi Mendoza, Mariana Alexandra TP1:</b>
+      En este TP1, asumí mi responsabilidad ética y profesional realizando pruebas unitarias con JUnit en el backend y validando las APIs con Postman. También verifiqué la integridad y seguridad de las interfaces en frontend y mobile, garantizando que el sistema fuera confiable y seguro para los usuarios, priorizando siempre la calidad y la protección de datos. 
+      <b>Chambi Mendoza, Mariana Alexandra TB2:</b>
+      Durante el TB2, realicé la auditoría de pruebas funcionales y de regresión en el módulo de autenticación y gestión de usuarios. Esta evaluación me permitió emitir juicios informados sobre la estabilidad del sistema en escenarios de alto impacto, considerando la importancia de mantener una experiencia segura y consistente para los usuarios, incluso ante cambios frecuentes en el software. Esto demuestra cómo las decisiones técnicas están relacionadas con impactos sociales y económicos significativos.
     </td>   
     </tr>
     <!-- Estudiante 3 TB1-->
      <tr>   
       <td>
         <b>Cortez Flores, Ely Rivaldo TB1:</b><br>
-        Durante la elaboración del mapa de impacto, tomé decisiones fundamentadas analizando cómo las soluciones de ingeniería de software podían influir en contextos globales, económicos, ambientales y sociales. Consideré no solo los aspectos técnicos, sino también cómo estas decisiones afectarían la sostenibilidad, el acceso justo a la tecnología y el entorno en el que serían aplicadas. Este ejercicio me ayudó a desarrollar un criterio más consciente y profesional, entendiendo que las soluciones tecnológicas deben adaptarse con responsabilidad a distintas realidades y aportar de manera positiva a la sociedad.
+        Durante la elaboración del mapa de impacto, tomé decisiones fundamentadas analizando cómo las soluciones de ingeniería de software podían influir en contextos globales, económicos, ambientales y sociales. Consideré no solo los aspectos técnicos, sino también cómo estas decisiones afectarían la sostenibilidad, el acceso justo a la tecnología y el entorno en el que serían aplicadas. Este ejercicio me ayudó a desarrollar un criterio más consciente y profesional, entendiendo que las soluciones tecnológicas deben adaptarse con responsabilidad a distintas realidades y aportar de manera positiva a la sociedad.<br>
+        <b>Cortez Flores, Ely Rivaldo TP:</b>
+        Para el TP, emití juicios informados al desarrollar estrategias de verificación y validación que consideraron diversos contextos de uso. Al diseñar pruebas de usabilidad, tuve en cuenta usuarios con diferentes niveles socioeconómicos y de alfabetización digital, asegurando que nuestra solución fuera accesible e inclusiva. Además, implementé pruebas de rendimiento optimizadas para dispositivos de gama media-baja, reconociendo las limitaciones tecnológicas en ciertos contextos y contribuyendo a una solución más sostenible que no fuerza a los usuarios a actualizar constantemente sus dispositivos.
+        <b>Cortez Flores, Ely Rivaldo TB2:</b>
+        En el TB2, participé en la auditoría de pruebas de rendimiento, donde identifiqué cuellos de botella que podrían afectar la experiencia de usuarios con recursos tecnológicos limitados. Emití juicios informados al proponer mejoras que no solo optimizaron el sistema, sino que también redujeron el consumo de recursos, haciendo la solución más accesible, inclusiva y eficiente, especialmente en contextos económicos desfavorables.
       </td>    
     </tr>
     <!-- Estudiante 4 TB1-->
      <tr>   
       <td>
       <b>Valenzuela Vallejos, Stefano Alessandro TB1:</b><br>
-       Durante el desarrollo de la TB1, emití juicios informados al analizar el impacto de nuestra solución de software en el contexto del sector de remodelaciones, considerando factores globales, económicos, ambientales y sociales. Al elaborar el perfil de la startup, la solución propuesta, el Lean UX Process, el Lean UX Canvas y la entrevista al segmento contratista, reflexioné sobre cómo una plataforma digital puede transformar la forma en que las personas acceden a servicios de remodelación, fomentando la formalización del sector y brindando mayor visibilidad a los profesionales independientes. Además, identifiqué oportunidades para optimizar recursos, reducir desplazamientos innecesarios mediante la digitalización del proceso y promover un desarrollo más sostenible y justo en la contratación de servicios.
-
-
-
+       Durante el desarrollo de la TB1, emití juicios informados al analizar el impacto de nuestra solución de software en el contexto del sector de remodelaciones, considerando factores globales, económicos, ambientales y sociales. Al elaborar el perfil de la startup, la solución propuesta, el Lean UX Process, el Lean UX Canvas y la entrevista al segmento contratista, reflexioné sobre cómo una plataforma digital puede transformar la forma en que las personas acceden a servicios de remodelación, fomentando la formalización del sector y brindando mayor visibilidad a los profesionales independientes. Además, identifiqué oportunidades para optimizar recursos, reducir desplazamientos innecesarios mediante la digitalización del proceso y promover un desarrollo más sostenible y justo en la contratación de servicios.<br>
+       <b>Valenzuela Vallejos, Stefano Alessandro TP:</b>
+       Durante el TP, emití juicios informados al implementar soluciones de software considerando su impacto en diversos contextos. Al trabajar en el frontend web, desarrollé interfaces responsivas y livianas que funcionan eficientemente en conexiones limitadas, reconociendo las disparidades de acceso a internet en diferentes regiones. Además, implementé técnicas de optimización de recursos que reducen el consumo de energía de los dispositivos, lo que representa un beneficio ambiental. Estas decisiones estuvieron fundamentadas en el análisis de datos sobre accesibilidad digital global y el compromiso de crear una plataforma verdaderamente inclusiva.
+       <b>Valenzuela Vallejos, Stefano Alessandro TB2:</b>
+       En el TB2, realicé la auditoría de pruebas de integración de la API RESTful. Evalué cómo los distintos servicios del sistema interactúan entre sí en contextos reales de uso, priorizando la estabilidad y la interoperabilidad. Emití juicios informados al identificar riesgos asociados al uso de dispositivos con acceso limitado a internet, proponiendo mejoras que favorecen la equidad digital y reducen las barreras tecnológicas.
 </td>   
     </tr>
     <!-- Estudiante 5 TB1-->
     <tr>   
       <td>
         <b>Párraga Gamarra, Paolo Gonzalo TB1:</b><br>
-        emití juicios informados considerando los impactos de nuestras soluciones en contextos económicos y sociales, especialmente al diseñar interfaces y flujos centrados en emprendedores como segmento objetivo. Gracias a la entrevista realizada, comprendí sus limitaciones de tiempo, presupuesto y acceso a la tecnología, lo cual influyó directamente en decisiones de diseño que priorizaron la simplicidad, eficiencia y compatibilidad multiplataforma. Además, al estructurar la arquitectura de información y definir wireflows y prototipos para aplicaciones móviles y web, se promovió la reutilización de componentes y el uso de recursos tecnológicos sostenibles, lo cual también tuvo en cuenta impactos ambientales.
+        emití juicios informados considerando los impactos de nuestras soluciones en contextos económicos y sociales, especialmente al diseñar interfaces y flujos centrados en emprendedores como segmento objetivo. Gracias a la entrevista realizada, comprendí sus limitaciones de tiempo, presupuesto y acceso a la tecnología, lo cual influyó directamente en decisiones de diseño que priorizaron la simplicidad, eficiencia y compatibilidad multiplataforma. Además, al estructurar la arquitectura de información y definir wireflows y prototipos para aplicaciones móviles y web, se promovió la reutilización de componentes y el uso de recursos tecnológicos sostenibles, lo cual también tuvo en cuenta impactos ambientales.<br>
+        <b>Párraga Gamarra, Paolo Gonzalo TP:</b>
+        Para el TP, emití juicios informados sobre el impacto de nuestras soluciones de diseño en contextos globales y sociales. Implementé un sistema de diseño modular que optimiza la carga de recursos gráficos, reduciendo significativamente el consumo de datos móviles, un factor crítico en regiones con acceso limitado a internet. Además, desarrollé una interfaz adaptable a diferentes idiomas y convenciones culturales, considerando aspectos como la dirección de lectura y simbolismos regionales. Estas decisiones se basaron en investigaciones sobre inclusión digital y buscan democratizar el acceso a los servicios de nuestra plataforma.
+        <b>Párraga Gamarra, Paolo Gonzalo TB2:</b>
+        Durante el TB2, realicé una auditoría centrada en la validación de accesibilidad web, aplicando los principios de las WCAG. Emití juicios informados sobre cómo nuestras decisiones de diseño afectan a personas con discapacidades visuales o motoras, y propuse mejoras que aumentan la inclusión digital, demostrando sensibilidad hacia el impacto social de las soluciones tecnológicas.
       </td>   
     </tr>
         <!-- Estudiante 6 TB1-->
     <tr>   
       <td>
         <b>Cortez Quezada, Joaquin Antonio TB1:</b><br>
-        Durante el análisis y actualización del diagrama C4 en el desarrollo de la TB1, emití juicios informados al evaluar el impacto de nuestra arquitectura tecnológica en el contexto del sector de remodelaciones. Al incorporar la aplicación móvil en el diseño, reflexioné sobre cómo esta mejora podría optimizar la experiencia de los usuarios y fomentar la formalización de los servicios de remodelación. Además, consideré aspectos clave como la digitalización de procesos para reducir desplazamientos innecesarios y promover un enfoque más sostenible, brindando mayor visibilidad a los contratistas y facilitando la interacción entre clientes y profesionales. Estas decisiones reflejan un enfoque responsable y consciente del impacto global, económico, social y ambiental de la solución.
+        Durante el análisis y actualización del diagrama C4 en el desarrollo de la TB1, emití juicios informados al evaluar el impacto de nuestra arquitectura tecnológica en el contexto del sector de remodelaciones. Al incorporar la aplicación móvil en el diseño, reflexioné sobre cómo esta mejora podría optimizar la experiencia de los usuarios y fomentar la formalización de los servicios de remodelación. Además, consideré aspectos clave como la digitalización de procesos para reducir desplazamientos innecesarios y promover un enfoque más sostenible, brindando mayor visibilidad a los contratistas y facilitando la interacción entre clientes y profesionales. Estas decisiones reflejan un enfoque responsable y consciente del impacto global, económico, social y ambiental de la solución.<br>
+        <b>Cortez Quezada, Joaquin Antonio TP:</b>
+        Durante el TP, emití juicios informados al implementar una arquitectura de software que considera cuidadosamente su impacto en diversos contextos. Diseñé un sistema backend con procesamiento distribuido que reduce el consumo energético general de la aplicación, contribuyendo a la sostenibilidad ambiental. También implementé estrategias de almacenamiento de datos que minimizan la duplicidad y optimizan los recursos computacionales. Estas decisiones se fundamentaron en un análisis detallado de las implicaciones económicas y ambientales de diferentes arquitecturas, buscando equilibrar el rendimiento técnico con la responsabilidad social corporativa.
+        <b>Cortez Quezada, Joaquin Antonio TB2:</b>
+        En el TB2, realicé una auditoría de pruebas de seguridad en la arquitectura distribuida. Emití juicios informados al analizar cómo las vulnerabilidades podrían afectar negativamente a usuarios en entornos socioeconómicos vulnerables. Apliqué buenas prácticas para mitigar riesgos y asegurar que la solución respete principios éticos y legales, con un enfoque en proteger el bienestar social y la confianza del usuario.
       </td>   
     </tr>
 </table>

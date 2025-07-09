@@ -754,6 +754,8 @@ Landing page desplegada: https://si732-expdesign-team.github.io/landing-page/
 <img src="../assets/img/chapter-V/landing6.png"> 
 <img src="../assets/img/chapter-V/landing7.png"> 
 
+
+
 ### 5.2.3. Implemented Frontend-Web Application Evidence
 
 <img src="../assets/img/chapter-V/frontend.png"> 
@@ -763,7 +765,41 @@ Landing page desplegada: https://si732-expdesign-team.github.io/landing-page/
 
 Frontend web applications desplegado: https://restyle-frontend.netlify.app/home
 
-### 5.2.4. Implemented Native-Mobile Application Evidence
+### 5.2.4. Acuerdo de Servicio - SaaS
+
+El Acuerdo de Servicio SaaS define los derechos, obligaciones y restricciones que tienen los usuarios al utilizar la plataforma web. Este documento asegura la transparencia del servicio, especificando aspectos como:
+
+<img src="../assets/img/chapter-V/Terms&Conditions/Terminos&CondicionesRestyles.png"> 
+
+- **Acceso al Servicio:**
+Describe cómo el cliente accederá y utilizará el software, incluyendo restricciones y permisos. 
+<img src="../assets/img/chapter-V/Terms&Conditions/Acceso al Servicio.png"> 
+
+- **Condiciones de Pago:**
+Detalla los precios, ciclos de facturación, y cómo se manejan las suscripciones y tarifas adicionales. 
+<img src="../assets/img/chapter-V/Terms&Conditions/Condicion de pagos.png"> 
+
+- **Alcance del Servicio Brindado:**
+La plataforma proporciona un servicio accesible vía web que permite a los usuarios crear, compartir e interactuar dentro la misma.
+<img src="../assets/img/chapter-V/Terms&Conditions/Acceso al Servicio.png"> 
+
+- **Gestión de Datos:**
+Define la propiedad de los datos, seguridad, cumplimiento de la privacidad y cómo el proveedor tratará los datos del cliente. 
+<img src="../assets/img/chapter-V/Terms&Conditions/Gestion de datos.png"> 
+
+- **Derechos de Propiedad Intelectual:**
+Especifica quién posee los derechos sobre el software y la propiedad intelectual asociada, y los derechos de uso del cliente. 
+<img src="../assets/img/chapter-V/Terms&Conditions/Propiedad Intelectual.png"> 
+<img src="../assets/img/chapter-V/Terms&Conditions/Propiedad Intelectual 2.png"> 
+- **Responsabilidades y Garantías:**
+Define las responsabilidades de ambas partes, incluyendo garantías del proveedor y exenciones de responsabilidad. 
+<img src="../assets/img/chapter-V/Terms&Conditions/Responsabilidades y Garantías.png"> 
+
+- **Condiciones de suspensión o cancelación del servicio:**
+Establece los términos y condiciones para finalizar el acuerdo, incluyendo prórrogas y consecuencias. 
+<img src="../assets/img/chapter-V/Terms&Conditions/Condiciones de suspension.png"> 
+
+### 5.2.5. Implemented Native-Mobile Application Evidence
 
 Native-Mobile Application desplegada: https://github.com/SI732-ExpDesign-Team/mobile/releases/download/v0.2.0-alpha/ReStyle.apk
 
@@ -771,7 +807,7 @@ Demo: [Link de Stream](https://upcedupe-my.sharepoint.com/personal/u202118315_up
 
 <img src="../assets/img/chapter-V/release-mobile2.png"> 
 
-### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
+### 5.2.6. Implemented RESTful API and/or Serverless Backend Evidence
 
 <img src="../assets/img/chapter-V/web-service1.png"> 
 <img src="../assets/img/chapter-V/web-service2.png"> 
@@ -780,7 +816,7 @@ Demo: [Link de Stream](https://upcedupe-my.sharepoint.com/personal/u202118315_up
 
 Web services desplegados: https://restyle-web-services-cyf0axfvakcxaehd.brazilsouth-01.azurewebsites.net/swagger-ui/index.html
 
-### 5.2.6. RESTful API documentation
+### 5.2.7. RESTful API documentation
 
 <table> 
   <tr> 
@@ -894,7 +930,7 @@ Web services desplegados: https://restyle-web-services-cyf0axfvakcxaehd.brazilso
   </tr> 
 </table>
 
-### 5.2.7. Team Collaboration Insights
+### 5.2.8. Team Collaboration Insights
 
 En esta entrega, nuestra meta principal fue la implementación y despliegue de las soluciones de software. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm y otros. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo:
 
