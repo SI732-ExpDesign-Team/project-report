@@ -48,6 +48,7 @@
 | 2.3    | 10/05/2025 | Ely Cortez                                                                      | Se terminó la redacción del capítulo 6 |
 | 2.4    | 10/06/2025 | Alejandra Díaz                                                                      | Se terminó la redacción del capítulo 7 |
 | 2.5    | 16/06/2025 | Stefano Valenzuela                                                                     | Se terminó la redacción del capítulo 8  |
+| 2.6    | 08/07/2025 | Alejandra Díaz                                                                     | Se terminó la redacción del informe  |
 
 ### Project Report Collaboration Insights
 
@@ -429,6 +430,8 @@ Se divieron las siguientes ramas para la colaboración en el proyecto:
         Para el TP, al desarrollar el Capítulo VII sobre DevOps Practices, apliqué principios éticos y profesionales al diseñar e implementar pipelines de CI/CD que garantizaran la calidad y seguridad del código en producción. Implementé reglas de protección de ramas en GitHub que aseguraron revisiones de código obligatorias antes de cualquier despliegue, evitando cambios no autorizados que pudieran comprometer la seguridad o funcionalidad del sistema.<br>
         <b>Díaz Villacrez, María Alejandra TB2:</b> 
         Para el TB2, al desarrollar el Capítulo VII sobre DevOps Practices, se aplicó principios éticos y profesionales para diseñar e implementar pipelines de CI/CD. Se encargó de establecer reglas de protección en GitHub que exigían revisiones de código obligatorias, evitando cambios no autorizados que pudieran comprometer la seguridad y funcionalidad del sistema.
+        <b>Díaz Villacrez, María Alejandra TF1:</b> 
+        Para el TF, al desarrollar el Capítulo VIII, el video sobre To-Be Software Platform Pre-launch, se aplicaron mejoras para diseñar e implementar las funcionalidades recomendadas por los entrevistados. Me encarge de recolectar las respuestas mediante un formulario y validar su relevancia con nuestro software.
         </td>
         <td rowspan="6"> 
          <b>-</b><br>
@@ -510,6 +513,8 @@ Se divieron las siguientes ramas para la colaboración en el proyecto:
          Para el TP, al desarrollar el capítulo completo de DevOps Practices, emití juicios informados sobre el impacto de nuestras prácticas de CI/CD en múltiples niveles. Analicé y seleccioné herramientas y servicios cloud (GitHub Actions, Azure App Service).<br>
         <b>Díaz Villacrez, María Alejandra TB2:</b> 
         Para el TB2, en el desarrollo del capítulo de DevOps Practices, se analizó y seleccionó herramientas y servicios cloud (como GitHub Actions y Azure App Service) evaluando de manera crítica el impacto de las prácticas de CI/CD en diversos niveles. Esta iniciativa se basó en un enfoque ético y sostenible, asegurando que la solución adoptada generara beneficios tanto técnicos como en términos de impacto global.
+        <b>Díaz Villacrez, María Alejandra TF1:</b> 
+        Para el TF, al desarrollar el Capítulo VIII, el video sobre To-Be Software Platform Pre-launch, se aplicaron mejoras para diseñar e implementar las funcionalidades recomendadas por los entrevistados. Me encarge de recolectar las respuestas mediante un formulario y validar su relevancia con nuestro software.
         </td>
         <td rowspan="6"> 
          <b>-</b><br>
