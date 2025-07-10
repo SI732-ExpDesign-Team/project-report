@@ -906,4 +906,26 @@ Terrel, E. (2023). Cinco razones por las que los peruanos eligen remodelar su vi
     <td>Enlace: <a href="https://shorturl.at/2CK4c">https://shorturl.at/2CK4c</a>
     <br>Captura:<br> <img src="../assets/img/chapter-VIII/about-the-product-to-be.png" alt="" width=200px></td>
   </tr>
+    <!--4ta FILA-->
+    <tr>
+    <td>About-The-Team</td>
+    <td>Cantidad de videos: 1<br>
+      Nomenclatura: upc-pre-202501-1asi0732-4430-estrellados-about-the-team<br>
+      Formato: .mp4<br>
+      Duración: </td>
+    <td>Consolida el video About-The-Team</td>
+    <td>Enlace: <a href="https://shorturl.at/cY0iG">https://shorturl.at/cY0iG</a>
+    <br>Captura:<br> <img src="../assets/img/chapter-VIII/about-the-team.png" alt="" width=200px></td>
+  </tr>
+    <!--5ta FILA-->
+    <tr>
+    <td>Expo TF</td>
+    <td>Cantidad de videos: 1<br>
+      Nomenclatura: upc-pre-202501-1asi0732-4430-estrellados-expo-tf<br>
+      Formato: .mp4<br>
+      Duración: </td>
+    <td>Consolida la exposicion del TF</td>
+    <td>Enlace: <a href="https://shorturl.at/dz9ht">https://shorturl.at/dz9ht</a>
+    <br>Captura:<br> <img src="../assets/img/chapter-VIII/tf.png" alt="" width=200px></td>
+  </tr>
 </table>

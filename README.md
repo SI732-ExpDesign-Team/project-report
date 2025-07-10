@@ -66,7 +66,6 @@ Github Collaboration Insights proporciona un cronograma que muestra las principa
 Se divieron las siguientes ramas para la colaboración en el proyecto:
 
 - main
-- quality
 - develop
 
 ## Contenido 
